@@ -12,3 +12,6 @@
      2.歌曲爬取 CrawlSongTag.py
 
 #**文件说明**：1.CrawlSongTag.py&CrawlSongTag.py为爬取文件 2.风格、热门、心情分别为爬取到的歌单列表  3.SongTag.txt为爬取到的标签
+
+#**图片展示**  
+##![爬取的标签](https://github.com/shuchangFrances/python-/blob/master/%E6%88%AA%E5%9B%BE%E5%B1%95%E7%A4%BA/%E6%A0%87%E7%AD%BE.png)
