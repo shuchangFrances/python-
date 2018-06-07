@@ -1,0 +1,5 @@
+1;佛教音乐;罗状元醒世歌;http://music.baidu.com/song/69524584
+2;佛教音乐;偈语;http://music.baidu.com/song/69524508
+3;佛教音乐;劝早修行歌;http://music.baidu.com/song/69524376
+4;佛教音乐;劝世佛歌;http://music.baidu.com/song/69524299
+5;佛教音乐;观音灵感歌;http://music.baidu.com/song/69524192

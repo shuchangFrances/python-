@@ -1,0 +1,162 @@
+热门:
+	新歌;/tag/%E6%96%B0%E6%AD%8C
+	热歌;/tag/%E7%83%AD%E6%AD%8C
+	中国好声音;/tag/%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3
+	经典老歌;/tag/%E7%BB%8F%E5%85%B8%E8%80%81%E6%AD%8C
+	电视剧;/tag/%E7%94%B5%E8%A7%86%E5%89%A7
+	广场舞;/tag/%E5%B9%BF%E5%9C%BA%E8%88%9E
+	欧美;/tag/%E6%AC%A7%E7%BE%8E
+	轻音乐;/tag/%E8%BD%BB%E9%9F%B3%E4%B9%90
+	DJ 舞曲;/tag/DJ%20%E8%88%9E%E6%9B%B2
+	80后;/tag/80%E5%90%8E
+	网络歌曲;/tag/%E7%BD%91%E7%BB%9C%E6%AD%8C%E6%9B%B2
+	劲爆;/tag/%E5%8A%B2%E7%88%86
+	儿歌;/tag/%E5%84%BF%E6%AD%8C
+	纯音乐;/tag/%E7%BA%AF%E9%9F%B3%E4%B9%90
+	粤语;/tag/%E7%B2%A4%E8%AF%AD
+	民歌;/tag/%E6%B0%91%E6%AD%8C
+	钢琴曲;/tag/%E9%92%A2%E7%90%B4%E6%9B%B2
+	萨克斯;/tag/%E8%90%A8%E5%85%8B%E6%96%AF
+	古典音乐;/tag/%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90
+	对唱;/tag/%E5%AF%B9%E5%94%B1
+	佛教音乐;/tag/%E4%BD%9B%E6%95%99%E9%9F%B3%E4%B9%90
+	成名曲;/tag/%E6%88%90%E5%90%8D%E6%9B%B2
+	草原歌曲;/tag/%E8%8D%89%E5%8E%9F%E6%AD%8C%E6%9B%B2
+心情:
+	伤感;/tag/%E4%BC%A4%E6%84%9F
+	激情;/tag/%E6%BF%80%E6%83%85
+	安静;/tag/%E5%AE%89%E9%9D%99
+	舒服;/tag/%E8%88%92%E6%9C%8D
+	甜蜜;/tag/%E7%94%9C%E8%9C%9C
+	励志;/tag/%E5%8A%B1%E5%BF%97
+	寂寞;/tag/%E5%AF%82%E5%AF%9E
+	想念;/tag/%E6%83%B3%E5%BF%B5
+	浪漫;/tag/%E6%B5%AA%E6%BC%AB
+	怀念;/tag/%E6%80%80%E5%BF%B5
+	喜悦;/tag/%E5%96%9C%E6%82%A6
+	深情;/tag/%E6%B7%B1%E6%83%85
+	美好;/tag/%E7%BE%8E%E5%A5%BD
+	怀旧;/tag/%E6%80%80%E6%97%A7
+	轻松;/tag/%E8%BD%BB%E6%9D%BE
+风格:
+	小清新;/tag/%E5%B0%8F%E6%B8%85%E6%96%B0
+	DJ 舞曲;/tag/DJ%20%E8%88%9E%E6%9B%B2
+	纯净;/tag/%E7%BA%AF%E5%87%80
+	唯美;/tag/%E5%94%AF%E7%BE%8E
+	轻音乐;/tag/%E8%BD%BB%E9%9F%B3%E4%B9%90
+	舒缓;/tag/%E8%88%92%E7%BC%93
+	劲爆;/tag/%E5%8A%B2%E7%88%86
+	慢摇;/tag/%E6%85%A2%E6%91%87
+	民歌;/tag/%E6%B0%91%E6%AD%8C
+	青春;/tag/%E9%9D%92%E6%98%A5
+	好听;/tag/%E5%A5%BD%E5%90%AC
+	交响乐;/tag/%E4%BA%A4%E5%93%8D%E4%B9%90
+乐播:
+	笑话段子;http://lebo.baidu.com/tag/%E7%AC%91%E8%AF%9D%E6%AE%B5%E5%AD%90
+	相声曲艺;http://lebo.baidu.com/tag/%E7%9B%B8%E5%A3%B0%E6%9B%B2%E8%89%BA
+	脱口秀;http://lebo.baidu.com/tag/%E8%84%B1%E5%8F%A3%E7%A7%80
+	母婴儿童;http://lebo.baidu.com/tag/%E6%AF%8D%E5%A9%B4%E5%84%BF%E7%AB%A5
+	小说读物;http://lebo.baidu.com/tag/%E5%B0%8F%E8%AF%B4%E8%AF%BB%E7%89%A9
+	综艺娱乐;http://lebo.baidu.com/tag/%E7%BB%BC%E8%89%BA%E5%A8%B1%E4%B9%90
+	都市情感;http://lebo.baidu.com/tag/%E9%83%BD%E5%B8%82%E6%83%85%E6%84%9F
+	商业财经;http://lebo.baidu.com/tag/%E5%95%86%E4%B8%9A%E8%B4%A2%E7%BB%8F
+	教育;http://lebo.baidu.com/tag/%E6%95%99%E8%82%B2
+	健康;http://lebo.baidu.com/tag/%E5%81%A5%E5%BA%B7
+	新闻时事;http://lebo.baidu.com/tag/%E6%96%B0%E9%97%BB%E6%97%B6%E4%BA%8B
+	科技;http://lebo.baidu.com/tag/%E7%A7%91%E6%8A%80
+	生活;http://lebo.baidu.com/tag/%E7%94%9F%E6%B4%BB
+	社会文化;http://lebo.baidu.com/tag/%E7%A4%BE%E4%BC%9A%E6%96%87%E5%8C%96
+	英语播客;http://lebo.baidu.com/tag/%E8%8B%B1%E8%AF%AD%E6%92%AD%E5%AE%A2
+主题:
+	成名曲;/tag/%E6%88%90%E5%90%8D%E6%9B%B2
+	胎教;/tag/%E8%83%8E%E6%95%99
+	武侠;/tag/%E6%AD%A6%E4%BE%A0
+	情歌;/tag/%E6%83%85%E6%AD%8C
+	军旅歌曲;/tag/%E5%86%9B%E6%97%85%E6%AD%8C%E6%9B%B2
+	红歌;/tag/%E7%BA%A2%E6%AD%8C
+	古风;/tag/%E5%8F%A4%E9%A3%8E
+	流金岁月;/tag/%E6%B5%81%E9%87%91%E5%B2%81%E6%9C%88
+	网络歌曲;/tag/%E7%BD%91%E7%BB%9C%E6%AD%8C%E6%9B%B2
+	儿歌;/tag/%E5%84%BF%E6%AD%8C
+	中国风;/tag/%E4%B8%AD%E5%9B%BD%E9%A3%8E
+	英文儿歌;/tag/%E8%8B%B1%E6%96%87%E5%84%BF%E6%AD%8C
+	格莱美;/tag/%E6%A0%BC%E8%8E%B1%E7%BE%8E
+年代:
+	经典老歌;/tag/%E7%BB%8F%E5%85%B8%E8%80%81%E6%AD%8C
+	欧美经典;/tag/%E6%AC%A7%E7%BE%8E%E7%BB%8F%E5%85%B8
+	60年代;/tag/60%E5%B9%B4%E4%BB%A3
+	70年代;/tag/70%E5%B9%B4%E4%BB%A3
+	90年代;/tag/90%E5%B9%B4%E4%BB%A3
+	70后;/tag/70%E5%90%8E
+	80后;/tag/80%E5%90%8E
+	90后;/tag/90%E5%90%8E
+	儿歌;/tag/%E5%84%BF%E6%AD%8C
+乐器:
+	钢琴曲;/tag/%E9%92%A2%E7%90%B4%E6%9B%B2
+	古筝;/tag/%E5%8F%A4%E7%AD%9D
+	萨克斯;/tag/%E8%90%A8%E5%85%8B%E6%96%AF
+	二胡;/tag/%E4%BA%8C%E8%83%A1
+	葫芦丝;/tag/%E8%91%AB%E8%8A%A6%E4%B8%9D
+	纯音乐;/tag/%E7%BA%AF%E9%9F%B3%E4%B9%90
+	小提琴;/tag/%E5%B0%8F%E6%8F%90%E7%90%B4
+	管弦乐;/tag/%E7%AE%A1%E5%BC%A6%E4%B9%90
+	吉他;/tag/%E5%90%89%E4%BB%96
+	竖琴;/tag/%E7%AB%96%E7%90%B4
+	长笛;/tag/%E9%95%BF%E7%AC%9B
+	口琴;/tag/%E5%8F%A3%E7%90%B4
+语言&地域:
+	欧美;/tag/%E6%AC%A7%E7%BE%8E
+	欧美经典;/tag/%E6%AC%A7%E7%BE%8E%E7%BB%8F%E5%85%B8
+	国语;/tag/%E5%9B%BD%E8%AF%AD
+	韩语;/tag/%E9%9F%A9%E8%AF%AD
+	粤语;/tag/%E7%B2%A4%E8%AF%AD
+	闽南语;/tag/%E9%97%BD%E5%8D%97%E8%AF%AD
+	日语;/tag/%E6%97%A5%E8%AF%AD
+	印度;/tag/%E5%8D%B0%E5%BA%A6
+	法语;/tag/%E6%B3%95%E8%AF%AD
+	拉丁;/tag/%E6%8B%89%E4%B8%81
+	阿拉伯语;/tag/%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD
+	东南亚;/tag/%E4%B8%9C%E5%8D%97%E4%BA%9A
+	草原歌曲;/tag/%E8%8D%89%E5%8E%9F%E6%AD%8C%E6%9B%B2
+场景:
+	广场舞;/tag/%E5%B9%BF%E5%9C%BA%E8%88%9E
+	校园;/tag/%E6%A0%A1%E5%9B%AD
+	旅行;/tag/%E6%97%85%E8%A1%8C
+	背景音乐;/tag/%E8%83%8C%E6%99%AF%E9%9F%B3%E4%B9%90
+	午后;/tag/%E5%8D%88%E5%90%8E
+	酒吧;/tag/%E9%85%92%E5%90%A7
+	咖啡厅;/tag/%E5%92%96%E5%95%A1%E5%8E%85
+	婚礼;/tag/%E5%A9%9A%E7%A4%BC
+	汽车;/tag/%E6%B1%BD%E8%BD%A6
+流派:
+	摇滚;/tag/%E6%91%87%E6%BB%9A
+	古典音乐;/tag/%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90
+	节奏布鲁斯;/tag/%E8%8A%82%E5%A5%8F%E5%B8%83%E9%B2%81%E6%96%AF
+	乡村;/tag/%E4%B9%A1%E6%9D%91
+	民谣;/tag/%E6%B0%91%E8%B0%A3
+	电子;/tag/%E7%94%B5%E5%AD%90
+	爵士;/tag/%E7%88%B5%E5%A3%AB
+	流行;/tag/%E6%B5%81%E8%A1%8C
+	布鲁斯;/tag/%E5%B8%83%E9%B2%81%E6%96%AF
+	世界音乐;/tag/%E4%B8%96%E7%95%8C%E9%9F%B3%E4%B9%90
+	新世纪;/tag/%E6%96%B0%E4%B8%96%E7%BA%AA
+	雷鬼;/tag/%E9%9B%B7%E9%AC%BC
+	金属;/tag/%E9%87%91%E5%B1%9E
+影视节目:
+	日本动漫;/tag/%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB
+	动漫;/tag/%E5%8A%A8%E6%BC%AB
+	电影;/tag/%E7%94%B5%E5%BD%B1
+	电视剧;/tag/%E7%94%B5%E8%A7%86%E5%89%A7
+	中国好歌曲;/tag/%E4%B8%AD%E5%9B%BD%E5%A5%BD%E6%AD%8C%E6%9B%B2
+	星光大道;/tag/%E6%98%9F%E5%85%89%E5%A4%A7%E9%81%93
+戏曲:
+	京剧;/tag/%E4%BA%AC%E5%89%A7
+人声:
+	男高音;/tag/%E7%94%B7%E9%AB%98%E9%9F%B3
+	女声;/tag/%E5%A5%B3%E5%A3%B0
+	童声;/tag/%E7%AB%A5%E5%A3%B0
+	天籁;/tag/%E5%A4%A9%E7%B1%81
+	空灵;/tag/%E7%A9%BA%E7%81%B5
+	对唱;/tag/%E5%AF%B9%E5%94%B1
+	小鲜肉;/tag/%E5%B0%8F%E9%B2%9C%E8%82%89
+	天籁童声;/tag/%E5%A4%A9%E7%B1%81%E7%AB%A5%E5%A3%B0

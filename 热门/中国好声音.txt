@@ -1,0 +1,57 @@
+1;中国好声音学员;梦想天空分外蓝;http://music.baidu.com/song/27859464
+2;关喆;领悟;http://music.baidu.com/song/27857394
+3;中国好声音学员;年轻的战场;http://music.baidu.com/song/27857151
+4;张惠妹;我最亲爱的;http://music.baidu.com/song/27857142
+5;吴莫愁;一个人生活;http://music.baidu.com/song/27857134
+6;金志文,杨坤;兄弟;http://music.baidu.com/song/27857130
+7;金志文;我想大声告诉你;http://music.baidu.com/song/27857123
+8;梁博;我爱你中国;http://music.baidu.com/song/27857119
+9;吉克隽逸,刘欢;天地在我心;http://music.baidu.com/song/27857112
+10;吴莫愁,庾澄庆;让我一次爱个够;http://music.baidu.com/song/27857107
+11;吉克隽逸;情深意长;http://music.baidu.com/song/27857100
+12;吴莫愁;流星雨;http://music.baidu.com/song/27857095
+13;梁博;回来;http://music.baidu.com/song/27857088
+14;吴莫愁;改变自己;http://music.baidu.com/song/27857080
+15;梁博,那英;爱要有你才完美;http://music.baidu.com/song/27857076
+16;杨坤;无所谓;http://music.baidu.com/song/27857054
+17;庾澄庆;热情的沙漠;http://music.baidu.com/song/27857045
+18;吉克隽逸;不要怕;http://music.baidu.com/song/27857034
+19;金池,熊天平;夜夜夜夜;http://music.baidu.com/song/27857009
+20;多亮,周笔畅;小情歌;http://music.baidu.com/song/27857003
+21;平安,黄英;我爱你中国;http://music.baidu.com/song/27856999
+22;李代沫;如果没有你;http://music.baidu.com/song/27856988
+23;权振东,张靓颖;亲爱的小孩;http://music.baidu.com/song/27856965
+24;张赫宣,黄大炜;你把我灌醉;http://music.baidu.com/song/27856959
+25;刘悦,曹格;寂寞先生;http://music.baidu.com/song/27856955
+26;魏语诺,林志炫;花房姑娘;http://music.baidu.com/song/27856952
+27;张玮,Adam Lambert;Whataya Want From Me;http://music.baidu.com/song/27856938
+28;Adam Lambert;Trespassing;http://music.baidu.com/song/27856925
+29;郑虹,胡彦斌;Someone Like You;http://music.baidu.com/song/27856900
+30;张玮,黄龄;High歌;http://music.baidu.com/song/27856895
+31;平安;我爱你中国;http://music.baidu.com/song/27854865
+32;关喆;想你的夜;http://music.baidu.com/song/27854858
+33;赵露;我是一只小小鸟;http://music.baidu.com/song/27854833
+34;黄鹤,侯祖辛;Domino;http://music.baidu.com/song/27854826
+35;张赫宣;你把我灌醉;http://music.baidu.com/song/27854812
+36;王乃恩;Listen;http://music.baidu.com/song/27854805
+37;大山;千年之恋;http://music.baidu.com/song/27854798
+38;金池,魏语诺;对你爱不完;http://music.baidu.com/song/27854783
+39;郑虹;Someone like you;http://music.baidu.com/song/27854776
+40;李维真;在那遥远的地方;http://music.baidu.com/song/27854769
+41;丁丁;爱要坦荡荡;http://music.baidu.com/song/27854762
+42;丁丁,黄一;Baby;http://music.baidu.com/song/27854755
+43;佳宁组合,权振东;冬天来了;http://music.baidu.com/song/27854747
+44;多亮;小情歌;http://music.baidu.com/song/27854739
+45;黄鹤;Rolling in the deep;http://music.baidu.com/song/27854731
+46;中国好声音学员;我相信;http://music.baidu.com/song/27854722
+47;张玉霞;独上西楼;http://music.baidu.com/song/23149324
+48;赵露;我是一只小小鸟;http://music.baidu.com/song/23149313
+49;邹宏宇;What A Wonderful World;http://music.baidu.com/song/23149306
+50;李维真;在那遥远的地方;http://music.baidu.com/song/23149300
+51;李代沫;我的歌声里;http://music.baidu.com/song/23149293
+52;徐海星;自己;http://music.baidu.com/song/23149287
+53;张玮;High歌;http://music.baidu.com/song/23149277
+54;邓川;想你的夜;http://music.baidu.com/song/23149275
+55;黄勇;春天里;http://music.baidu.com/song/23149261
+56;黄鹤;Rolling In The Deep;http://music.baidu.com/song/23149237
+57;刘欢;千万次的问;http://music.baidu.com/song/27857058

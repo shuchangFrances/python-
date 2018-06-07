@@ -1,0 +1,249 @@
+1;Shania Twain;Any Man Of Mine;http://music.baidu.com/song/440614
+2;林子祥;男儿当自强;http://music.baidu.com/song/7336700
+3;Beyond;不再犹豫;http://music.baidu.com/song/1523558
+4;那英;白天不懂夜的黑;http://music.baidu.com/song/7317683
+5;眉佳;燕衔泥;http://music.baidu.com/song/14387453
+6;刘斌;咱当兵的人;http://music.baidu.com/song/1036735
+7;甘仕良,Blue Sky;至少还有你;http://music.baidu.com/song/7316911
+8;Eagles;Love Will Keep Us Alive;http://music.baidu.com/song/2164160
+9;张学友;慢慢;http://music.baidu.com/song/221418
+10;张学友;想和你去吹吹风;http://music.baidu.com/song/492246
+11;张学友;每天爱你多一些;http://music.baidu.com/song/1584124
+12;宋祖英;十送红军;http://music.baidu.com/song/14566117
+13;郭峰,陈洁仪;心会跟爱一起走;http://music.baidu.com/song/1458418
+14;蔡琴;往事只能回味;http://music.baidu.com/song/7332038
+15;齐秦;月亮代表我的心;http://music.baidu.com/song/1230970
+16;莫文蔚;电台情歌;http://music.baidu.com/song/13902446
+17;莫文蔚;盛夏的果实;http://music.baidu.com/song/13902484
+18;张学友;一千个伤心的理由;http://music.baidu.com/song/302996
+19;张学友;爱如潮水;http://music.baidu.com/song/7320396
+20;齐秦;一场游戏一场梦;http://music.baidu.com/song/1183201
+21;邓丽君;雪中情;http://music.baidu.com/song/296205
+22;张学友,汤宝如;相思风雨中;http://music.baidu.com/song/7317902
+23;欧阳菲菲;感恩的心;http://music.baidu.com/song/7331713
+24;张国荣;倩女幽魂;http://music.baidu.com/song/13125209
+25;张学友;秋意浓;http://music.baidu.com/song/253833
+26;庾澄庆;让我一次爱个够;http://music.baidu.com/song/7317568
+27;李春波;小芳;http://music.baidu.com/song/15122721
+28;郑钧;回到拉萨;http://music.baidu.com/song/288867
+29;李娜;好人一生平安;http://music.baidu.com/song/1967722
+30;陈百强;一生何求;http://music.baidu.com/song/7320539
+31;费玉清;南屏晚钟;http://music.baidu.com/song/236348
+32;宋祖英;洪湖水浪打浪;http://music.baidu.com/song/2092149
+33;许美静;阳光总在风雨后;http://music.baidu.com/song/213508
+34;Beyond;光辉岁月;http://music.baidu.com/song/7338336
+35;齐秦;无情的雨无情的你;http://music.baidu.com/song/1183139
+36;郑钧;灰姑娘;http://music.baidu.com/song/276766
+37;Beyond;喜欢你;http://music.baidu.com/song/7313983
+38;Carpenters;Yesterday Once More - 1991 Remix;http://music.baidu.com/song/2158779
+39;刘德华;谢谢你的爱;http://music.baidu.com/song/7334229
+40;王菲;容易受伤的女人;http://music.baidu.com/song/307171
+41;王菲;天空;http://music.baidu.com/song/230637
+42;王菲;棋子;http://music.baidu.com/song/292238
+43;张学友;一路上有你;http://music.baidu.com/song/620023
+44;Carpenters;Yesterday Once More;http://music.baidu.com/song/8517151
+45;许茹芸;如果云知道;http://music.baidu.com/song/648618
+46;张学友;祝福;http://music.baidu.com/song/492083
+47;许茹芸;独角戏;http://music.baidu.com/song/490468
+48;老狼;恋恋风尘;http://music.baidu.com/song/963292
+49;甘仕良,Blue Sky;天黑黑;http://music.baidu.com/song/7316917
+50;许巍;故乡;http://music.baidu.com/song/233212
+51;阿杜;他一定很爱你;http://music.baidu.com/song/352989
+52;张学友;你好毒;http://music.baidu.com/song/815946
+53;Emilia;Big Big World;http://music.baidu.com/song/10315816
+54;黎明;今夜你会不会来;http://music.baidu.com/song/7317554
+55;费玉清;我在你左右;http://music.baidu.com/song/1165429
+56;齐秦;不让我的眼泪陪我过夜;http://music.baidu.com/song/294292
+57;巫启贤;太傻;http://music.baidu.com/song/2596686
+58;谭咏麟;朋友;http://music.baidu.com/song/935791
+59;齐秦;往事随风;http://music.baidu.com/song/1175705
+60;蔡琴;你的眼神;http://music.baidu.com/song/7313915
+61;邝美云;堆积情感;http://music.baidu.com/song/7353284
+62;高枫;大中国;http://music.baidu.com/song/2057596
+63;杨坤;无所谓;http://music.baidu.com/song/292712
+64;许慧欣;七月七日晴;http://music.baidu.com/song/7328681
+65;邓丽君;在水一方;http://music.baidu.com/song/1009000
+66;王菲;但愿人长久;http://music.baidu.com/song/1044213
+67;叶丽仪;上海滩;http://music.baidu.com/song/2735413
+68;Beyond;真的爱你;http://music.baidu.com/song/1136891
+69;童安格;其实你不懂我的心;http://music.baidu.com/song/453793
+70;Glenn Frey;The One You Love;http://music.baidu.com/song/14827943
+71;刘嘉玲,张信哲;有一点动心;http://music.baidu.com/song/7338916
+72;王菲;我愿意;http://music.baidu.com/song/7317488
+73;许冠杰;沧海一声笑;http://music.baidu.com/song/2096466
+74;陈慧琳;记事本;http://music.baidu.com/song/1129462
+75;陈百强;偏偏喜欢你;http://music.baidu.com/song/7320512
+76;宋祖英;九九艳阳天;http://music.baidu.com/song/14645648
+77;许巍;那一年;http://music.baidu.com/song/247696
+78;王馨平;别问我是谁;http://music.baidu.com/song/7317535
+79;莫文蔚;阴天;http://music.baidu.com/song/13902577
+80;杨钰莹;轻轻地告诉你;http://music.baidu.com/song/2121687
+81;裘海正;爱我的人和我爱的人;http://music.baidu.com/song/7317587
+82;齐秦;夜夜夜夜;http://music.baidu.com/song/474948
+83;许茹芸;泪海;http://music.baidu.com/song/261900
+84;S Club 7;Never Had A Dream Come True;http://music.baidu.com/song/2208938
+85;黄格选;伤心是一种说不出的痛;http://music.baidu.com/song/218452
+86;蔡琴;明月千里寄相思;http://music.baidu.com/song/479520
+87;范晓萱;雪人;http://music.baidu.com/song/7317533
+88;Alison Krauss;When You Say Nothing At All;http://music.baidu.com/song/7391230
+89;The Righteous Brothers;Unchained Melody;http://music.baidu.com/song/2221953
+90;Hayley Westenra;Amazing Grace;http://music.baidu.com/song/8150894
+91;张国荣;沉默是金;http://music.baidu.com/song/7335645
+92;郑伊健;友情岁月;http://music.baidu.com/song/7344248
+93;许美静;都是夜归人;http://music.baidu.com/song/278545
+94;许美静;城里的月光;http://music.baidu.com/song/7317494
+95;蔡国庆;三百六十五个祝福;http://music.baidu.com/song/5961362
+96;宋祖英;远方的客人请你留下来;http://music.baidu.com/song/14647279
+97;Bryan Adams;(Everything I Do) I Do It For You;http://music.baidu.com/song/1172723
+98;宋祖英;蝴蝶泉边;http://music.baidu.com/song/14648318
+99;许美静;遗憾;http://music.baidu.com/song/288088
+100;周慧敏;痴心换情深;http://music.baidu.com/song/282982
+101;胡兵,希莉娜依;归去来;http://music.baidu.com/song/2486093
+102;甘仕良,Blue Sky;花样年华;http://music.baidu.com/song/7316941
+103;孙楠;不见不散;http://music.baidu.com/song/1522960
+104;刘紫玲;真的好想你;http://music.baidu.com/song/424192
+105;老狼;只有你陪我一起唱歌;http://music.baidu.com/song/8248175
+106;陈琳;你的柔情我永远不懂;http://music.baidu.com/song/387013
+107;冯晓泉;冰糖葫芦;http://music.baidu.com/song/12323639
+108;阿宝;绣荷包;http://music.baidu.com/song/338053
+109;小蓓蕾组合;粉刷匠;http://music.baidu.com/song/10494344
+110;许茹芸;你的眼睛;http://music.baidu.com/song/14431076
+111;齐秦;外面的世界;http://music.baidu.com/song/2087773
+112;Dominic Miller,Sting;Shape Of My Heart;http://music.baidu.com/song/50131684
+113;Carpenters;Jingle Bells;http://music.baidu.com/song/7553214
+114;Sissel;Should It Matter;http://music.baidu.com/song/2213002
+115;Guns N' Roses;November Rain;http://music.baidu.com/song/8016098
+116;甘仕良,Blue Sky;花火;http://music.baidu.com/song/7316947
+117;Carpenters;Top Of The World - 1973 Remix;http://music.baidu.com/song/2158774
+118;Guns N' Roses;Knockin' On Heaven'S Door;http://music.baidu.com/song/7926552
+119;谭咏麟;爱在深秋;http://music.baidu.com/song/643517
+120;Beyond;大地;http://music.baidu.com/song/7337884
+121;甘仕良,Blue Sky;好心分手;http://music.baidu.com/song/7316908
+122;Queen;We Will Rock You;http://music.baidu.com/song/20436443
+123;叶蓓;B小调雨后;http://music.baidu.com/song/807168
+124;The Police;Every Breath You Take;http://music.baidu.com/song/1228205
+125;Sarah Brightman;Memory;http://music.baidu.com/song/7338098
+126;许志安;为什么你背着我爱别人;http://music.baidu.com/song/7315209
+127;齐秦;我愿意;http://music.baidu.com/song/1404791
+128;郁钧剑;五百年桑田沧海;http://music.baidu.com/song/14377672
+129;陈晓东;比我幸福;http://music.baidu.com/song/845106
+130;黄格选;春水流;http://music.baidu.com/song/222509
+131;胡晓晴;大宅门;http://music.baidu.com/song/2001660
+132;张学友;微尘;http://music.baidu.com/song/248295
+133;杨千嬅;野孩子;http://music.baidu.com/song/399170
+134;刘雅丽;我和春天有个约会;http://music.baidu.com/song/2665433
+135;罗中旭;星光灿烂;http://music.baidu.com/song/5964521
+136;张学友;红叶舞秋山;http://music.baidu.com/song/963768
+137;蔡琴;恰似你的温柔;http://music.baidu.com/song/7333380
+138;Madonna;You Must Love Me;http://music.baidu.com/song/8284622
+139;张也;请茶歌;http://music.baidu.com/song/2132297
+140;Lionel Richie;Endless Love;http://music.baidu.com/song/1062572
+141;Norman Blake;You Are My Sunshine;http://music.baidu.com/song/8521438
+142;Teddy Thompson;I Don'T Want To Say Goodbye;http://music.baidu.com/song/8310835
+143;蓝心湄;一见钟情;http://music.baidu.com/song/1397986
+144;许茹芸;猫与钢琴;http://music.baidu.com/song/14430623
+145;朱逢博;那就是我;http://music.baidu.com/song/14343742
+146;黄凯芹;伤感的恋人;http://music.baidu.com/song/7345429
+147;许茹芸;永不结束的故事;http://music.baidu.com/song/14431890
+148;陈慧琳;记事本(Remix);http://music.baidu.com/song/1255423
+149;邓丽君;但愿人长久 (词牌:水调歌头);http://music.baidu.com/song/7323820
+150;邓丽君;浪子心声;http://music.baidu.com/song/296166
+151;Dana Glover;It Is You (I Have Loved);http://music.baidu.com/song/8523368
+152;邓丽君;独上西楼 (词牌:相见欢);http://music.baidu.com/song/7326972
+153;赵传;爱要怎么说出口;http://music.baidu.com/song/807331
+154;Sarah Brightman,Steve Harley;The Phantom Of The Opera;http://music.baidu.com/song/10316178
+155;Bryan Adams;Here I Am;http://music.baidu.com/song/86753186
+156;Abba;Dancing Queen;http://music.baidu.com/song/1762868
+157;Aqua;Barbie Girl;http://music.baidu.com/song/8273056
+158;Limp Bizkit;Behind Blue Eyes;http://music.baidu.com/song/8551045
+159;Sarah Brightman,Andrea Bocelli;Time To Say Goodbye (Con Te Partiro);http://music.baidu.com/song/2946388
+160;张国荣;梦里蓝天;http://music.baidu.com/song/7338643
+161;赵传;星星知我心;http://music.baidu.com/song/558440
+162;许茹芸;承担;http://music.baidu.com/song/14432067
+163;范晓萱;你的甜蜜;http://music.baidu.com/song/7317489
+164;邓丽君;相思泪;http://music.baidu.com/song/294207
+165;叶凡;相思;http://music.baidu.com/song/216080
+166;Engelbert humperdinck;The Last Waltz;http://music.baidu.com/song/7659575
+167;欧阳菲菲;吻到心伤透;http://music.baidu.com/song/7323140
+168;Stevie Wonder;I Just Called To Say I Love You;http://music.baidu.com/song/8517242
+169;张学友;不老的传说;http://music.baidu.com/song/7349614
+170;Vanessa Williams;Save The Best For Last;http://music.baidu.com/song/358597
+171;邓丽君;雪地上的回忆;http://music.baidu.com/song/908876
+172;陈慧娴;Dancing Boy;http://music.baidu.com/song/1131330
+173;Air Supply;All Out Of Love;http://music.baidu.com/song/9371923
+174;Anne Murray;You Needed Me;http://music.baidu.com/song/2713278
+175;王菲;执迷不悔 (国语版);http://music.baidu.com/song/7330014
+176;张学友;礼物;http://music.baidu.com/song/307150
+177;Ashlee Simpson;Catch Me When I Fall;http://music.baidu.com/song/1285822
+178;黄凯芹;雨中的恋人们;http://music.baidu.com/song/7351495
+179;张学友;暗恋你;http://music.baidu.com/song/1121032
+180;周杰伦;双截棍;http://music.baidu.com/song/466419
+181;潘越云;几度夕阳红;http://music.baidu.com/song/2087007
+182;Guns N' Roses;Civil War;http://music.baidu.com/song/7926549
+183;陈洁仪;心痛;http://music.baidu.com/song/14559396
+184;Guns N' Roses;Sweet Child O' Mine;http://music.baidu.com/song/7550674
+185;Andrea Bocelli;Time To Say Goodbye (Con Te Partiro);http://music.baidu.com/song/49977477
+186;Nirvana;Smells Like Teen Spirit;http://music.baidu.com/song/1072237
+187;许茹芸;突然想爱你;http://music.baidu.com/song/14431688
+188;Eric Clapton;Tears In Heaven;http://music.baidu.com/song/7388231
+189;黄凯芹;蝶恋花;http://music.baidu.com/song/7349479
+190;蔡琴;被遗忘的时光;http://music.baidu.com/song/1967674
+191;刘紫玲;追求;http://music.baidu.com/song/423850
+192;张学友;只有你不知道;http://music.baidu.com/song/312433
+193;陈晓东;倩女幽魂;http://music.baidu.com/song/2044748
+194;Eric Clapton;Wonderful Tonight;http://music.baidu.com/song/7388217
+195;邓丽君;往事如昨;http://music.baidu.com/song/1480272
+196;Charlene;I'Ve Never Been To Me;http://music.baidu.com/song/8765490
+197;Lionel Richie;Say You, Say Me;http://music.baidu.com/song/2185427
+198;黎明;我的真心献给你;http://music.baidu.com/song/7318651
+199;区瑞强;渔火闪闪;http://music.baidu.com/song/412053
+200;张国荣;明月夜;http://music.baidu.com/song/7354262
+201;张学友;讲你知;http://music.baidu.com/song/7320410
+202;Brian Mcknight;Back At One;http://music.baidu.com/song/7574402
+203;孙国庆;代价;http://music.baidu.com/song/265734
+204;张澜澜;贞观长歌;http://music.baidu.com/song/14403646
+205;The Cranberries;Zombie;http://music.baidu.com/song/7356325
+206;邓丽君;天外天上天无涯;http://music.baidu.com/song/908510
+207;王力宏;戒不了你;http://music.baidu.com/song/219826
+208;区瑞强;陌上归人;http://music.baidu.com/song/7348849
+209;陈晓东;心有独钟;http://music.baidu.com/song/2044750
+210;张学友;天与地;http://music.baidu.com/song/293230
+211;陈慧娴;冰点;http://music.baidu.com/song/1257171
+212;邓丽君;望一望;http://music.baidu.com/song/1458263
+213;黎明;心爱;http://music.baidu.com/song/1371116
+214;邓丽君;难忘的一天;http://music.baidu.com/song/1406729
+215;Phil Collins;Against All Odds (Take A Look At Me Now);http://music.baidu.com/song/8301867
+216;许茹芸;破晓;http://music.baidu.com/song/14430340
+217;蔡琴;缺口;http://music.baidu.com/song/2049163
+218;张学友;温馨;http://music.baidu.com/song/217683
+219;黎明;只要为我爱一天;http://music.baidu.com/song/1175857
+220;黄凯芹;伤尽我心的说话;http://music.baidu.com/song/7355633
+221;张学友;缘尽情未了;http://music.baidu.com/song/244599
+222;邓丽君;爱的使者;http://music.baidu.com/song/377924
+223;邓丽君;是你打来的电话;http://music.baidu.com/song/1480353
+224;黄凯芹;没结果的一些感情;http://music.baidu.com/song/7345359
+225;张国荣;绝不可以;http://music.baidu.com/song/840884
+226;谭咏麟;情深无怨;http://music.baidu.com/song/382741
+227;Bill Withers;Ain'T No Sunshine;http://music.baidu.com/song/7554174
+228;张学友;两难;http://music.baidu.com/song/307537
+229;邓丽君;爱的开始;http://music.baidu.com/song/1480603
+230;Aaron Neville;Somewhere Somebody;http://music.baidu.com/song/506299
+231;许志安;我不懂爱;http://music.baidu.com/song/1063424
+232;张国荣;狂野如我;http://music.baidu.com/song/7337967
+233;张学友;你来我往;http://music.baidu.com/song/958740
+234;R. Kelly;Take My Time Tonight;http://music.baidu.com/song/10277756
+235;静婷;期待;http://music.baidu.com/song/2941671
+236;The Rolling Stones;One More Try;http://music.baidu.com/song/7344667
+237;Cat Stevens;Wild World;http://music.baidu.com/song/10300293
+238;Bob Dylan;Like A Rolling Stone;http://music.baidu.com/song/314933
+239;Extreme;More Than Words;http://music.baidu.com/song/13676883
+240;张学友;欢畅;http://music.baidu.com/song/1468724
+241;Nelly Furtado;Say It Right;http://music.baidu.com/song/8556682
+242;蔡琴;把月光射下来;http://music.baidu.com/song/1162397
+243;魏如萱;IF;http://music.baidu.com/song/2494540
+244;The Ronettes;Be My Baby;http://music.baidu.com/song/8569384
+245;Boyz II Men;I'Ll Make Love To You;http://music.baidu.com/song/8054463
+246;Snow Patrol;Shut Your Eyes;http://music.baidu.com/song/2212422
+247;Snow Patrol;Make This Go On Forever;http://music.baidu.com/song/2212418
+248;Snow Patrol;Set The Fire To The Third Bar;http://music.baidu.com/song/2212409
+249;Kate Nash;Foundations;http://music.baidu.com/song/1429274

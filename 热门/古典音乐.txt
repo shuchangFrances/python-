@@ -1,0 +1,578 @@
+1;新雅室内空气乐队;小夜曲-舒伯特;http://music.baidu.com/song/120998516
+2;新雅室内空气乐队;月光曲-德彪西;http://music.baidu.com/song/120998527
+3;新雅室内空气乐队;天鹅湖-柴可夫斯基;http://music.baidu.com/song/120998450
+4;新雅室内空气乐队;绿袖子;http://music.baidu.com/song/120998314
+5;新雅室内空气乐队;沉思曲-马斯内;http://music.baidu.com/song/120998164
+6;新雅室内空气乐队;蓝色多瑙河舞曲-施特劳斯基;http://music.baidu.com/song/120998361
+7;新雅室内空气乐队;圣母颂（G弦上的咏叹调）巴赫·古诺;http://music.baidu.com/song/120998383
+8;新雅室内空气乐队;匈牙利舞曲第五号-布拉姆斯;http://music.baidu.com/song/120998461
+9;新雅室内空气乐队;摇篮曲-布拉姆斯;http://music.baidu.com/song/120998547
+10;新雅室内空气乐队;圆舞曲-柴可夫斯基;http://music.baidu.com/song/120998437
+11;新雅室内空气乐队;军队进行曲-舒伯特;http://music.baidu.com/song/120998299
+12;新雅室内空气乐队;爱的协奏曲;http://music.baidu.com/song/120998198
+13;新雅室内空气乐队;第九交响曲-贝多芬;http://music.baidu.com/song/120998319
+14;新雅室内空气乐队;爱之梦-李斯特;http://music.baidu.com/song/120998227
+15;新雅室内空气乐队;献给爱丽丝-贝多芬;http://music.baidu.com/song/120998343
+16;新雅室内空气乐队;降E大调小夜曲-肖邦;http://music.baidu.com/song/120998246
+17;新雅室内空气乐队;第一交响曲-柴可夫斯基;http://music.baidu.com/song/120998334
+18;新雅室内空气乐队;小天鹅之舞-柴可夫斯基;http://music.baidu.com/song/120998317
+19;新雅室内空气乐队;小步舞曲-莫扎特;http://music.baidu.com/song/120998372
+20;新雅室内空气乐队;进行曲-柴可夫斯基;http://music.baidu.com/song/120998206
+21;新雅室内空气乐队;歌剧《卡门》片段-比才;http://music.baidu.com/song/120998254
+22;新雅室内空气乐队;天鹅-圣桑;http://music.baidu.com/song/120998430
+23;新雅室内空气乐队;爱的喜悦-马蒂尼;http://music.baidu.com/song/120998176
+24;新雅室内空气乐队;少女的祈祷-马达尔切夫卡;http://music.baidu.com/song/120998439
+25;新雅室内空气乐队;土尔其进行曲-莫扎特;http://music.baidu.com/song/120998265
+26;新雅室内空气乐队;别离曲-肖邦;http://music.baidu.com/song/120998269
+27;新雅室内空气乐队;帕格尼尼主题狂想曲-赫玛尼诺夫;http://music.baidu.com/song/120998397
+28;新雅室内空气乐队;幻想曲-舒曼;http://music.baidu.com/song/120998182
+29;新雅室内空气乐队;悲怆奏鸣曲-贝多芬;http://music.baidu.com/song/120998256
+30;新雅室内空气乐队;流浪者之歌-萨拉萨蒂;http://music.baidu.com/song/120998250
+31;新雅室内空气乐队;波尔卡舞曲-施特劳斯;http://music.baidu.com/song/120998158
+32;新雅室内空气乐队;天鹅湖-柴可夫斯基;http://music.baidu.com/song/120998276
+33;新雅室内空气乐队;小夜曲-选自第17弦乐四重奏-海顿;http://music.baidu.com/song/120998435
+34;新雅室内空气乐队;维也纳森林的故事-施特劳斯;http://music.baidu.com/song/120998447
+35;新雅室内空气乐队;花之圆舞曲-柴可夫斯基;http://music.baidu.com/song/120998152
+36;新雅室内空气乐队;野蜂飞舞曲-里姆斯基·科萨科夫;http://music.baidu.com/song/120998378
+37;新雅室内空气乐队;皇帝圆舞曲-施特劳斯;http://music.baidu.com/song/120998203
+38;新雅室内空气乐队;结婚进行曲-瓦格纳·门德尔;http://music.baidu.com/song/120998271
+39;新雅室内空气乐队;晨雾;http://music.baidu.com/song/121031931
+40;新雅室内空气乐队;阿阑胡埃协奏曲-罗格里戈;http://music.baidu.com/song/120998123
+41;新雅室内空气乐队;新世界第九交响曲-德沃夏克;http://music.baidu.com/song/120998537
+42;新雅室内空气乐队;皮尔金组曲之清晨（苏城之歌）-格里格;http://music.baidu.com/song/120998345
+43;新雅室内空气乐队;中国之舞-柴可夫斯基;http://music.baidu.com/song/120998445
+44;新雅室内空气乐队;摇篮曲;http://music.baidu.com/song/120903895
+45;新雅室内空气乐队;舞曲;http://music.baidu.com/song/120998284
+46;新雅室内空气乐队;即兴幻想曲-肖邦;http://music.baidu.com/song/120998222
+47;新雅室内空气乐队;幽默曲-德沃夏克;http://music.baidu.com/song/120998388
+48;新雅室内空气乐队;“亚来城姑娘”间奏曲-比才;http://music.baidu.com/song/120998125
+49;新雅室内空气乐队;红蜻蜓波尔卡-玛祖卡-约瑟夫·施特劳斯;http://music.baidu.com/song/120998139
+50;新雅室内空气乐队;爱丽丝;http://music.baidu.com/song/120903552
+51;新雅室内空气乐队;月夜;http://music.baidu.com/song/120903905
+52;新雅室内空气乐队;生活协调曲;http://music.baidu.com/song/120903719
+53;新雅室内空气乐队;往事;http://music.baidu.com/song/120903769
+54;新雅室内空气乐队;浪漫曲;http://music.baidu.com/song/120903668
+55;新雅室内空气乐队;孩子的感觉;http://music.baidu.com/song/120903604
+56;新雅室内空气乐队;晓光;http://music.baidu.com/song/120903803
+57;新雅室内空气乐队;地平线;http://music.baidu.com/song/120903585
+58;新雅室内空气乐队;狂想曲;http://music.baidu.com/song/120903628
+59;新雅室内空气乐队;哥萨克民族舞曲——特列帕克-柴可夫斯基;http://music.baidu.com/song/120998130
+60;新雅室内空气乐队;神殿;http://music.baidu.com/song/120903698
+61;新雅室内空气乐队;小锡士兵进行曲-柴可夫斯基;http://music.baidu.com/song/120998322
+62;新雅室内空气乐队;银笛之舞柴可夫斯基;http://music.baidu.com/song/120998428
+63;新雅室内空气乐队;锡士兵进行曲-耶塞尔;http://music.baidu.com/song/120998328
+64;新雅室内空气乐队;美丽的幻想者-福斯特;http://music.baidu.com/song/120998330
+65;新雅室内空气乐队;浪漫曲-安东·鲁宾斯坦;http://music.baidu.com/song/120998230
+66;新雅室内空气乐队;波罗维茨人之舞-鲍罗廷;http://music.baidu.com/song/120998150
+67;新雅室内空气乐队;匈牙利舞曲-柴可夫斯基;http://music.baidu.com/song/120998364
+68;新雅室内空气乐队;弦乐曲：柔板-巴贝尔;http://music.baidu.com/song/120998325
+69;新雅室内空气乐队;袖珍序曲-柴可夫斯基;http://music.baidu.com/song/120998335
+70;新雅室内空气乐队;(哀格蒙特）序曲-贝多芬;http://music.baidu.com/song/120998175
+71;新雅室内空气乐队;野玫瑰;http://music.baidu.com/song/120998391
+72;新雅室内空气乐队;军刀舞曲-哈恰图良;http://music.baidu.com/song/120998233
+73;新雅室内空气乐队;春之声-门德尔松;http://music.baidu.com/song/120998311
+74;新雅室内空气乐队;月夜;http://music.baidu.com/song/121032489
+75;新雅室内空气乐队;睡莲;http://music.baidu.com/song/121032388
+76;新雅室内空气乐队;金色的小溪;http://music.baidu.com/song/121032014
+77;新雅室内空气乐队;交响组曲《天方夜谭》片段-里姆斯基柯萨科夫;http://music.baidu.com/song/120998340
+78;新雅室内空气乐队;天使的声音;http://music.baidu.com/song/121031950
+79;新雅室内空气乐队;宁静;http://music.baidu.com/song/121032139
+80;新雅室内空气乐队;爱之梦-李斯特;http://music.baidu.com/song/120998241
+81;新雅室内空气乐队;拉科齐进行曲-柏辽兹;http://music.baidu.com/song/120998347
+82;新雅室内空气乐队;狂想曲;http://music.baidu.com/song/121032021
+83;新雅室内空气乐队;落叶;http://music.baidu.com/song/121032053
+84;新雅室内空气乐队;印度客商之歌-里姆斯基，科萨克夫;http://music.baidu.com/song/120998575
+85;新雅室内空气乐队;声音;http://music.baidu.com/song/121032285
+86;新雅室内空气乐队;舞剧《天鹅湖》片段-柴可夫斯基;http://music.baidu.com/song/120998433
+87;新雅室内空气乐队;交响诗《沃尔塔瓦河》片段-斯美塔娜;http://music.baidu.com/song/120998303
+88;新雅室内空气乐队;悲歌-马斯涅;http://music.baidu.com/song/120998146
+89;新雅室内空气乐队;第九交响曲第二乐章-德沃夏克;http://music.baidu.com/song/120998174
+90;新雅室内空气乐队;自然界的声音;http://music.baidu.com/song/121032610
+91;新雅室内空气乐队;沙沙的风;http://music.baidu.com/song/121031927
+92;新雅室内空气乐队;大海协调曲;http://music.baidu.com/song/121031545
+93;新雅室内空气乐队;玫瑰女之舞-哈恰图良;http://music.baidu.com/song/120998252
+94;新雅室内空气乐队;咏叹调-选自第三组曲-巴哈;http://music.baidu.com/song/120998540
+95;新雅室内空气乐队;启示;http://music.baidu.com/song/121032172
+96;新雅室内空气乐队;黄昏合唱团;http://music.baidu.com/song/121032000
+97;新雅室内空气乐队;圣母颂-古诺;http://music.baidu.com/song/120998400
+98;新雅室内空气乐队;鲁斯兰与柳德米拉-格林卡;http://music.baidu.com/song/120998371
+99;新雅室内空气乐队;太阳雨;http://music.baidu.com/song/121032443
+100;新雅室内空气乐队;荒原;http://music.baidu.com/song/121031965
+101;新雅室内空气乐队;快乐的浪涛;http://music.baidu.com/song/121031835
+102;王雅梦,苏萌;Deux Valses  OP.69（两首华尔兹） (1);http://music.baidu.com/song/121001703
+103;新雅室内空气乐队;天鹅湖片段-柴可夫斯基;http://music.baidu.com/song/120998443
+104;新雅室内空气乐队;长虹;http://music.baidu.com/song/121031989
+105;新雅室内空气乐队;漂流的梦;http://music.baidu.com/song/121031869
+106;新雅室内空气乐队;悲歌-最后的春天-格里格;http://music.baidu.com/song/120998248
+107;新雅室内空气乐队;夜曲-约翰：弗奥德;http://music.baidu.com/song/120998490
+108;新雅室内空气乐队;诗;http://music.baidu.com/song/121032318
+109;新雅室内空气乐队;钟声-拉赫玛尼诺夫;http://music.baidu.com/song/120998716
+110;新雅室内空气乐队;鲸之歌;http://music.baidu.com/song/121031596
+111;新雅室内空气乐队;晶莹的水;http://music.baidu.com/song/121031566
+112;新雅室内空气乐队;遥远的地平线;http://music.baidu.com/song/121031970
+113;新雅室内空气乐队;启蒙;http://music.baidu.com/song/121031894
+114;王雅梦,苏萌;Caprice No.24(随想曲24号）;http://music.baidu.com/song/121001578
+115;王雅梦,苏萌;Pastourelle(帕斯多利亚）;http://music.baidu.com/song/121001964
+116;王雅梦,苏萌;Aquarelle（水彩画） (1);http://music.baidu.com/song/121001580
+117;王雅梦,苏萌;Danza Parauaya  No.1（第一号巴拉圭跳舞曲）;http://music.baidu.com/song/121001754
+118;王雅梦,苏萌;Sonata（奏鸣曲） (1);http://music.baidu.com/song/121001786
+119;王雅梦,苏萌;Sons  De  Carrilnoes钟声;http://music.baidu.com/song/121002068
+120;王雅梦,苏萌;Tango Suite（探戈组合） (1);http://music.baidu.com/song/121002102
+121;王雅梦,苏萌;Suite Retratos（肖像组曲） (2);http://music.baidu.com/song/121002203
+122;王雅梦,苏萌;Sonata（奏鸣曲） (2);http://music.baidu.com/song/121001881
+123;王雅梦,苏萌;Libra Sonatine（天秤座小奏鸣曲） (3);http://music.baidu.com/song/121001747
+124;新雅室内空气乐队;黎明合唱团;http://music.baidu.com/song/121032037
+125;王雅梦,苏萌;Prelude,Allegro,Presto(BWV998)（前奏曲、快板、急板） (1);http://music.baidu.com/song/121002059
+126;日谈公园;vol.99 焦元溥的古典音乐时间;http://music.baidu.com/song/568967999
+127;大内密谈;vol.510 忘了古典音乐吧;http://music.baidu.com/song/569032348
+128;快乐宝宝古典乐;小夜曲(舒伯特);http://music.baidu.com/song/122194563
+129;快乐宝宝古典乐;摇篮曲(舒伯特);http://music.baidu.com/song/122194584
+130;快乐宝宝古典乐;月光奏鸣曲(贝多芬）;http://music.baidu.com/song/122194524
+131;快乐宝宝古典乐;蓝色多瑙河;http://music.baidu.com/song/122194645
+132;快乐宝宝古典乐;小步舞曲(贝多芬);http://music.baidu.com/song/122196210
+133;快乐宝宝古典乐;夏日的回忆;http://music.baidu.com/song/122194591
+134;贵族乐团;古诺圣母颂;http://music.baidu.com/song/18389830
+135;快乐宝宝古典乐;浪漫曲(舒曼);http://music.baidu.com/song/122194595
+136;快乐宝宝古典乐;古典乐和胎音(催眠曲-费雷斯);http://music.baidu.com/song/122195960
+137;快乐宝宝古典乐;杜鹃圆舞曲;http://music.baidu.com/song/122196383
+138;快乐宝宝古典乐;阿拉伯之舞;http://music.baidu.com/song/122196381
+139;快乐宝宝古典乐;多瑙河之波圆舞曲(扬伊万诺维奇);http://music.baidu.com/song/122196201
+140;快乐宝宝古典乐;布拉姆斯摇篮曲;http://music.baidu.com/song/122194814
+141;快乐宝宝古典乐;给艾丽斯(贝多芬);http://music.baidu.com/song/122196202
+142;快乐宝宝古典乐;花之圆舞曲(柴可夫斯基);http://music.baidu.com/song/122194573
+143;快乐宝宝古典乐;菩提树(舒伯特);http://music.baidu.com/song/122194549
+144;快乐宝宝古典乐;胡桃钳序曲(柴可夫斯基);http://music.baidu.com/song/122196203
+145;快乐宝宝古典乐;中国茶之舞;http://music.baidu.com/song/122196392
+146;快乐宝宝古典乐;晚安曲;http://music.baidu.com/song/122194538
+147;快乐宝宝古典乐;摇篮曲(佛瑞);http://music.baidu.com/song/122194594
+148;贵族乐团;莫扎特第21号钢琴协奏曲;http://music.baidu.com/song/18391327
+149;快乐宝宝古典乐;平安夜(拉赫曼尼诺夫);http://music.baidu.com/song/122194593
+150;快乐宝宝古典乐;宝贝乖乖睡;http://music.baidu.com/song/122194597
+151;快乐宝宝古典乐;胎音(子宫内的小宇宙三);http://music.baidu.com/song/122195969
+152;快乐宝宝古典乐;芦笛之舞(柴可夫斯基);http://music.baidu.com/song/122196205
+153;快乐宝宝古典乐;德布西月光摇篮曲;http://music.baidu.com/song/122194816
+154;快乐宝宝古典乐;日本摇篮曲;http://music.baidu.com/song/122194820
+155;快乐宝宝古典乐;卡门 斗牛士之歌(比才);http://music.baidu.com/song/122196204
+156;贵族乐团;贝多芬月光;http://music.baidu.com/song/18390010
+157;快乐宝宝古典乐;古典乐和胎音(圣母颂-舒伯特);http://music.baidu.com/song/122195965
+158;贵族乐团;舒伯特鳟鱼;http://music.baidu.com/song/18391920
+159;贵族乐团;莫扎特土耳其进行曲;http://music.baidu.com/song/18391711
+160;快乐宝宝古典乐;花;http://music.baidu.com/song/122194628
+161;快乐宝宝古典乐;小夜曲;http://music.baidu.com/song/122194590
+162;快乐宝宝古典乐;古典乐和胎音(卡农-帕海贝尔);http://music.baidu.com/song/122195962
+163;快乐宝宝古典乐;胎音(子宫内的小宇宙二);http://music.baidu.com/song/122195968
+164;贵族乐团;比才卡门;http://music.baidu.com/song/18390407
+165;贵族乐团;舒伯特小夜曲;http://music.baidu.com/song/18390972
+166;贵族乐团;普契尼茉莉花;http://music.baidu.com/song/18393245
+167;贵族乐团;巴哈小步舞曲;http://music.baidu.com/song/18392772
+168;快乐宝宝古典乐;小鸟之歌;http://music.baidu.com/song/122194623
+169;快乐宝宝古典乐;爱尔兰摇篮曲;http://music.baidu.com/song/122194813
+170;快乐宝宝古典乐;老歌调;http://music.baidu.com/song/122194661
+171;快乐宝宝古典乐;森林中的水库;http://music.baidu.com/song/122194641
+172;快乐宝宝古典乐;甜美梦乡;http://music.baidu.com/song/122194823
+173;快乐宝宝古典乐;钟表店;http://music.baidu.com/song/122194671
+174;快乐宝宝古典乐;柴可夫斯基小夜曲;http://music.baidu.com/song/122194815
+175;快乐宝宝古典乐;古典乐和胎音(野玫瑰-舒伯特);http://music.baidu.com/song/122195967
+176;贵族乐团;韦瓦第四季;http://music.baidu.com/song/18390251
+177;贵族乐团;拉赫曼尼诺夫帕格尼尼主题狂想曲;http://music.baidu.com/song/18392231
+178;贵族乐团;帕海贝尔卡农;http://music.baidu.com/song/18391510
+179;快乐宝宝古典乐;荒城之月;http://music.baidu.com/song/122194818
+180;快乐宝宝古典乐;英国摇篮曲;http://music.baidu.com/song/122194824
+181;快乐宝宝古典乐;阿莱城姑娘;http://music.baidu.com/song/122194652
+182;快乐宝宝古典乐;红色蜻蜓;http://music.baidu.com/song/122194668
+183;快乐宝宝古典乐;风之精灵;http://music.baidu.com/song/122196384
+184;快乐宝宝古典乐;美丽的萝丝玛琳;http://music.baidu.com/song/122194632
+185;快乐宝宝古典乐;快乐铁匠;http://music.baidu.com/song/122196388
+186;快乐宝宝古典乐;棕发少女;http://music.baidu.com/song/122194626
+187;快乐宝宝古典乐;精灵之舞;http://music.baidu.com/song/122196386
+188;快乐宝宝古典乐;天鹅湖;http://music.baidu.com/song/122196390
+189;快乐宝宝古典乐;西西里舞曲;http://music.baidu.com/song/122194638
+190;快乐宝宝古典乐;天使小夜曲;http://music.baidu.com/song/122194822
+191;快乐宝宝古典乐;船歌;http://music.baidu.com/song/122196382
+192;快乐宝宝古典乐;小鸟店;http://music.baidu.com/song/122194650
+193;快乐宝宝古典乐;波斯市场(柯特比);http://music.baidu.com/song/122196200
+194;快乐宝宝古典乐;牧场的老家(民谣);http://music.baidu.com/song/122196208
+195;快乐宝宝古典乐;无言歌(拉赫曼尼诺夫);http://music.baidu.com/song/122194592
+196;快乐宝宝古典乐;古典乐和胎音(天鹅-圣桑);http://music.baidu.com/song/122195966
+197;贵族乐团;巴哈耶稣您是我所仰望的喜悦;http://music.baidu.com/song/18392628
+198;贵族乐团;威尔第善变的女人;http://music.baidu.com/song/18390752
+199;贵族乐团;巴哈G弦之歌;http://music.baidu.com/song/18393020
+200;贵族乐团;肖邦离别曲;http://music.baidu.com/song/18392435
+201;快乐宝宝古典乐;古典乐和胎音(慢板-韩德尔);http://music.baidu.com/song/122195963
+202;快乐宝宝古典乐;木靴之舞;http://music.baidu.com/song/122196207
+203;快乐宝宝古典乐;拨奏波卡舞曲(小约翰史特劳斯);http://music.baidu.com/song/122196199
+204;快乐宝宝古典乐;德国摇篮曲;http://music.baidu.com/song/122194817
+205;快乐宝宝古典乐;真善美;http://music.baidu.com/song/122196391
+206;快乐宝宝古典乐;瑞典摇篮曲;http://music.baidu.com/song/122194821
+207;快乐宝宝古典乐;小步舞曲(包凯利尼);http://music.baidu.com/song/122196209
+208;快乐宝宝古典乐;胎音(子宫内的小宇宙一);http://music.baidu.com/song/122195971
+209;快乐宝宝古典乐;高塞克嘉禾舞曲;http://music.baidu.com/song/122196385
+210;快乐宝宝古典乐;乔丝兰摇篮曲;http://music.baidu.com/song/122194819
+211;快乐宝宝古典乐;快乐的时钟;http://music.baidu.com/song/122196387
+212;快乐宝宝古典乐;小精灵;http://music.baidu.com/song/122194647
+213;快乐宝宝古典乐;爱之赞;http://music.baidu.com/song/122194663
+214;快乐宝宝古典乐;森林里的铁匠;http://music.baidu.com/song/122196389
+215;快乐宝宝古典乐;罗莱拉(民谣);http://music.baidu.com/song/122196206
+216;快乐宝宝古典乐;时辰之舞;http://music.baidu.com/song/122196524
+217;快乐宝宝古典乐;古典乐和胎音(圣母颂-古诺);http://music.baidu.com/song/122195964
+218;快乐宝宝古典乐;胎音(子宫内的小宇宙四);http://music.baidu.com/song/122195970
+219;陈佳迎;Felicidade;http://music.baidu.com/song/565945772
+220;陈佳迎;Contemplacion;http://music.baidu.com/song/565945774
+221;陈佳迎;Introduction et Caprice;http://music.baidu.com/song/565945776
+222;陈佳迎;Lifting the Veil;http://music.baidu.com/song/565945771
+223;陈佳迎;The Butterfly Lovers;http://music.baidu.com/song/565945775
+224;陈佳迎;Romance de Amor;http://music.baidu.com/song/565945773
+225;陈佳迎;The Bridge of the Birds;http://music.baidu.com/song/565945777
+226;配乐;奇幻古典.瑰丽篇;http://music.baidu.com/song/13748480
+227;古典情人;好久不见;http://music.baidu.com/song/259146572
+228;古典情人;放弃后的心痛;http://music.baidu.com/song/259146576
+229;古典情人;安心;http://music.baidu.com/song/259146580
+230;古典情人;记得要幸福;http://music.baidu.com/song/259146564
+231;古典情人;情书;http://music.baidu.com/song/259146552
+232;古典情人;乱了;http://music.baidu.com/song/259146560
+233;古典情人;如果可以;http://music.baidu.com/song/259146550
+234;古典情人;收起对你的爱恋;http://music.baidu.com/song/259146548
+235;古典情人;何必在意;http://music.baidu.com/song/259146570
+236;古典情人;念念不忘;http://music.baidu.com/song/259146553
+237;古典情人;不打扰你的幸福;http://music.baidu.com/song/259146579
+238;古典情人;回忆;http://music.baidu.com/song/259146567
+239;古典情人;好聚好散;http://music.baidu.com/song/259146571
+240;古典情人;过不去的过去;http://music.baidu.com/song/259146574
+241;古典情人;你好吗;http://music.baidu.com/song/259146554
+242;古典情人;空白感情;http://music.baidu.com/song/259146561
+243;古典情人;世界都是你;http://music.baidu.com/song/259146549
+244;古典情人;或许爱;http://music.baidu.com/song/259146566
+245;古典情人;不说话;http://music.baidu.com/song/259146578
+246;古典情人;谎言世界;http://music.baidu.com/song/259146568
+247;古典情人;你的重要;http://music.baidu.com/song/259146556
+248;古典情人;过去式;http://music.baidu.com/song/259146573
+249;古典情人;猜疑;http://music.baidu.com/song/259146577
+250;古典情人;寂寞独白;http://music.baidu.com/song/259146563
+251;古典情人;晴;http://music.baidu.com/song/259146551
+252;古典情人;你的怀抱;http://music.baidu.com/song/259146557
+253;古典情人;我不能;http://music.baidu.com/song/259146547
+254;古典情人;你不懂得;http://music.baidu.com/song/259146559
+255;古典情人;互不打扰;http://music.baidu.com/song/259146569
+256;古典情人;放弃一切;http://music.baidu.com/song/259146575
+257;贵族乐团;阳光;http://music.baidu.com/song/18385293
+258;贵族乐团;非常迪斯科;http://music.baidu.com/song/18387413
+259;贵族乐团;中世纪;http://music.baidu.com/song/18385596
+260;贵族乐团;帕海埃尔维斯;http://music.baidu.com/song/18384926
+261;贵族乐团;甜蜜蓝衣女士;http://music.baidu.com/song/18387573
+262;贵族乐团;齐帕蒂多;http://music.baidu.com/song/18385155
+263;贵族乐团;贝德李奇和卡洛斯;http://music.baidu.com/song/18386465
+264;贵族乐团;巴哈的光影;http://music.baidu.com/song/18385427
+265;贵族乐团;涅瓦第;http://music.baidu.com/song/18386285
+266;贵族乐团;奇高登斯;http://music.baidu.com/song/18387777
+267;古典时尚;明天;http://music.baidu.com/song/22389437
+268;贵族乐团;梦魇;http://music.baidu.com/song/18386126
+269;小柯;夕阳往事;http://music.baidu.com/song/124630288
+270;晨威;古典乐章;http://music.baidu.com/song/88345690
+271;贵族乐团;Cantilena (古典融合新世纪的天堂乐章);http://music.baidu.com/song/25869421
+272;李谷一;四合院儿;http://music.baidu.com/song/585431617
+273;女子十二乐坊;新古典主义;http://music.baidu.com/song/55633877
+274;古典情人;念念不忘;http://music.baidu.com/song/332786079
+275;古典情人;空白感情;http://music.baidu.com/song/332787720
+276;古典情人;回憶;http://music.baidu.com/song/332786574
+277;古典情人;謊言世界;http://music.baidu.com/song/332786377
+278;古典情人;寂寞獨白;http://music.baidu.com/song/332787197
+279;古典情人;亂了;http://music.baidu.com/song/332788037
+280;古典情人;或許愛;http://music.baidu.com/song/332786809
+281;古典情人;你不懂得;http://music.baidu.com/song/332788250
+282;古典情人;互不打擾;http://music.baidu.com/song/332786214
+283;古典情人;記得要幸福;http://music.baidu.com/song/332787020
+284;晨威;小朋友我想对你说;http://music.baidu.com/song/88345691
+285;女子十二乐坊;新古典主义;http://music.baidu.com/song/121019712
+286;配乐;奇幻古典.未知篇;http://music.baidu.com/song/13748467
+287;孙逊;你的爱(古典版);http://music.baidu.com/song/240408
+288;女子十二乐坊;新古典主义;http://music.baidu.com/song/17861638
+289;有待;古典与爵士相遇;http://music.baidu.com/song/540690032
+290;群星;汉宫秋月-埙独奏;http://music.baidu.com/song/121047801
+291;群星;雨打芭蕉-洞箫与乐队;http://music.baidu.com/song/121048332
+292;群星;昭君怨-大G笛独奏;http://music.baidu.com/song/121048398
+293;Bond,Billy Vaughan;Cimarron;http://music.baidu.com/song/311843929
+294;Bond;Butterfly;http://music.baidu.com/song/319700770
+295;Connie Francis;I Love You Truly;http://music.baidu.com/song/290967823
+296;King Curtis,Bond;Up a Lazy River;http://music.baidu.com/song/300202471
+297;Tex Ritter;Rye Whiskey;http://music.baidu.com/song/290967782
+298;Tex Ritter;Conversation With A Gun;http://music.baidu.com/song/317199556
+299;Joe Turner,Pete Johnson;Boogie Blues;http://music.baidu.com/song/317205278
+300;Bond;New York Club;http://music.baidu.com/song/319702050
+301;ANM;너희는 가만히 있어(Classical);http://music.baidu.com/song/565051970
+302;Malcolm Vaughan;More Than Ever;http://music.baidu.com/song/290991569
+303;Bond,Eddie Bond;This Ole Heart of Mine;http://music.baidu.com/song/322217799
+304;ANM;평강이 있을지어다(Classical);http://music.baidu.com/song/565051987
+305;Bond;Back Seat Driver;http://music.baidu.com/song/306883240
+306;Skeets McDonald;Tomorrow Never Comes;http://music.baidu.com/song/290992818
+307;容祖儿;古典音乐 Medley;http://music.baidu.com/song/124848213
+308;柴可夫斯基;Rimsky-Korsakov  Capriccio Espagnol op.34;http://music.baidu.com/song/18273514
+309;柴可夫斯基;Borodin  Polovtsian Dances;http://music.baidu.com/song/18270279
+310;Vladimir Ashkenazy;Finlandia;http://music.baidu.com/song/101316994
+311;群星;门德尔松：无词歌, Op.62 - 第6首，A大调，“春之歌”;http://music.baidu.com/song/17994168
+312;群星;肖邦：降E大调第1首圆舞曲, Op.18 “华丽大圆舞曲”;http://music.baidu.com/song/18010215
+313;群星;鲁宾斯坦：F大调旋律, Op.3/1;http://music.baidu.com/song/17963007
+314;李碧华;古典爱情;http://music.baidu.com/song/300740038
+315;Alicia de Larrocha;III. Rondo alla turca. Allegretto from Sonata No. 11 in A Major for Piano, K. 331;http://music.baidu.com/song/542548332
+316;Mr.Piano;04.适合胎教的原创古典乐 (태교에 어울리는 창작 클래식);http://music.baidu.com/song/246477493
+317;Vladimir Spivakov;Orchestral Suite No. 3 in D Major, BWV 1068: Air on the G-String;http://music.baidu.com/song/542548341
+318;Leonard Slatkin;Eugene Onegin, Op. 24, Act III: Polonaise;http://music.baidu.com/song/542548336
+319;Marilyn Horne;5 Lieder, Op. 49: IV. Wiegenlied;http://music.baidu.com/song/542548334
+320;Adrian Leaper;Boléro, M. 81;http://music.baidu.com/song/542548338
+321;Joshua Bell;Nocturne No. 20 in C-Sharp Minor, Op. posth (Arranged for Violin);http://music.baidu.com/song/542548346
+322;Eugene Ormandy;Cantata BWV 140: Sleepers Awake;http://music.baidu.com/song/542548330
+323;Branford Marsalis;Deux Arabesques, L. 66: I. Andantino con moto;http://music.baidu.com/song/542548340
+324;Jan Vogler;Salut d'amour, Op. 12;http://music.baidu.com/song/542548344
+325;Kathryn Stott;Berceuse, Op. 57;http://music.baidu.com/song/542548348
+326;Jeanne Lamon;Orpheus and Eurydice, Wq. 30: Dance of the Blessed Spirits;http://music.baidu.com/song/542548343
+327;New York Philharmonic Orchestra;Peter's March and Finale from Peter and the Wolf, Op. 67 (Excerpt);http://music.baidu.com/song/542548339
+328;Josef Bulva;Grandes études de Paganini, S. 141: No. 3 in G-Sharp Minor, "La Campanella";http://music.baidu.com/song/542548345
+329;Charles Gerhardt;Pavane in F-Sharp Minor, Op. 50;http://music.baidu.com/song/542548333
+330;Raymond Leppard;Solomon, HWV 67: Arrival of the Queen of Sheba;http://music.baidu.com/song/542548337
+331;József Lendvay;Caprice No. 24 for Solo Violin in A Minor, Op. 1 No. 24: Tema con Variazioni;http://music.baidu.com/song/542548331
+332;Evgeny Kissin;Mazurka in B-Flat Minor, Op. 24, No. 4;http://music.baidu.com/song/542548335
+333;Mr.Piano;09.为了胎教的原创古典钢琴曲 (태교를 위한 창작 클래식 피아노);http://music.baidu.com/song/246477498
+334;Cyprien Katsaris;Cantabile in B-Flat Major, B. 84;http://music.baidu.com/song/542548342
+335;Andre Watts;Für Elise - Bagatelle in A Minor, WoO 80;http://music.baidu.com/song/542548347
+336;Arthur Rubinstein;Nocturnes, Op. 9: No. 1 in B-Flat Minor;http://music.baidu.com/song/567128816
+337;Jean-Marc Luisada;Waltz in A-Flat Major, Op. 42;http://music.baidu.com/song/567128836
+338;Philippe Entremont;Piano Concerto No. 17 in G Major, K. 453: III. Allegretto;http://music.baidu.com/song/567128846
+339;Olga Scheps;Souvenir d'une Mazurka in B-Flat Major;http://music.baidu.com/song/567128850
+340;郎朗;Liebestraum No. 3 in A-Flat Major, S. 541 / 3;http://music.baidu.com/song/567128834
+341;Van Cliburn;Piano Concerto No. 2 in C Minor, Op. 18: II. Adagio sostenuto;http://music.baidu.com/song/567128842
+342;Murray Perahia;Suite No. 5 in E Major, HWV 430: IV. Air con Variazioni "The Harmonious Blacksmith";http://music.baidu.com/song/567128840
+343;Arcadi Volodos;Sechs Klavierstücke, Op. 118: II. Intermezzo in A Major;http://music.baidu.com/song/567128848
+344;Vladimir Horowitz;Sonata in F minor, K 481 (L 187);http://music.baidu.com/song/567128844
+345;高桐;灰色华尔兹;http://music.baidu.com/song/33957247
+346;郎朗;The Seasons, Op. 37a: I. January: At the Fireside;http://music.baidu.com/song/567128837
+347;Van Cliburn;Polonaise in A-Flat, Op. 53 "Heroic";http://music.baidu.com/song/567128822
+348;Philippe Entremont;Piano Concerto No. 22 in E-Flat Major, K. 482: III. Allegro;http://music.baidu.com/song/567128820
+349;Martha Argerich;Keyboard Concerto No. 11 in D Major, Hob. XVIII:11: II. Un poco adagio;http://music.baidu.com/song/567128832
+350;Vladimir Horowitz;Sonata in F Major, K 525 (L 188);http://music.baidu.com/song/567128830
+351;Kathryn Stott;Gaspard de la nuit, M. 55: Gaspard de la nuit, M. 55: I. Ondine;http://music.baidu.com/song/567128824
+352;Jean-Marc Luisada;Waltz in D-Flat Major, Op. 64, No. 1: A minute / Petit chien;http://music.baidu.com/song/567128818
+353;Van Cliburn;Piano Concerto No. 2 in B-Flat Major, Op. 83: III. Andante;http://music.baidu.com/song/567128828
+354;Arcadi Volodos;Capriccio in B Minor, Op. 76, No. 2;http://music.baidu.com/song/567128826
+355;Arthur Rubinstein;Nocturnes, Op. 32: No. 1 in B Major;http://music.baidu.com/song/567128838
+356;Murray Perahia,Radu Lupu;Sonata in D Major for Two Pianos, K. 448: II. Andante;http://music.baidu.com/song/567128817
+357;郎朗;The Seasons, Op. 37a: VI. June: Barcarolle;http://music.baidu.com/song/567128843
+358;Arcadi Volodos;Drei Intermezzi, Op. 117: I. Andante moderato;http://music.baidu.com/song/567128829
+359;Rudolf Buchbinder,Wiener Philharmoniker;Concerto for Piano and Orchestra No. 1 in C Major, Op. 15: III. Rondo. Allegro scherzando;http://music.baidu.com/song/567128815
+360;Philippe Entremont;Piano Sonata No. 4 in E-Flat Major, K. 282: II. Menuetto I and II;http://music.baidu.com/song/567128849
+361;Josu Okiñena;Je Te Veux;http://music.baidu.com/song/567128835
+362;Jean-Marc Luisada;Waltz in A-Flat Major, Op. 34, No. 1: Valse brillante;http://music.baidu.com/song/567128847
+363;Murray Perahia;English Suite No. 3 in G Minor, BWV 808: I. Prélude;http://music.baidu.com/song/567128833
+364;黄旭洋;Symphony No. 5: IV. Adagietto (Arr. for Piano);http://music.baidu.com/song/567128841
+365;Leon Fleisher;Fantasy for Piano in C Major, Op. 15, D. 760 - "Wanderer": Allegro con fuoco, ma non troppo;http://music.baidu.com/song/567128839
+366;Nelson Freire;Four Impromptus, Op. 90, D. 899: Impromptu No. 3 in G-Flat Major;http://music.baidu.com/song/567128819
+367;Josef Bulva;Grandes études de Paganini, S. 141: No. 3 in G-Sharp Minor, "La Campanella";http://music.baidu.com/song/567128827
+368;Murray Perahia,Academy of St Martin in the Fields;Keyboard Concerto No. 3 in D Major, BWV 1054: I. Allegro;http://music.baidu.com/song/567128831
+369;Josef Bulva;Piano Concerto No. 1 in E-Flat Major, S. 124: I. Allegro maestoso;http://music.baidu.com/song/567128845
+370;Murray Perahia;Partita No. 6 in E Minor, BWV 830: I. Toccata;http://music.baidu.com/song/567128823
+371;Olga Scheps;Moments musicaux, Op. 16: No. 4 in E Minor (Presto);http://music.baidu.com/song/567128825
+372;Josu Okiñena;Gymnopédie: Gymnopédie I;http://music.baidu.com/song/567128821
+373;古典情人;回憶;http://music.baidu.com/song/289825994
+374;古典情人;過去式;http://music.baidu.com/song/289826604
+375;古典情人;放棄后的心疼;http://music.baidu.com/song/289826378
+376;古典情人;放棄一切;http://music.baidu.com/song/305172090
+377;古典情人;安心;http://music.baidu.com/song/305171212
+378;古典情人;過去式;http://music.baidu.com/song/305172224
+379;古典情人;放棄后的心痛;http://music.baidu.com/song/305171816
+380;古典情人;你的重要;http://music.baidu.com/song/326893600
+381;古典情人;念念不忘;http://music.baidu.com/song/326894320
+382;古典情人;收起對你的愛戀;http://music.baidu.com/song/326894474
+383;古典情人;情書;http://music.baidu.com/song/326893818
+384;古典情人;或許愛;http://music.baidu.com/song/289826243
+385;古典情人;安心;http://music.baidu.com/song/289826113
+386;古典情人;謊言世界;http://music.baidu.com/song/289826445
+387;古典情人;過不去的過去;http://music.baidu.com/song/305171923
+388;古典情人;好久不見;http://music.baidu.com/song/305171043
+389;古典情人;猜疑;http://music.baidu.com/song/305171643
+390;古典情人;好聚好散;http://music.baidu.com/song/305172355
+391;古典情人;不說話;http://music.baidu.com/song/305171325
+392;古典情人;何必在意;http://music.baidu.com/song/305172495
+393;古典情人;不打擾你的幸福;http://music.baidu.com/song/305171487
+394;古典情人;你好嗎;http://music.baidu.com/song/326893695
+395;古典情人;你的懷抱;http://music.baidu.com/song/326893469
+396;古典情人;如果可以;http://music.baidu.com/song/326894079
+397;古典情人;世界都是你;http://music.baidu.com/song/326894185
+398;古典情人;晴;http://music.baidu.com/song/326893937
+399;古典情人;我不能;http://music.baidu.com/song/326894639
+400;Bond;Lullaby;http://music.baidu.com/song/1203852
+401;Bond;Allegretto;http://music.baidu.com/song/50008426
+402;群星;舒曼：梦幻曲(选自《儿时情景》);http://music.baidu.com/song/18016303
+403;群星;舒伯特：即兴曲;http://music.baidu.com/song/18014408
+404;群星;舒伯特：乐兴之时;http://music.baidu.com/song/18014155
+405;群星;威尔第：歌剧《阿依达》第二幕 - 凯旋大合唱(又名“荣耀属于埃及”);http://music.baidu.com/song/17955656
+406;群星;舒曼：华丽曲作品18;http://music.baidu.com/song/18015619
+407;群星;肖邦：升F大调船歌作品60;http://music.baidu.com/song/18012209
+408;群星;德布西：月光(选自《贝加马斯克》组曲);http://music.baidu.com/song/18009008
+409;群星;Montana_ Suite colombiana No.2 - i. El margariteno_ pasillo;http://music.baidu.com/song/20641666
+410;群星;肖邦：F小调圆舞曲作品70之2(遗作);http://music.baidu.com/song/18010098
+411;Various Artists;致爱丽丝 (엘리제를 위하여);http://music.baidu.com/song/246919092
+412;Various Artists;G弦上的咏叹调 (G선상의 아리아);http://music.baidu.com/song/246919090
+413;Bond;Starbucked;http://music.baidu.com/song/8835511
+414;Various Artists;蚂蚁和蚱蜢 (개미와 베짱이);http://music.baidu.com/song/246919078
+415;Various Artists;Clary 协奏曲 (클라리네 협주곡);http://music.baidu.com/song/246919098
+416;Various Artists;爱的问候 (사랑의 인사);http://music.baidu.com/song/246919094
+417;Various Artists;乡下老鼠和城市老鼠 (시골쥐와 도시쥐);http://music.baidu.com/song/246919084
+418;Various Artists;长笛和竖琴的协奏曲 (플룻과 하프를 위한 협주곡);http://music.baidu.com/song/246919096
+419;Various Artists;夜曲 (야상곡);http://music.baidu.com/song/246919088
+420;Various Artists;狗和骨头 (개와 뼈다귀);http://music.baidu.com/song/246919080
+421;Various Artists;想成为狗的驴 (개가 되고싶은 당나귀);http://music.baidu.com/song/246919076
+422;Various Artists;兔子和乌龟 (토끼와 거북이);http://music.baidu.com/song/246919082
+423;Various Artists;Canon (캐논);http://music.baidu.com/song/246919093
+424;Various Artists;农夫和蛇 (농부와 뱀);http://music.baidu.com/song/246919083
+425;Various Artists;橡树和芦苇 (참나무와 갈대);http://music.baidu.com/song/246919085
+426;Various Artists;松鼠和巨大的牛 (개구리와 커다란소);http://music.baidu.com/song/246919087
+427;Various Artists;风和太阳 (바람과 해님);http://music.baidu.com/song/246919079
+428;Various Artists;天鹅湖 (백조의 호수);http://music.baidu.com/song/246919099
+429;Various Artists;美国新重唱 (미뉴엣);http://music.baidu.com/song/246919089
+430;Various Artists;遇见熊的两个朋友 (곰을 만난 두친구);http://music.baidu.com/song/246919081
+431;Various Artists;小夜曲 (세레나데);http://music.baidu.com/song/246919091
+432;Various Artists;狐狸和仙鹤 (여우와 두루미);http://music.baidu.com/song/246919077
+433;Various Artists;金斧头银斧头 (금도끼 은도끼);http://music.baidu.com/song/246919075
+434;Various Artists;勿忘我 (물망초);http://music.baidu.com/song/246919097
+435;Various Artists;加伏特舞 (가보트);http://music.baidu.com/song/246919095
+436;Bond;Explosive;http://music.baidu.com/song/1357597
+437;Bond;Scorchio;http://music.baidu.com/song/1230470
+438;Bond;Viva!;http://music.baidu.com/song/7544386
+439;Bond;Kismet;http://music.baidu.com/song/7544378
+440;Bond;Victory;http://music.baidu.com/song/47092961
+441;Bond;Sugarplum;http://music.baidu.com/song/47341324
+442;Bond;Senorita;http://music.baidu.com/song/1357611
+443;Bond;Midnight Garden;http://music.baidu.com/song/1200307
+444;Bond;Highly Strung;http://music.baidu.com/song/1393272
+445;Bond;Explosive “Remix“;http://music.baidu.com/song/1230497
+446;Bond;Hungarian;http://music.baidu.com/song/1775223
+447;Bond;Duel;http://music.baidu.com/song/7544381
+448;Bond;Oceanic;http://music.baidu.com/song/7544377
+449;Bond;Quixote;http://music.baidu.com/song/7544374
+450;Bond;Hymn;http://music.baidu.com/song/7544385
+451;Bond;Korobushka;http://music.baidu.com/song/7544379
+452;Bond,Eos Chater,Gay-Yee Westerhoff,Haylie Ecker,Tania Davis;Theme [Johnny English - Original Motion Picture Soundtrack - Salsa Version];http://music.baidu.com/song/10300229
+453;Bond,Russell Brand;I Am The Walrus;http://music.baidu.com/song/20436424
+454;Bond;Viva!;http://music.baidu.com/song/47340815
+455;Bond;Señorita;http://music.baidu.com/song/50523274
+456;Bond;Strange Paradise;http://music.baidu.com/song/50008706
+457;Bond;Bond on Bond (adapted from the James Bond Theme) - Adapted Wherry;http://music.baidu.com/song/50009689
+458;Bond;Speed;http://music.baidu.com/song/50008837
+459;Bond;Libertango;http://music.baidu.com/song/50009306
+460;Bond;Space;http://music.baidu.com/song/50009587
+461;Bond;Big Love Adagio;http://music.baidu.com/song/50008948
+462;Bond;Explosive;http://music.baidu.com/song/50523418
+463;Bond;Fly Robin Fly;http://music.baidu.com/song/119812610
+464;李克勤,Bond;Victory;http://music.baidu.com/song/120994500
+465;Bond;Innocent;http://music.baidu.com/song/258397308
+466;Bond;Ride;http://music.baidu.com/song/262246276
+467;Bond;Shine;http://music.baidu.com/song/262243648
+468;Bond;Gypsy Rhapsody;http://music.baidu.com/song/262245550
+469;Bond;Libertango;http://music.baidu.com/song/262245794
+470;Bond;Strange Paradise;http://music.baidu.com/song/262244210
+471;Bond;Odyssey;http://music.baidu.com/song/262246816
+472;Bond;Samba;http://music.baidu.com/song/1080544
+473;Bond;Adagio For Strings;http://music.baidu.com/song/2269085
+474;Bond;Dream Star;http://music.baidu.com/song/1522639
+475;Bond;Alexander The Great;http://music.baidu.com/song/7544380
+476;Bond;Wintersun;http://music.baidu.com/song/7544375
+477;Bond;Dalalai;http://music.baidu.com/song/7544384
+478;Bond;The 1812;http://music.baidu.com/song/7544383
+479;Bond;Bella Donna;http://music.baidu.com/song/7544382
+480;Bond;I'll Fly Away;http://music.baidu.com/song/24003948
+481;Bond;Ride;http://music.baidu.com/song/50009490
+482;Bond;Kashmir;http://music.baidu.com/song/50009079
+483;Bond;Sahara;http://music.baidu.com/song/50009382
+484;Bond;Kashmir;http://music.baidu.com/song/262245253
+485;Bond;Space;http://music.baidu.com/song/262246541
+486;Bond;Fuego;http://music.baidu.com/song/262243945
+487;Bond;Big Love Adagio;http://music.baidu.com/song/262244899
+488;Bond;Speed;http://music.baidu.com/song/262244555
+489;Bond;Sahara;http://music.baidu.com/song/262246021
+490;Bond;Bond on Bond (adapted from the James Bond Theme) - Adapted Wherry;http://music.baidu.com/song/262247239
+491;Bond;Allegretto;http://music.baidu.com/song/262243371
+492;Chad Michael Stewart;This Love;http://music.baidu.com/song/7965752
+493;Cliff Richard,Tammy Wynette;This Love;http://music.baidu.com/song/8843016
+494;Mary Mary;This Love;http://music.baidu.com/song/8719337
+495;Rebecca Lynn Howard;This Love;http://music.baidu.com/song/8266859
+496;董新龙;Miraculous Lights-Moonlight;http://music.baidu.com/song/242473803
+497;林俊杰,Machi;主角;http://music.baidu.com/song/1329457
+498;萧贺硕;小熊舞曲;http://music.baidu.com/song/2118153
+499;吴品醇;大话李白;http://music.baidu.com/song/528937
+500;唐晓诗;调频电台;http://music.baidu.com/song/53251979
+501;刘子维;祥龙神韵(精简版);http://music.baidu.com/song/261509088
+502;蔡依林;乐园;http://music.baidu.com/song/7278403
+503;林依伦;个人Party;http://music.baidu.com/song/229935
+504;Danny Elfman;Mr. Peabody's Prologue;http://music.baidu.com/song/115072489
+505;刘程浩;傲娇中国;http://music.baidu.com/song/306508175
+506;顾小曼;人比黄花瘦;http://music.baidu.com/song/135932182
+507;章磊;祥龙啸;http://music.baidu.com/song/266501525
+508;罗百吉;中国的东西;http://music.baidu.com/song/55775380
+509;洪一平;那天;http://music.baidu.com/song/268033439
+510;宋艺飞;超级偶像;http://music.baidu.com/song/116973265
+511;黄义达;地下铁;http://music.baidu.com/song/7275261
+512;黄义达;地下铁;http://music.baidu.com/song/7281491
+513;李宇春;下个，路口，见;http://music.baidu.com/song/440262
+514;许嵩,孙涛;书香年华;http://music.baidu.com/song/262837429
+515;蔡诗芸;女儿红;http://music.baidu.com/song/1345461
+516;马毓芬;浪漫小夜曲;http://music.baidu.com/song/18632659
+517;周杰伦;魔术先生;http://music.baidu.com/song/1392778
+518;卫东;醉美大中华;http://music.baidu.com/song/119141499
+519;果味VC;上海往事;http://music.baidu.com/song/s/5507649ab5708597ed2db
+520;李红;吉祥如意中国年（舞曲版）;http://music.baidu.com/song/239449051
+521;巫启贤;回忆的长街;http://music.baidu.com/song/124057073
+522;卓钰衡;油纸伞;http://music.baidu.com/song/131420141
+523;杨瑞代;Good Time;http://music.baidu.com/song/257617
+524;文杰;画莲;http://music.baidu.com/song/256425903
+525;李克勤;偶然;http://music.baidu.com/song/265671
+526;钟舒漫;舒曼的狂想曲;http://music.baidu.com/song/1383545
+527;圈儿;或许你比较好;http://music.baidu.com/song/s/21071b636f008599cf506
+528;洪卓立;绅士;http://music.baidu.com/song/23310741
+529;袁咏琳;很旅行的爱情;http://music.baidu.com/song/2120801
+530;周杰伦;魔术先生;http://music.baidu.com/song/6178300
+531;李红;吉祥如意中国年;http://music.baidu.com/song/239449049
+532;毛泽少;下个路口见 (Electro Pop）;http://music.baidu.com/song/131708652
+533;闫晟化;红颜蓝颜;http://music.baidu.com/song/86027878
+534;王力宏;在梅边;http://music.baidu.com/song/7281431
+535;王力宏;在梅边;http://music.baidu.com/song/269004
+536;王力宏;在梅边;http://music.baidu.com/song/10510210
+537;王力宏;在梅边;http://music.baidu.com/song/1823731
+538;马达;我已无力承受;http://music.baidu.com/song/261354435
+539;王力宏;在梅边;http://music.baidu.com/song/1254272
+540;汤非;一生缘;http://music.baidu.com/song/240154040
+541;宋智敏;卡农（中文演唱版）;http://music.baidu.com/song/130483114
+542;周杰伦;琴伤;http://music.baidu.com/song/12316357
+543;毛泽少;下个路口见;http://music.baidu.com/song/131708649
+544;苏醒;Sexy Girl;http://music.baidu.com/song/260148858
+545;毛泽少;下个路口见  (Dennis K Remix);http://music.baidu.com/song/259044900
+546;毛泽少;下个路口见  (Electro Pop Version);http://music.baidu.com/song/259044958
+547;张靓颖;出境入境;http://music.baidu.com/song/5740506
+548;陈姿均;巴黎夜语;http://music.baidu.com/song/16670714
+549;卢巧音;暖色;http://music.baidu.com/song/9334738
+550;Milt Jackson;Big Mouth;http://music.baidu.com/song/10268046
+551;卢巧音;暖色;http://music.baidu.com/song/7273455
+552;梁文福;历史考试前夕;http://music.baidu.com/song/14716565
+553;邰正宵;我喜欢;http://music.baidu.com/song/594517
+554;Jessie James;Big Mouth;http://music.baidu.com/song/387787
+555;Huckleberry P,话唠;Old Boy;http://music.baidu.com/song/246792287
+556;金志文;相应成趣;http://music.baidu.com/song/s/96053f84908597ed175
+557;龙梅子;女人的美;http://music.baidu.com/song/28796329
+558;梁文福;历史考试前夕;http://music.baidu.com/song/124146807
+559;李研心;梦江南;http://music.baidu.com/song/241633026
+560;杨晓微;莲的情思;http://music.baidu.com/song/264475563
+561;毛泽少;下个路口见  (录音室版);http://music.baidu.com/song/259044985
+562;蔡依林;乐园;http://music.baidu.com/song/7281703
+563;毛泽少;下个路口见;http://music.baidu.com/song/131708651
+564;蔡依林;乐园;http://music.baidu.com/song/267294
+565;浩角翔起;梦想马车队;http://music.baidu.com/song/14471315
+566;万芳;一半;http://music.baidu.com/song/238609123
+567;Lorraine Tan;Shooting Star (Duet);http://music.baidu.com/song/257115030
+568;Audra McDonald,Nathan Gunn;Opening (Joseph Taylor, Jr.);http://music.baidu.com/song/7489677
+569;Keith Jarrett;Opening;http://music.baidu.com/song/10563003
+570;罗力威;我不想写;http://music.baidu.com/song/34153476
+571;古巨基;中箭(国);http://music.baidu.com/song/s/72061044db085a4b1b58
+572;Dj Muggs Vs. Gza;Opening;http://music.baidu.com/song/10307298
+573;戚薇;我的新鲜女友;http://music.baidu.com/song/247212189
+574;戚薇;我的新鲜女友;http://music.baidu.com/song/248538023
+575;张学友;Opening;http://music.baidu.com/song/7313368
+576;庾澄庆;Opening;http://music.baidu.com/song/7276974
+577;F4;Opening;http://music.baidu.com/song/7277008
+578;影视原声;Opening;http://music.baidu.com/song/2084142

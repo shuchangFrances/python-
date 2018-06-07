@@ -1,0 +1,1000 @@
+1;Joan Armatrading;Warm Love;http://music.baidu.com/song/9930075
+2;Dusty Springfield;Take Another Little Piece Of My Heart;http://music.baidu.com/song/9927328
+3;Bonnie Pointer;Heaven Must Have Sent You;http://music.baidu.com/song/9925716
+4;Status Quo;The Wanderer;http://music.baidu.com/song/9924497
+5;Joan Armatrading;Woncha Come On Home;http://music.baidu.com/song/9924299
+6;齐豫;预感;http://music.baidu.com/song/992168
+7;Ireen Sheer;Goodbye Mama;http://music.baidu.com/song/9920881
+8;Gilberto Gil;Chiclete Com Banana;http://music.baidu.com/song/9919840
+9;Erasmo Carlos;De Noite Na Cama;http://music.baidu.com/song/9919839
+10;The Dramatics;Thank You For Your Love;http://music.baidu.com/song/9916859
+11;The Dramatics;The Devil Is Dope;http://music.baidu.com/song/9916583
+12;梅艳芳;床前明月光;http://music.baidu.com/song/990312
+13;X-JAPAN;I Can'T Do Anything;http://music.baidu.com/song/9896212
+14;Mandrill;Fat City Strut;http://music.baidu.com/song/9893137
+15;Mandrill;Mango Meat;http://music.baidu.com/song/9893133
+16;邓丽君;追梦;http://music.baidu.com/song/9882272
+17;Paul Simon;Me And Julio Down By The Schoolyard;http://music.baidu.com/song/9876017
+18;Dan Fogelberg;Dancing Shoes;http://music.baidu.com/song/9875962
+19;The Gap Band;You Dropped A Bomb On Me;http://music.baidu.com/song/9864910
+20;Rufus;Tell Me Something Good;http://music.baidu.com/song/9864893
+21;Con Funk Shun;Chase Me;http://music.baidu.com/song/9864726
+22;张信哲;受罪;http://music.baidu.com/song/979684
+23;谭咏麟;玩出火;http://music.baidu.com/song/979615
+24;王菲;季候风;http://music.baidu.com/song/975863
+25;谭咏麟;怎可忘记;http://music.baidu.com/song/975185
+26;屠洪刚;精忠报国;http://music.baidu.com/song/974156
+27;Johnny Mathis;Winter Wonderland;http://music.baidu.com/song/9725430
+28;Bata Illic;Schwarze Madonna;http://music.baidu.com/song/9724993
+29;Bata Illic;Candida;http://music.baidu.com/song/9724813
+30;齐豫;飞鸟与鱼;http://music.baidu.com/song/972203
+31;Jon Anderson;Hold On To Love;http://music.baidu.com/song/9706663
+32;James Taylor;Country Road;http://music.baidu.com/song/9704199
+33;James Taylor;Shower The People;http://music.baidu.com/song/9692540
+34;The Edgar Winter Group;Sundown;http://music.baidu.com/song/9689657
+35;James Taylor;Sweet Baby James;http://music.baidu.com/song/9688475
+36;The Edgar Winter Group;Some Kinda Animal;http://music.baidu.com/song/9686085
+37;Jose Feliciano;In My Life;http://music.baidu.com/song/9686053
+38;Grace Jones;Do Or Die;http://music.baidu.com/song/9685693
+39;Santana;Revelations;http://music.baidu.com/song/9685139
+40;The Romantics;One In A Million;http://music.baidu.com/song/9684566
+41;Harry Nilsson;Early In The Morning;http://music.baidu.com/song/9684334
+42;John Denver;Follow Me;http://music.baidu.com/song/9683379
+43;Bata Illic;Michaela;http://music.baidu.com/song/9680756
+44;Kris Kristofferson;Casey'S Last Ride;http://music.baidu.com/song/9678939
+45;Stevie Wonder;Blame It On The Sun;http://music.baidu.com/song/9674701
+46;Stevie Wonder;Maybe Your Baby;http://music.baidu.com/song/9670616
+47;Stevie Wonder;Jesus Children Of America;http://music.baidu.com/song/9668335
+48;Lynyrd Skynyrd;Poison Whiskey;http://music.baidu.com/song/9665512
+49;Stevie Wonder;Tuesday Heartbreak;http://music.baidu.com/song/9664951
+50;Phil Perry;You'Re As Right As Rain;http://music.baidu.com/song/9645610
+51;Carpenters;Top Of The World;http://music.baidu.com/song/9641505
+52;Jose Feliciano;A Day In The Life;http://music.baidu.com/song/9638654
+53;张学友;红叶舞秋山;http://music.baidu.com/song/963768
+54;Jose Feliciano;No Dogs Allowed;http://music.baidu.com/song/9637541
+55;苏慧伦;让我比你先说再见;http://music.baidu.com/song/963675
+56;The Allman Brothers Band;Jessica;http://music.baidu.com/song/9636738
+57;The Partridge Family;It'S One Of Those Nights (Yes Love);http://music.baidu.com/song/9636686
+58;The Partridge Family;I'Ll Meet You Halfway;http://music.baidu.com/song/9636629
+59;The Partridge Family;Doesn'T Somebody Want To Be Wanted;http://music.baidu.com/song/9636547
+60;The Partridge Family;Looking Through The Eyes Of Love;http://music.baidu.com/song/9636356
+61;The Partridge Family;Point Me In The Direction Of Albuquerque;http://music.baidu.com/song/9634349
+62;The Partridge Family;I Woke Up In Love This Morning;http://music.baidu.com/song/9634244
+63;老狼;恋恋风尘;http://music.baidu.com/song/963292
+64;老狼;为你难过;http://music.baidu.com/song/962772
+65;张国荣;共同渡过;http://music.baidu.com/song/961090
+66;张国荣;浣花洗剑录;http://music.baidu.com/song/960735
+67;陈明真;爱一个人是很苦的事;http://music.baidu.com/song/957195
+68;叶蓓;回声;http://music.baidu.com/song/957032
+69;张信哲;撩拨;http://music.baidu.com/song/955950
+70;张信哲;不做你的爱人;http://music.baidu.com/song/955407
+71;庾澄庆;让我一次爱个够;http://music.baidu.com/song/954921
+72;王菲;开到荼靡;http://music.baidu.com/song/953546
+73;王菲;影子;http://music.baidu.com/song/953307
+74;林忆莲;听说爱情回来过;http://music.baidu.com/song/951579
+75;齐秦;我拿什么爱你;http://music.baidu.com/song/951083
+76;梅艳芳;我看着寂寞长大;http://music.baidu.com/song/951022
+77;梅艳芳;受不了没有爱情;http://music.baidu.com/song/950955
+78;彭佳慧;爱让我勇敢做梦;http://music.baidu.com/song/950649
+79;Don Henley;Everybody Knows;http://music.baidu.com/song/9467651
+80;孟庭苇;你听海是不是在笑;http://music.baidu.com/song/946054
+81;Don Henley;The Boys Of Summer;http://music.baidu.com/song/9447702
+82;Peter Criss;You Matter To Me;http://music.baidu.com/song/9423738
+83;苏永康;爱得正好;http://music.baidu.com/song/942089
+84;Laura Lee;Dirty Man;http://music.baidu.com/song/9399762
+85;Augustus Pablo;King Tubby Meets The Rockers Uptown;http://music.baidu.com/song/9395017
+86;Return To Forever;Flight Of The Newborn;http://music.baidu.com/song/9386153
+87;李宗盛;生命中的精灵;http://music.baidu.com/song/938465
+88;Max Romeo;War Ina Babylon;http://music.baidu.com/song/9384601
+89;张信哲;爱情对我来说;http://music.baidu.com/song/938324
+90;Return To Forever;No Mystery;http://music.baidu.com/song/9382694
+91;Bay City Rollers;Rock And Roll Love Letter;http://music.baidu.com/song/9379565
+92;Black Uhuru;Youth Of Eglington;http://music.baidu.com/song/9377302
+93;Supertramp;Just A Normal Day;http://music.baidu.com/song/9376128
+94;Supertramp;Poor Boy;http://music.baidu.com/song/9376127
+95;Supertramp;Sister Moonshine;http://music.baidu.com/song/9376123
+96;Gregory Isaacs;Soon Forward;http://music.baidu.com/song/9375435
+97;Air Supply;All Out Of Love;http://music.baidu.com/song/9371923
+98;Jeff Beck Group;Got The Feeling;http://music.baidu.com/song/9368909
+99;罗文;今天不回家;http://music.baidu.com/song/936531
+100;Supertramp;The Meaning;http://music.baidu.com/song/9364755
+101;张信哲;不要对他说;http://music.baidu.com/song/935923
+102;Supertramp;A Soapbox Opera;http://music.baidu.com/song/9359088
+103;王菲;我永远珍惜你我;http://music.baidu.com/song/935901
+104;Cheap Trick;Dream Police;http://music.baidu.com/song/9337006
+105;苏慧伦;僵持;http://music.baidu.com/song/933195
+106;黄品源;回到昨夜的梦里;http://music.baidu.com/song/932291
+107;林忆莲;飞翔;http://music.baidu.com/song/931923
+108;周华健;有故事的人;http://music.baidu.com/song/931861
+109;周华健;鬼迷心窍;http://music.baidu.com/song/931772
+110;周华健;现在才说我爱你;http://music.baidu.com/song/931685
+111;周华健;风雨无阻;http://music.baidu.com/song/931434
+112;赵咏华;最浪漫的事;http://music.baidu.com/song/931064
+113;老狼;久违的事;http://music.baidu.com/song/930966
+114;张国荣;痴心的我;http://music.baidu.com/song/930131
+115;张艾嘉;那天我们谈了一夜的生活;http://music.baidu.com/song/929965
+116;辛晓琪;爱过以后;http://music.baidu.com/song/929133
+117;辛晓琪;托你的福;http://music.baidu.com/song/929076
+118;Muddy Waters;Deep Down In Florida;http://music.baidu.com/song/9280752
+119;万芳;孩子气;http://music.baidu.com/song/927649
+120;万芳;星期三下午;http://music.baidu.com/song/927614
+121;万芳;心软;http://music.baidu.com/song/927601
+122;苏慧伦;第12;http://music.baidu.com/song/927202
+123;苏慧伦;两颗寂寞的心;http://music.baidu.com/song/926989
+124;潘越云;心所爱的人;http://music.baidu.com/song/925874
+125;潘越云;野百合也有春天;http://music.baidu.com/song/925823
+126;刘若英;对白;http://music.baidu.com/song/924892
+127;刘若英;多个朋友;http://music.baidu.com/song/924763
+128;林强;梦中人;http://music.baidu.com/song/924662
+129;Freddie Hubbard;First Light;http://music.baidu.com/song/9244944
+130;Return To Forever;The Romantic Warrior;http://music.baidu.com/song/9244930
+131;李宗盛;你像个孩子;http://music.baidu.com/song/924373
+132;李度;男与女;http://music.baidu.com/song/923964
+133;李度;橡皮戒指;http://music.baidu.com/song/923894
+134;黄品源;海浪;http://music.baidu.com/song/923144
+135;杜德伟;你知道这男人爱你吗;http://music.baidu.com/song/922708
+136;成龙;潮起潮落陪你度过;http://music.baidu.com/song/922273
+137;杨林;移情别恋;http://music.baidu.com/song/916108
+138;Esther Phillips;Home Is Where The Hatred Is;http://music.baidu.com/song/9157118
+139;Esther Phillips;From A Whisper To A Scream;http://music.baidu.com/song/9156923
+140;Esther Phillips;What A Difference A Day Makes;http://music.baidu.com/song/9156830
+141;Esther Phillips;Black-Eyed Blues;http://music.baidu.com/song/9156824
+142;Ryan Starr;If You Really Love Me;http://music.baidu.com/song/9156172
+143;Cheap Trick;California Man;http://music.baidu.com/song/9156155
+144;Cheap Trick;She'S Tight;http://music.baidu.com/song/9156149
+145;Cheap Trick;Southern Girls;http://music.baidu.com/song/9156140
+146;Cheap Trick;Ain'T That A Shame;http://music.baidu.com/song/9156139
+147;David Cassidy;Could It Be Forever;http://music.baidu.com/song/9155933
+148;陈淑桦;一半一半;http://music.baidu.com/song/915059
+149;Neil Diamond;I'M A Believer;http://music.baidu.com/song/9149910
+150;陈淑桦;黑发变白发;http://music.baidu.com/song/914759
+151;Mac Davis;One Hell Of A Woman;http://music.baidu.com/song/9145096
+152;Boz Scaggs;Love Me Tomorrow;http://music.baidu.com/song/9145081
+153;Boz Scaggs;What Do You Want The Girl To Do;http://music.baidu.com/song/9145077
+154;Boz Scaggs;Jump Street;http://music.baidu.com/song/9145076
+155;Boz Scaggs;Georgia;http://music.baidu.com/song/9145075
+156;The Friends Of Distinction;It'S Sunday;http://music.baidu.com/song/9142142
+157;The Friends Of Distinction;And I Love Him;http://music.baidu.com/song/9140207
+158;The Friends Of Distinction;Going In Circles;http://music.baidu.com/song/9140203
+159;The Friends Of Distinction;Grazing In The Grass;http://music.baidu.com/song/9140199
+160;John Denver;Back Home Again;http://music.baidu.com/song/9140159
+161;Angela Bofill;Under The Moon And Over The Sky;http://music.baidu.com/song/9139912
+162;Loverboy;Turn Me Loose;http://music.baidu.com/song/9134027
+163;Robert Gordon;The Catman;http://music.baidu.com/song/9108943
+164;Robert Gordon;Love My Baby;http://music.baidu.com/song/9108939
+165;Robert Gordon;Rock Billy Boogie;http://music.baidu.com/song/9108938
+166;王菲;从明日开始;http://music.baidu.com/song/910662
+167;王菲;兜兜转;http://music.baidu.com/song/910576
+168;邓丽君;如果没有你;http://music.baidu.com/song/909068
+169;邓丽君;雪地上的回忆;http://music.baidu.com/song/908876
+170;邓丽君;相爱如往昔;http://music.baidu.com/song/908701
+171;邓丽君;冬之恋情;http://music.baidu.com/song/908644
+172;邓丽君;失去的春天;http://music.baidu.com/song/908584
+173;邓丽君;天外天上天无涯;http://music.baidu.com/song/908510
+174;苏慧伦;月历;http://music.baidu.com/song/908121
+175;Jeff Wayne;The Artilleryman Returns;http://music.baidu.com/song/9074520
+176;凤飞飞;追梦人;http://music.baidu.com/song/907397
+177;齐豫;幸福;http://music.baidu.com/song/907164
+178;罗大佑;东方之珠;http://music.baidu.com/song/906802
+179;王菲;重燃;http://music.baidu.com/song/905872
+180;Europe;Cherokee;http://music.baidu.com/song/9046564
+181;齐豫;我在梦中哭泣了;http://music.baidu.com/song/904235
+182;苏慧伦;愤怒;http://music.baidu.com/song/903431
+183;The Human League;Being Boiled;http://music.baidu.com/song/9003017
+184;The Police;Every Little Thing She Does Is Magic;http://music.baidu.com/song/8974018
+185;David Gilmour;Take A Breath;http://music.baidu.com/song/8931635
+186;David Gilmour;This Heaven;http://music.baidu.com/song/8931632
+187;David Gilmour;Castellorizon;http://music.baidu.com/song/8931628
+188;Argent;Hold Your Head Up;http://music.baidu.com/song/8923270
+189;Hot Tuna;Mann'S Fate;http://music.baidu.com/song/8920663
+190;Fear of Pop;I Paid My Money;http://music.baidu.com/song/8920547
+191;陈淑桦;秋天还早;http://music.baidu.com/song/890530
+192;Editors;Bones;http://music.baidu.com/song/8898720
+193;Journey;Topaz;http://music.baidu.com/song/8893228
+194;Judas Priest;You'Ve Got Another Thing Comin';http://music.baidu.com/song/8892351
+195;Jim Steinman;Rock And Roll Dreams Come Through;http://music.baidu.com/song/8892082
+196;Hot Tuna;Highway Song;http://music.baidu.com/song/8891552
+197;Boston;Party;http://music.baidu.com/song/8891239
+198;Jennifer Warnes;Right Time Of The Night;http://music.baidu.com/song/8889675
+199;Jeff Beck;Thelonius;http://music.baidu.com/song/8884477
+200;Molly Hatchet;Boogie No More;http://music.baidu.com/song/8884033
+201;The Jacksons;Things I Do For You;http://music.baidu.com/song/8883413
+202;David Essex;Gonna Make You A Star;http://music.baidu.com/song/8883255
+203;Molly Hatchet;Fall Of The Peacemakers;http://music.baidu.com/song/8883086
+204;The Jimi Hendrix Experience;Voodoo Child (Slight Return);http://music.baidu.com/song/8881717
+205;Jeff Beck;Constipated Duck;http://music.baidu.com/song/8876109
+206;The Allman Brothers Band;Melissa;http://music.baidu.com/song/8875743
+207;Molly Hatchet;Gator Country;http://music.baidu.com/song/8871475
+208;Terry Reid;Faith To Arise;http://music.baidu.com/song/8859955
+209;Jeff Beck;Air Blower;http://music.baidu.com/song/8859860
+210;郑伊健;偏爱你;http://music.baidu.com/song/8858211
+211;Hot Tuna;99 Year Blues;http://music.baidu.com/song/8852802
+212;Lonnie Liston Smith;Sunset;http://music.baidu.com/song/8851194
+213;Stanley Turrentine;Vera Cruz;http://music.baidu.com/song/8845383
+214;Herbie Hancock;Sun Touch;http://music.baidu.com/song/8843964
+215;Mandy Moore;Can We Still Be Friends;http://music.baidu.com/song/8842988
+216;Leonard Cohen;The Stranger Song;http://music.baidu.com/song/8842905
+217;Mahalia Jackson;Didn'T It Rain;http://music.baidu.com/song/8840644
+218;Molly Hatchet;Bounty Hunter;http://music.baidu.com/song/8836125
+219;Ian Hunter;Bastard;http://music.baidu.com/song/8835979
+220;The Allman Brothers Band;Southbound;http://music.baidu.com/song/8835962
+221;Aerosmith;Draw The Line;http://music.baidu.com/song/8835526
+222;Mahalia Jackson;Go Tell It On The Mountain;http://music.baidu.com/song/8835372
+223;George Duke;Brazilian Sugar;http://music.baidu.com/song/8835304
+224;George Duke;I Want You For Myself;http://music.baidu.com/song/8834994
+225;Lonnie Liston Smith;Quiet Moments;http://music.baidu.com/song/8833053
+226;Annie Lennox;Pavement Cracks;http://music.baidu.com/song/8829741
+227;The Three Degrees;I Didn'T Know;http://music.baidu.com/song/8829626
+228;Pure Prairie League;Falling In And Out Of Love;http://music.baidu.com/song/8829140
+229;Pure Prairie League;Early Morning Riser;http://music.baidu.com/song/8829138
+230;Hot Tuna;Keep On Truckin';http://music.baidu.com/song/8828822
+231;The Allman Brothers Band;Blue Sky;http://music.baidu.com/song/8828730
+232;Elvis Costello;Mystery Dance;http://music.baidu.com/song/8828328
+233;Molly Hatchet;Dreams I'Ll Never See;http://music.baidu.com/song/8823793
+234;郑伊健;还能爱谁;http://music.baidu.com/song/8822103
+235;Taj Mahal;Statesboro Blues;http://music.baidu.com/song/8820583
+236;ELF;Never More;http://music.baidu.com/song/8820469
+237;Jefferson Airplane;Wooden Ships;http://music.baidu.com/song/8816938
+238;Jefferson Airplane;Plastic Fantastic Lover;http://music.baidu.com/song/8816933
+239;Jefferson Airplane;Blues From An Airplane;http://music.baidu.com/song/8816931
+240;Jefferson Airplane;She Has Funny Cars;http://music.baidu.com/song/8816929
+241;Jerry Goldsmith;Leaving Drydock;http://music.baidu.com/song/8811547
+242;Jerry Goldsmith;The Enterprise;http://music.baidu.com/song/8811546
+243;Harry Nilsson;Spaceman;http://music.baidu.com/song/8808705
+244;Art Garfunkel;Watermark;http://music.baidu.com/song/8806787
+245;George Duke;Summer Breezin';http://music.baidu.com/song/8805849
+246;James Taylor;How Sweet It Is;http://music.baidu.com/song/8805684
+247;Ellen Foley;We Belong To The Night;http://music.baidu.com/song/8805033
+248;James Brown;Think;http://music.baidu.com/song/8802149
+249;Ellen Foley;What'S A Matter Baby;http://music.baidu.com/song/8801513
+250;ELF;Dixie Lee Junction;http://music.baidu.com/song/8798929
+251;The Jacksons;Do What You Wanna;http://music.baidu.com/song/8798503
+252;Pure Prairie League;Amie;http://music.baidu.com/song/8798446
+253;Eddie Money;Shakin';http://music.baidu.com/song/8796454
+254;Jeff Beck;Cause We'Ve Ended As Lovers;http://music.baidu.com/song/8794974
+255;The Romantics;Rock You Up;http://music.baidu.com/song/8789400
+256;Aerosmith;S.O.S. (Too Bad);http://music.baidu.com/song/8788912
+257;Boz Scaggs;Lido Shuffle;http://music.baidu.com/song/8788069
+258;Keb' Mo';Victims Of Comfort;http://music.baidu.com/song/8787698
+259;Dodgy;Good Enough;http://music.baidu.com/song/8786221
+260;The Main Ingredient;Spinning Around (I Must Be Falling In Love);http://music.baidu.com/song/8786121
+261;The Statler Brothers;I'Ll Go To My Grave Loving You;http://music.baidu.com/song/8784772
+262;Stevie Ray Vaughan,Double Trouble;Couldn'T Stand The Weather;http://music.baidu.com/song/8783748
+263;Journey;Open Arms;http://music.baidu.com/song/8783468
+264;PAUL DAVIS;Bad Dream;http://music.baidu.com/song/8783367
+265;PAUL DAVIS;Medicine Woman;http://music.baidu.com/song/8783366
+266;Grace Slick;Better Lying Down;http://music.baidu.com/song/8783169
+267;Donny Osmond;Puppy Love;http://music.baidu.com/song/8781171
+268;Aerosmith;Pandora'S Box;http://music.baidu.com/song/8780793
+269;ELF;Sit Down Honey (Everything Will Be Alright);http://music.baidu.com/song/8780668
+270;The Emotions;Flowers;http://music.baidu.com/song/8779451
+271;Engelbert Humperdinck;Winter World Of Love;http://music.baidu.com/song/8778476
+272;The O'Jays;Sunshine;http://music.baidu.com/song/8778453
+273;James Taylor;Mexico;http://music.baidu.com/song/8778293
+274;ELF;I'M Coming Back For You;http://music.baidu.com/song/8778099
+275;Janis Joplin;Kozmic Blues;http://music.baidu.com/song/8776233
+276;Black Sabbath;Electric Funeral;http://music.baidu.com/song/8776143
+277;Gloria Gaynor;Never Can Say Goodbye;http://music.baidu.com/song/8772666
+278;Willie Hutch;Give Me Some Of That Good Old Love;http://music.baidu.com/song/8768614
+279;Willie Hutch;Theme Of Foxy Brown;http://music.baidu.com/song/8768611
+280;Kansas;Dust In The Wind;http://music.baidu.com/song/8768460
+281;Steve Forbert;Romeo'S Tune;http://music.baidu.com/song/8768286
+282;The Main Ingredient;I'M So Proud;http://music.baidu.com/song/8766805
+283;Boz Scaggs;Miss Sun;http://music.baidu.com/song/8766293
+284;Kansas;Portrait (He Knew);http://music.baidu.com/song/8766074
+285;容祖儿;不要对他说;http://music.baidu.com/song/876335
+286;Willie Hutch;Foxy Lady;http://music.baidu.com/song/8762825
+287;Willie Hutch;Whatever You Do (Do It Good);http://music.baidu.com/song/8762405
+288;Engelbert Humperdinck;There Goes My Everything;http://music.baidu.com/song/8761408
+289;Jefferson Airplane;Lather;http://music.baidu.com/song/8760722
+290;The New Birth;It'S Been A Long Time;http://music.baidu.com/song/8760714
+291;Boz Scaggs;Breakdown Dead Ahead;http://music.baidu.com/song/8760001
+292;Boz Scaggs;You Make It So Hard (To Say No);http://music.baidu.com/song/8759998
+293;老狼;爱已成歌;http://music.baidu.com/song/875949
+294;Boz Scaggs;It'S Over;http://music.baidu.com/song/8758680
+295;The Vibrators;Automatic Lover;http://music.baidu.com/song/8756807
+296;Willie Hutch;Hospital Prelude Of Love Theme;http://music.baidu.com/song/8754717
+297;Quiet Riot;Love'S A Bitch;http://music.baidu.com/song/8753008
+298;David Essex;Lamplight;http://music.baidu.com/song/8750863
+299;Willie Hutch;Chase;http://music.baidu.com/song/8746283
+300;Billy Joel;Only The Good Die Young;http://music.baidu.com/song/8745797
+301;Vangelis;Pulstar;http://music.baidu.com/song/8744590
+302;Wham!;Young Guns (Go For It!);http://music.baidu.com/song/8742579
+303;The Clash;The Guns Of Brixton;http://music.baidu.com/song/8742221
+304;Tower Of Power;So Very Hard To Go;http://music.baidu.com/song/8740969
+305;Spandau Ballet;I'Ll Fly For You;http://music.baidu.com/song/8737952
+306;Harmonia;Hausmusik;http://music.baidu.com/song/8735660
+307;Harmonia;Veterano;http://music.baidu.com/song/8735659
+308;Harmonia;Dino;http://music.baidu.com/song/8735655
+309;Bukka White;Parchman Farm Blues;http://music.baidu.com/song/8734678
+310;Johnny Nash;Tears On My Pillow;http://music.baidu.com/song/8734377
+311;The Nolans;Who'S Gonna Rock You;http://music.baidu.com/song/8731936
+312;Harmonia;Sehr Kosmisch;http://music.baidu.com/song/8729007
+313;Johnny Nash;Hold Me Tight;http://music.baidu.com/song/8728482
+314;The Mighty Diamonds;Right Time;http://music.baidu.com/song/8726121
+315;Harmonia;Ahoi!;http://music.baidu.com/song/8725221
+316;Joe Jackson;One More Time;http://music.baidu.com/song/8722727
+317;Eddie Money;Think I'M In Love;http://music.baidu.com/song/8722284
+318;Herbie Hancock;Chameleon;http://music.baidu.com/song/8721599
+319;New Riders Of The Purple Sage;All I Ever Wanted;http://music.baidu.com/song/8719351
+320;Johnny Winter;I'M Yours And I'M Hers;http://music.baidu.com/song/8718994
+321;New Riders Of The Purple Sage;Henry;http://music.baidu.com/song/8715600
+322;Kris Kristofferson;To Beat The Devil;http://music.baidu.com/song/8714981
+323;The Chambers Brothers;People Get Ready;http://music.baidu.com/song/8714432
+324;Joe Jackson;Look Sharp!;http://music.baidu.com/song/8714064
+325;Herbie Hancock;Sly;http://music.baidu.com/song/8713304
+326;The O'Jays;992 Arguments;http://music.baidu.com/song/8713264
+327;John Cale;Big White Cloud;http://music.baidu.com/song/8712908
+328;Regina Belle;This Is Love;http://music.baidu.com/song/8712803
+329;Herbie Hancock;Vein Melter;http://music.baidu.com/song/8712711
+330;The O'Jays;You Got Your Hooks In Me;http://music.baidu.com/song/8711783
+331;New Riders Of The Purple Sage;Last Lonely Eagle;http://music.baidu.com/song/8709406
+332;Journey;Majestic;http://music.baidu.com/song/8706258
+333;Johnny Winter;Dallas;http://music.baidu.com/song/8705814
+334;Kris Kristofferson;Blame It On The Stones;http://music.baidu.com/song/8705489
+335;Toto;Make Believe;http://music.baidu.com/song/8704375
+336;Deniece Williams;Free;http://music.baidu.com/song/8703152
+337;The Chambers Brothers;I Can'T Turn You Loose;http://music.baidu.com/song/8702885
+338;Anni-Frid Lyngstad;Ska Man Skratta Eller Grata;http://music.baidu.com/song/8700220
+339;Anni-Frid Lyngstad;Som En Sparv;http://music.baidu.com/song/8697789
+340;Toto;Don'T Chain My Heart;http://music.baidu.com/song/8693509
+341;Bruce Springsteen & The E Street Band;Rosalita (Come Out Tonight);http://music.baidu.com/song/8693004
+342;Ram Jam;Overloaded;http://music.baidu.com/song/8692638
+343;Ram Jam;404;http://music.baidu.com/song/8692637
+344;Ram Jam;Black Betty;http://music.baidu.com/song/8692354
+345;Lee Dorsey;Give It Up;http://music.baidu.com/song/8691964
+346;Ram Jam;Gone Wild;http://music.baidu.com/song/8691807
+347;蔡幸娟;缘份;http://music.baidu.com/song/868458
+348;蔡幸娟;我不要别人的爱;http://music.baidu.com/song/868336
+349;蔡幸娟;你是秋天;http://music.baidu.com/song/868180
+350;梅艳芳;想得开;http://music.baidu.com/song/864393
+351;梅艳芳;到明天再做好女人;http://music.baidu.com/song/864353
+352;彭佳慧;失恋一个月;http://music.baidu.com/song/863946
+353;陈明真;眼泪不再为你而流;http://music.baidu.com/song/861606
+354;The Newcomers;Pin The Tail On The Donkey;http://music.baidu.com/song/8587271
+355;The Newcomers;Mannish Boy;http://music.baidu.com/song/8587269
+356;Isaac Hayes;Ellie'S Love Theme;http://music.baidu.com/song/8580747
+357;Isaac Hayes;I Stand Accused;http://music.baidu.com/song/8580728
+358;Bryan Adams;(Everything I Do) I Do It For You;http://music.baidu.com/song/8579104
+359;Lamont Dozier;Going Back To My Roots;http://music.baidu.com/song/8579019
+360;Norman Greenbaum;Spirit In The Sky;http://music.baidu.com/song/8578793
+361;The Flying Burrito Brothers;High Fashion Queen;http://music.baidu.com/song/8577616
+362;Thelma Houston;I Want To Go Back There Again;http://music.baidu.com/song/8577411
+363;Martin Carthy;Scarborough Fair;http://music.baidu.com/song/8577046
+364;Rufus Thomas;The Breakdown (Part 1);http://music.baidu.com/song/8576981
+365;Roy Ayers;The Third Eye;http://music.baidu.com/song/8576195
+366;The Cranberries;Dying In The Sun;http://music.baidu.com/song/8576135
+367;Jimmy Osmond;Long Haired Lover From Liverpool;http://music.baidu.com/song/8575940
+368;Eric Burdon;Tomb Of The Unknown Singer;http://music.baidu.com/song/8575918
+369;Eric Burdon;I Was Born To Live The Blues;http://music.baidu.com/song/8575917
+370;Deep Purple;Nobody'S Home;http://music.baidu.com/song/8575899
+371;Central Line;Walking Into Sunshine;http://music.baidu.com/song/8575702
+372;Carl Carlton;Everlasting Love;http://music.baidu.com/song/8575681
+373;Stevie Wonder;Boogie On Reggae Woman;http://music.baidu.com/song/8574118
+374;Matthews' Southern Comfort;Woodstock;http://music.baidu.com/song/8573975
+375;The Kinks;Days;http://music.baidu.com/song/8573950
+376;Crazy Elephant;Gimme Gimme Good Lovin';http://music.baidu.com/song/8573933
+377;The Association;Windy;http://music.baidu.com/song/8573915
+378;Michel Polnareff;L'Oiseau De Nuit;http://music.baidu.com/song/8573191
+379;Love Unlimited;It May Be Winter Outside (But In My Heart It'S Spring);http://music.baidu.com/song/8573146
+380;Love Unlimited;Walkin' In The Rain With The One I Love;http://music.baidu.com/song/8573145
+381;Richie Havens;Follow;http://music.baidu.com/song/8572586
+382;The Righteous Brothers;Unchained Melody;http://music.baidu.com/song/8572206
+383;Marlena Shaw;California Soul;http://music.baidu.com/song/8572022
+384;Marlena Shaw;Let'S Wade In The Water;http://music.baidu.com/song/8571963
+385;The Police;On Any Other Day;http://music.baidu.com/song/8571291
+386;The Police;Walking On The Moon;http://music.baidu.com/song/8571290
+387;The Allman Brothers Band;Little Martha;http://music.baidu.com/song/8571221
+388;The Ozark Mountain Daredevils;Jackie Blue;http://music.baidu.com/song/8571004
+389;Pablo Cruise;Love Will Find A Way;http://music.baidu.com/song/8571002
+390;Blondie;Heart Of Glass;http://music.baidu.com/song/8570987
+391;Edwin Starr;Stop The War Now;http://music.baidu.com/song/8570928
+392;Willie Hutch;Brother'S Gonna Work It Out;http://music.baidu.com/song/8570920
+393;The Rubettes;Kid Runaway;http://music.baidu.com/song/8569640
+394;The Rubettes;Movin';http://music.baidu.com/song/8569639
+395;The Rubettes;Judy Run Run;http://music.baidu.com/song/8569633
+396;The Rubettes;My Buddy Holly Days;http://music.baidu.com/song/8569629
+397;R. Dean Taylor;Indiana Wants Me;http://music.baidu.com/song/8569576
+398;Gloria Gaynor;This Love Affair;http://music.baidu.com/song/8569295
+399;The Bar-Kays;Holy Ghost;http://music.baidu.com/song/8569268
+400;Jackson Sisters;I Believe In Miracles;http://music.baidu.com/song/8569255
+401;Fairport Convention;Matty Groves;http://music.baidu.com/song/8569154
+402;Fairport Convention;Come All Ye;http://music.baidu.com/song/8569153
+403;Fairport Convention;Who Knows Where The Time Goes?;http://music.baidu.com/song/8569151
+404;Fairport Convention;Si Tu Dois Partir;http://music.baidu.com/song/8569150
+405;Fairport Convention;A Sailor'S Life;http://music.baidu.com/song/8569149
+406;Fairport Convention;Cajun Woman;http://music.baidu.com/song/8569148
+407;Fairport Convention;Meet On The Ledge;http://music.baidu.com/song/8569147
+408;Fairport Convention;Fotheringay;http://music.baidu.com/song/8569145
+409;Fairport Convention;She Moves Through The Fair;http://music.baidu.com/song/8569144
+410;Bachman-Turner Overdrive;Four Wheel Drive;http://music.baidu.com/song/8567947
+411;The Gap Band;Burn Rubber On Me (Why You Wanna Hurt Me);http://music.baidu.com/song/8567905
+412;Tata Vega;Get It Up For Love;http://music.baidu.com/song/8567901
+413;Gene Chandler;Get Down;http://music.baidu.com/song/8567899
+414;Gregory Isaacs;Universal Tribulation;http://music.baidu.com/song/8567881
+415;Roy Black;Dein SchöNstes Geschenk;http://music.baidu.com/song/8567838
+416;Grace Jones;I Need A Man;http://music.baidu.com/song/8567451
+417;David Bowie;Silly Boy Blue;http://music.baidu.com/song/8567222
+418;The Flying Burrito Brothers;Hot Burrito #1;http://music.baidu.com/song/8566253
+419;Elvis Costello;(The Angels Wanna Wear My) Red Shoes;http://music.baidu.com/song/8566222
+420;Melissa Etheridge;Angels Would Fall;http://music.baidu.com/song/8566147
+421;Freddie King;Have You Ever Loved A Woman;http://music.baidu.com/song/8565867
+422;Buddy Guy;First Time I Met The Blues;http://music.baidu.com/song/8565843
+423;The Undisputed Truth;You Make Your Own Heaven And Hell Right Here On Earth;http://music.baidu.com/song/8564205
+424;Isaac Hayes;The Look Of Love;http://music.baidu.com/song/8564140
+425;Isaac Hayes;Walk On By;http://music.baidu.com/song/8564138
+426;Love Unlimited;I Belong To You;http://music.baidu.com/song/8562578
+427;Love Unlimited;Move Me No Mountain;http://music.baidu.com/song/8562574
+428;The Upsetters;Dread Lion;http://music.baidu.com/song/8562556
+429;Wishbone Ash;Queen Of Torture;http://music.baidu.com/song/8562306
+430;Bo Diddley;Hey! Bo Diddley;http://music.baidu.com/song/8561347
+431;Amen Corner;Bend Me Shape Me;http://music.baidu.com/song/8558717
+432;Tony Christie;(Is This The Way To) Amarillo;http://music.baidu.com/song/8558539
+433;The Police;Don'T Stand So Close To Me;http://music.baidu.com/song/8557644
+434;The Jam;Start!;http://music.baidu.com/song/8557598
+435;Meat Loaf;All Revved Up With No Place To Go;http://music.baidu.com/song/8556179
+436;Curtis Mayfield;Move On Up;http://music.baidu.com/song/8553431
+437;Jackie Moon;Love Me Sexy;http://music.baidu.com/song/8553424
+438;John Fogerty;Bad Moon Rising;http://music.baidu.com/song/8549040
+439;John Fogerty;The Old Man Down The Road;http://music.baidu.com/song/8549038
+440;John Fogerty;Centerfield;http://music.baidu.com/song/8549036
+441;Gloria Gaynor;(If You Want It) Do It Yourself;http://music.baidu.com/song/8544828
+442;Commodores;Slippery When Wet;http://music.baidu.com/song/8544746
+443;The Stylistics;You'Re A Big Girl Now;http://music.baidu.com/song/8544456
+444;Camel;Another Night;http://music.baidu.com/song/8541427
+445;Ernest Ranglin;Surfin';http://music.baidu.com/song/8540670
+446;Don Henley;The Garden Of Allah;http://music.baidu.com/song/8540577
+447;Steel Pulse;Macka Splaff;http://music.baidu.com/song/8540412
+448;Steel Pulse;Prodigal Son;http://music.baidu.com/song/8540409
+449;Steel Pulse;Bad Man;http://music.baidu.com/song/8540406
+450;Steel Pulse;Handsworth Revolution;http://music.baidu.com/song/8540405
+451;Steel Pulse;Drug Squad;http://music.baidu.com/song/8540334
+452;Steel Pulse;Babylon Makes The Rules;http://music.baidu.com/song/8540330
+453;Ekseption;Morning Rose;http://music.baidu.com/song/8539782
+454;Ekseption;Rhapsody In Blue;http://music.baidu.com/song/8539762
+455;Ekseption;Air;http://music.baidu.com/song/8539760
+456;Ekseption;The 5Th;http://music.baidu.com/song/8539756
+457;The Police;The Bed'S Too Big Without You;http://music.baidu.com/song/8538686
+458;Tesla;Love Song;http://music.baidu.com/song/8538536
+459;Rick Wakeman;Merlin The Magician;http://music.baidu.com/song/8537919
+460;Rick Wakeman;Sir Lancelot And The Black Knight;http://music.baidu.com/song/8537918
+461;Max Romeo;Stealing In The Name Of Jah;http://music.baidu.com/song/8537861
+462;Steel Pulse;Biko'S Kindred Lament;http://music.baidu.com/song/8537854
+463;The Rubettes;The Sha Na Na Song;http://music.baidu.com/song/8537825
+464;The Rubettes;Ooh La La;http://music.baidu.com/song/8537821
+465;The Rubettes;You'Re The Reason Why;http://music.baidu.com/song/8537820
+466;The Rubettes;Baby I Know;http://music.baidu.com/song/8537819
+467;The Rubettes;Little Darling;http://music.baidu.com/song/8537817
+468;The Rubettes;Juke Box Jive;http://music.baidu.com/song/8537816
+469;The Rubettes;I Can Do It;http://music.baidu.com/song/8537815
+470;The Rubettes;Don'T Do It Baby;http://music.baidu.com/song/8537814
+471;The Rubettes;Little 69;http://music.baidu.com/song/8537813
+472;The Rubettes;Julia;http://music.baidu.com/song/8537812
+473;The Rubettes;I'M Just Dreaming;http://music.baidu.com/song/8537811
+474;The Rubettes;Under One Roof;http://music.baidu.com/song/8537810
+475;The Rubettes;Tonight;http://music.baidu.com/song/8537809
+476;Kevin Ayers;May I?;http://music.baidu.com/song/8537771
+477;Sparks;Never Turn Your Back On Mother Earth;http://music.baidu.com/song/8537752
+478;Free;Mr. Big;http://music.baidu.com/song/8537664
+479;Free;Wishing Well;http://music.baidu.com/song/8537658
+480;John Mayall;Room To Move;http://music.baidu.com/song/8536615
+481;Free;All Right Now;http://music.baidu.com/song/8533634
+482;yvonne elliman;Hello Stranger;http://music.baidu.com/song/8529595
+483;dead kennedys;Viva Las Vegas;http://music.baidu.com/song/8528475
+484;The Yardbirds;For Your Love;http://music.baidu.com/song/8528462
+485;Tom Jones;She'S A Lady;http://music.baidu.com/song/8528461
+486;The Rolling Stones;Sway;http://music.baidu.com/song/8528255
+487;The Rolling Stones;Memo From Turner;http://music.baidu.com/song/8528136
+488;Wet Willie;Grits Ain'T Groceries;http://music.baidu.com/song/8525696
+489;Wet Willie;Keep On Smilin';http://music.baidu.com/song/8525690
+490;The Osmonds;The Proud One;http://music.baidu.com/song/8523515
+491;The Osmonds;Yo-Yo;http://music.baidu.com/song/8523502
+492;The Osmonds;Down By The Lazy River;http://music.baidu.com/song/8523455
+493;Donny Osmond;Go Away Little Girl;http://music.baidu.com/song/8523387
+494;Jason Wade;You Belong To Me;http://music.baidu.com/song/8523344
+495;The Osmonds;One Bad Apple;http://music.baidu.com/song/8523333
+496;Lynyrd Skynyrd;Every Mother'S Son;http://music.baidu.com/song/8521614
+497;Strawbs;Benedictus;http://music.baidu.com/song/8521540
+498;Strawbs;Lay Down;http://music.baidu.com/song/8521531
+499;Norman Blake;You Are My Sunshine;http://music.baidu.com/song/8521438
+500;Poco;Rose Of Cimarron;http://music.baidu.com/song/8520617
+501;Poco;Keep On Tryin';http://music.baidu.com/song/8520429
+502;Stevie Wonder;Love'S In Need Of Love Today;http://music.baidu.com/song/8520030
+503;Stevie Wonder;Send One Your Love;http://music.baidu.com/song/8520028
+504;Stevie Wonder;Overjoyed;http://music.baidu.com/song/8520027
+505;Stevie Wonder;All In Love Is Fair;http://music.baidu.com/song/8520023
+506;Stevie Wonder;Golden Lady;http://music.baidu.com/song/8520011
+507;Creative Source;Who Is He And What Is He To You;http://music.baidu.com/song/8517837
+508;Carpenters;Yesterday Once More;http://music.baidu.com/song/8517151
+509;Stevie Wonder;You Haven'T Done Nothin';http://music.baidu.com/song/8516279
+510;Bunny Wailer;Fig Tree;http://music.baidu.com/song/8515926
+511;Supertramp;From Now On;http://music.baidu.com/song/8515011
+512;Supertramp;Hide In Your Shell;http://music.baidu.com/song/8515010
+513;The Seeds;Pushin' Too Hard;http://music.baidu.com/song/8513949
+514;Tammi Terrell;All I Do Is Think About You;http://music.baidu.com/song/8512708
+515;Styx;Lady '95;http://music.baidu.com/song/8512655
+516;Slim Smith;Just A Dream;http://music.baidu.com/song/8512293
+517;陈淑桦;爱来时;http://music.baidu.com/song/847584
+518;Matching Mole;Beer As In Braindeer;http://music.baidu.com/song/8452618
+519;Matching Mole;Instant Pussy;http://music.baidu.com/song/8452616
+520;Matching Mole;Part Of The Dance;http://music.baidu.com/song/8452597
+521;Matching Mole;Signed Curtain;http://music.baidu.com/song/8452584
+522;陈淑桦;你变了没有;http://music.baidu.com/song/845153
+523;陈晓东;比我幸福;http://music.baidu.com/song/845106
+524;陈淑桦;想你的人没有睡;http://music.baidu.com/song/845048
+525;陈淑桦;聪明糊涂心;http://music.baidu.com/song/844984
+526;陈淑桦;流光飞舞;http://music.baidu.com/song/844889
+527;陈淑桦;笑红尘;http://music.baidu.com/song/844678
+528;Jaco Pastorius;Portrait Of Tracy;http://music.baidu.com/song/8446106
+529;陈淑桦;滚滚红尘;http://music.baidu.com/song/844558
+530;陈淑桦;梦醒时分;http://music.baidu.com/song/844445
+531;陈淑桦;红楼梦;http://music.baidu.com/song/843835
+532;陈淑桦;娃娃已长大;http://music.baidu.com/song/843694
+533;陈淑桦;拥抱我;http://music.baidu.com/song/843621
+534;陈淑桦;秋别;http://music.baidu.com/song/843525
+535;陈淑桦;明天还爱我吗;http://music.baidu.com/song/843475
+536;陈淑桦,张国荣;当真就好;http://music.baidu.com/song/843372
+537;陈淑桦;生生世世;http://music.baidu.com/song/843328
+538;张国荣;绝不可以;http://music.baidu.com/song/840884
+539;Conway Twitty;Linda On My Mind;http://music.baidu.com/song/8394298
+540;Freddie Hubbard;Povo;http://music.baidu.com/song/8392689
+541;Dr. Hook;Queen Of The Silver Dollar;http://music.baidu.com/song/8392638
+542;Dr. Hook;Sylvia'S Mother;http://music.baidu.com/song/8392269
+543;Dr. Hook;Cover Of The Rolling Stone;http://music.baidu.com/song/8392227
+544;Al DiMeola;Mediterranean Sundance;http://music.baidu.com/song/8392131
+545;Kathy Mattea;Walking Away A Winner;http://music.baidu.com/song/8389163
+546;Midlake;Head Home;http://music.baidu.com/song/8383248
+547;Donovan;Mellow Yellow;http://music.baidu.com/song/8377870
+548;Stephanie Mills;I Feel Good All Over;http://music.baidu.com/song/8377808
+549;Stephanie Mills;The Medicine Song;http://music.baidu.com/song/8377806
+550;Stephanie Mills;Put Your Body In It;http://music.baidu.com/song/8377781
+551;Stephanie Mills;What Cha Gonna Do With My Lovin';http://music.baidu.com/song/8377763
+552;老狼;来自我心;http://music.baidu.com/song/837461
+553;Donna Summer;Sunset People;http://music.baidu.com/song/8372006
+554;Donna Summer;Heaven Knows;http://music.baidu.com/song/8372002
+555;The Originals;The Bells;http://music.baidu.com/song/8368419
+556;Hooters;500 Miles;http://music.baidu.com/song/8350180
+557;Van Morrison;T.B. Sheets;http://music.baidu.com/song/8350022
+558;Van Morrison;Beside You;http://music.baidu.com/song/8350019
+559;Taj Mahal;She Caught The Katy And Left Me A Mule To Ride;http://music.baidu.com/song/8349970
+560;Eddie Money;Baby Hold On;http://music.baidu.com/song/8349949
+561;The Moody Blues;Dear Diary;http://music.baidu.com/song/8345806
+562;The Moody Blues;The Morning: Another Morning;http://music.baidu.com/song/8345787
+563;The Staple Singers;If You'Re Ready (Come Go With Me);http://music.baidu.com/song/8341125
+564;Johnny Hammond;Breakout;http://music.baidu.com/song/8340497
+565;Johnny Hammond;It'S Too Late;http://music.baidu.com/song/8340493
+566;Three Dog Night;Liar;http://music.baidu.com/song/8337727
+567;Three Dog Night;One Man Band;http://music.baidu.com/song/8337725
+568;Three Dog Night;Out In The Country;http://music.baidu.com/song/8337724
+569;Three Dog Night;Celebrate;http://music.baidu.com/song/8337722
+570;Linda Ronstadt;Miss Otis Regrets;http://music.baidu.com/song/8337710
+571;Phyllis Hyman;Kiss You All Over;http://music.baidu.com/song/8325834
+572;John Mellencamp;Your Life Is Now;http://music.baidu.com/song/8325684
+573;Eric Carmen;Make Me Lose Control;http://music.baidu.com/song/8324565
+574;Eric Carmen;Never Gonna Fall In Love Again;http://music.baidu.com/song/8324564
+575;The Alan Parsons Project;Old And Wise;http://music.baidu.com/song/8324515
+576;The Alan Parsons Project;Eye In The Sky;http://music.baidu.com/song/8324505
+577;Lita Ford;Shot Of Poison;http://music.baidu.com/song/8324441
+578;Jefferson Starship;Fast Buck Freddie;http://music.baidu.com/song/8324431
+579;Jefferson Starship;Play On Love;http://music.baidu.com/song/8324429
+580;Alice Cooper;School'S Out;http://music.baidu.com/song/8323789
+581;Alice Cooper;I'M Eighteen;http://music.baidu.com/song/8323787
+582;Alice Cooper;Billion Dollar Babies;http://music.baidu.com/song/8323786
+583;Alice Cooper;No More Mr. Nice Guy;http://music.baidu.com/song/8323706
+584;Billy Joel;Movin' Out (Anthony'S Song);http://music.baidu.com/song/8322375
+585;Billy Joel;Allentown;http://music.baidu.com/song/8321900
+586;Mac Davis;Baby Don'T Get Hooked On Me;http://music.baidu.com/song/8316280
+587;The Velvet Underground;New Age;http://music.baidu.com/song/8311023
+588;The Velvet Underground;Venus In Furs;http://music.baidu.com/song/8311020
+589;The Velvet Underground;After Hours;http://music.baidu.com/song/8311014
+590;The Velvet Underground;Femme Fatale;http://music.baidu.com/song/8311013
+591;The Velvet Underground;I'M Waiting For The Man;http://music.baidu.com/song/8311007
+592;Linda Ronstadt;It'S So Easy;http://music.baidu.com/song/8310840
+593;Steppenwolf;For Ladies Only;http://music.baidu.com/song/8310770
+594;Steppenwolf;The Ostrich;http://music.baidu.com/song/8310752
+595;Isaac Hayes;Run Fay Run;http://music.baidu.com/song/8308031
+596;Marvin Gaye;Keep Gettin' It On;http://music.baidu.com/song/8302507
+597;Marvin Gaye;Wholy Holy;http://music.baidu.com/song/8302501
+598;Marvin Gaye;Save The Children;http://music.baidu.com/song/8302497
+599;Phil Collins;Against All Odds (Take A Look At Me Now);http://music.baidu.com/song/8301867
+600;David Bowie;Let'S Dance;http://music.baidu.com/song/8301855
+601;Tom Clay;What The World Needs Now Is Love;http://music.baidu.com/song/8301815
+602;Eric Clapton;After Midnight;http://music.baidu.com/song/8297202
+603;The Stylistics;Let'S Put It All Together;http://music.baidu.com/song/8284598
+604;Joe Cocker;She Came In Through The Bathroom Window;http://music.baidu.com/song/8284466
+605;Joe Cocker;Delta Lady;http://music.baidu.com/song/8284465
+606;John Martyn;The Man In The Station;http://music.baidu.com/song/8284363
+607;The Gap Band;Outstanding;http://music.baidu.com/song/8284299
+608;Con Funk Shun;Ffun;http://music.baidu.com/song/8284295
+609;The Spidells;Don'T You Forget That You'Re My Baby;http://music.baidu.com/song/8283955
+610;Reuben Wilson;Tight Money;http://music.baidu.com/song/8281764
+611;The Boomtown Rats;When The Night Comes;http://music.baidu.com/song/8281489
+612;Roy Ayers;Evolution;http://music.baidu.com/song/8278185
+613;The Who;Bargain;http://music.baidu.com/song/8278151
+614;Stephen Bishop;Looking For The Right One;http://music.baidu.com/song/8278033
+615;Stephen Bishop;Only The Heart Within You;http://music.baidu.com/song/8277981
+616;Stephen Bishop;I'Ve Never Known A Nite Like This;http://music.baidu.com/song/8277965
+617;Frederick Knight;Someday We'Ll Be Together;http://music.baidu.com/song/8275017
+618;John Gary Williams;Ask The Lonely;http://music.baidu.com/song/8275014
+619;Ohio Players;Jive Turkey;http://music.baidu.com/song/8274951
+620;Ohio Players;Fire;http://music.baidu.com/song/8274950
+621;Ohio Players;O-H-I-O;http://music.baidu.com/song/8274946
+622;Ohio Players;Far East Mississippi;http://music.baidu.com/song/8274945
+623;Ohio Players;Fopp;http://music.baidu.com/song/8274943
+624;Ohio Players;Good Luck Charm;http://music.baidu.com/song/8274942
+625;Ohio Players;I Want To Be Free;http://music.baidu.com/song/8274941
+626;Ohio Players;Skin Tight;http://music.baidu.com/song/8274940
+627;Ohio Players;Body Vibes;http://music.baidu.com/song/8274939
+628;Ohio Players;Sweet Sticky Thing;http://music.baidu.com/song/8274937
+629;Ohio Players;Who'D She Coo?;http://music.baidu.com/song/8274936
+630;Chris Rea;Fool (If You Think It'S Over);http://music.baidu.com/song/8270562
+631;Parliament;Mothership Connection (Star Child);http://music.baidu.com/song/8264479
+632;John Handy;Hard Work;http://music.baidu.com/song/8264410
+633;Chuck Mangione;Children Of Sanchez;http://music.baidu.com/song/8264358
+634;Chuck Mangione;Cannonball Run Theme;http://music.baidu.com/song/8264210
+635;Paul Stanley;Ain'T Quite Right;http://music.baidu.com/song/8263689
+636;梅艳芳;女人花;http://music.baidu.com/song/826361
+637;The Jam;News Of The World;http://music.baidu.com/song/8263391
+638;The Jam;When You'Re Young;http://music.baidu.com/song/8263333
+639;The Jam;David Watts;http://music.baidu.com/song/8263312
+640;The Jam;Funeral Pyre;http://music.baidu.com/song/8263283
+641;Alice Coltrane;Hare Krishna;http://music.baidu.com/song/8262553
+642;彭佳慧;甘愿;http://music.baidu.com/song/825966
+643;Wolfmother;Dimension;http://music.baidu.com/song/8258518
+644;Chick Corea;Spain;http://music.baidu.com/song/8258480
+645;张学友;走过1999;http://music.baidu.com/song/825667
+646;Le Orme;Era Inverno;http://music.baidu.com/song/8256334
+647;Le Orme;All'Infuori Del Tempo;http://music.baidu.com/song/8256331
+648;Le Orme;Una Dolcezza Nuova;http://music.baidu.com/song/8256330
+649;Le Orme;Figure Di Cartone;http://music.baidu.com/song/8256329
+650;Le Orme;Gioco Di Bimba;http://music.baidu.com/song/8256327
+651;孙悦;祝您平安;http://music.baidu.com/song/825323
+652;Buddy Guy;Mustang Sally;http://music.baidu.com/song/8251572
+653;Angela Bofill;I Try;http://music.baidu.com/song/8251171
+654;Charles Mingus;Fables Of Faubus;http://music.baidu.com/song/8248665
+655;Billy Joel;Goodnight Saigon;http://music.baidu.com/song/8248492
+656;The Dramatics;Get Up And Get Down;http://music.baidu.com/song/8246560
+657;The Rolling Stones;Lady Jane;http://music.baidu.com/song/8240552
+658;Stevie Wonder;Sir Duke;http://music.baidu.com/song/8235581
+659;Three Dog Night;Mama Told Me (Not To Come);http://music.baidu.com/song/8235516
+660;Kiss;I Was Made For Lovin' You;http://music.baidu.com/song/8234616
+661;Kiss;Rock And Roll All Nite;http://music.baidu.com/song/8234589
+662;Kiss;Black Diamond;http://music.baidu.com/song/8234586
+663;袁凤瑛;情深义更深;http://music.baidu.com/song/823457
+664;Thin Lizzy;Vagabond Of The Western World;http://music.baidu.com/song/8234455
+665;Thin Lizzy;Sarah;http://music.baidu.com/song/8234453
+666;Jerry Lee Lewis;Breathless;http://music.baidu.com/song/8223977
+667;Ethel Merman;I Get A Kick Out Of You;http://music.baidu.com/song/8223835
+668;Jeff Beck;Jb'S Blues;http://music.baidu.com/song/8223073
+669;Jim Reeves;Silent Night;http://music.baidu.com/song/8217567
+670;Eric Clapton;Further On Up The Road;http://music.baidu.com/song/8216527
+671;Olivia Newton-John;Magic;http://music.baidu.com/song/8216507
+672;Olivia Newton-John;Xanadu;http://music.baidu.com/song/8216506
+673;Olivia Newton-John;A Little More Love;http://music.baidu.com/song/8216503
+674;Olivia Newton-John;Hopelessly Devoted To You;http://music.baidu.com/song/8216501
+675;Olivia Newton-John;Sam;http://music.baidu.com/song/8216453
+676;Olivia Newton-John;Suddenly;http://music.baidu.com/song/8216451
+677;Olivia Newton-John;If Not For You;http://music.baidu.com/song/8216399
+678;Metallica;Motorbreath;http://music.baidu.com/song/8213047
+679;张信哲;惩罚;http://music.baidu.com/song/821200
+680;Return To Forever;The Magician;http://music.baidu.com/song/8210489
+681;Return To Forever;Majestic Dance;http://music.baidu.com/song/8210488
+682;Return To Forever;Sorceress;http://music.baidu.com/song/8210486
+683;Return To Forever;Medieval Overture;http://music.baidu.com/song/8210485
+684;Return To Forever;Song To The Pharoah Kings;http://music.baidu.com/song/8210480
+685;Return To Forever;Vulcan Worlds;http://music.baidu.com/song/8210477
+686;Astrud Gilberto;Dindi;http://music.baidu.com/song/8210436
+687;Astrud Gilberto;How Insensitive;http://music.baidu.com/song/8210435
+688;Astrud Gilberto;Meditation;http://music.baidu.com/song/8210432
+689;Serge Gainsbourg;Sous Le Soleil Exactement;http://music.baidu.com/song/8209453
+690;Howard Carpendale;Nachts Wenn Alles Schlaft;http://music.baidu.com/song/8206295
+691;Strawbs;Sheep;http://music.baidu.com/song/8201174
+692;Strawbs;A Glimpse Of Heaven;http://music.baidu.com/song/8201169
+693;Astrud Gilberto;Manha De Carnaval;http://music.baidu.com/song/8201044
+694;Bill Whelan;Riverdance;http://music.baidu.com/song/8199168
+695;Fairport Convention;The Deserter;http://music.baidu.com/song/8196937
+696;Fairport Convention;Percy'S Song;http://music.baidu.com/song/8196904
+697;Fairport Convention;Book Song;http://music.baidu.com/song/8196897
+698;Eddie Floyd;California Girl;http://music.baidu.com/song/8196310
+699;Big Star;I'm In Love With A Girl;http://music.baidu.com/song/8194273
+700;Big Star;When My Baby's Beside Me;http://music.baidu.com/song/8194256
+701;Big Star;Don't Lie To Me;http://music.baidu.com/song/8194254
+702;Barclay James Harvest;Sip Of Wine;http://music.baidu.com/song/8194113
+703;Caravan;Love To Love You (And Tonight Pigs Will Fly);http://music.baidu.com/song/8194104
+704;Caravan;Winter Wine;http://music.baidu.com/song/8194103
+705;Caravan;Golf Girl;http://music.baidu.com/song/8194102
+706;Isaac Hayes;Theme From Shaft;http://music.baidu.com/song/8194076
+707;The Impressions;I'Ve Been Trying;http://music.baidu.com/song/8193836
+708;Night Ranger;Don'T Tell Me You Love Me;http://music.baidu.com/song/8193752
+709;Lynyrd Skynyrd;I Ain'T The One;http://music.baidu.com/song/8186129
+710;Juice Leskinen;Viidestoista Yö;http://music.baidu.com/song/8185429
+711;The Jam;Ghosts;http://music.baidu.com/song/8185222
+712;The Jam;All Mod Cons;http://music.baidu.com/song/8185220
+713;The Jam;It'S Too Bad;http://music.baidu.com/song/8185146
+714;Hank Shocklee;Railroad;http://music.baidu.com/song/8183952
+715;Hank Shocklee;Club Jam;http://music.baidu.com/song/8183951
+716;Bobby Womack;Across 110Th Street;http://music.baidu.com/song/8183944
+717;Jimmy Cliff;Wild World;http://music.baidu.com/song/8183690
+718;Jimmy Cliff;The Harder They Come;http://music.baidu.com/song/8183677
+719;David Essex;You'Re In My Heart;http://music.baidu.com/song/8183161
+720;Peter Frampton;I'M In You;http://music.baidu.com/song/8182209
+721;Peter Frampton;Shine On;http://music.baidu.com/song/8182207
+722;James Brown;Give It Up Or Turnit A Loose;http://music.baidu.com/song/8173110
+723;Camel;Rhayader;http://music.baidu.com/song/8172655
+724;Gino Vannelli;Black Cars;http://music.baidu.com/song/8165393
+725;Gino Vannelli;Hurts To Be In Love;http://music.baidu.com/song/8165392
+726;张学友;你好毒;http://music.baidu.com/song/815946
+727;Fotheringay;Banks Of The Nile;http://music.baidu.com/song/8144834
+728;Fotheringay;The Pond And The Stream;http://music.baidu.com/song/8144833
+729;Fotheringay;The Sea;http://music.baidu.com/song/8144832
+730;Fotheringay;Nothing More;http://music.baidu.com/song/8144830
+731;Peter Criss;I Can'T Stop The Rain;http://music.baidu.com/song/8144656
+732;Kiss;Charisma;http://music.baidu.com/song/8144604
+733;Simple Minds;Don't You (Forget About Me);http://music.baidu.com/song/8139689
+734;Spooky Tooth;I Am The Walrus;http://music.baidu.com/song/8127140
+735;Spooky Tooth;Waitin' For The Wind;http://music.baidu.com/song/8127136
+736;张震岳;爱的初体验;http://music.baidu.com/song/812705
+737;J.J. Cale;Thirteen Days;http://music.baidu.com/song/8127010
+738;Cat Stevens;Was Dog A Doughnut?;http://music.baidu.com/song/8126878
+739;Cat Stevens;Killin' Time;http://music.baidu.com/song/8126871
+740;Stevie Wonder;Big Brother;http://music.baidu.com/song/8123731
+741;Electric Light Orchestra;Can'T Get It Out Of My Head;http://music.baidu.com/song/8120046
+742;Romeo Void;Never Say Never;http://music.baidu.com/song/8119675
+743;Hansel Y Raul;Maria Teresa Y Danilo;http://music.baidu.com/song/8118738
+744;Camel;Earthrise;http://music.baidu.com/song/8118697
+745;Camel;Supertwister;http://music.baidu.com/song/8118695
+746;Camel;Freefall;http://music.baidu.com/song/8118694
+747;Teddy Thompson;The Future;http://music.baidu.com/song/8113007
+748;老狼;音乐虫子;http://music.baidu.com/song/810671
+749;The Upsetters;Croaking Lizard;http://music.baidu.com/song/8093860
+750;The Crusaders;Don'T Let It Get You Down;http://music.baidu.com/song/8091330
+751;The Abyssinians;The Good Lord;http://music.baidu.com/song/8088912
+752;Tom Petty;The Apartment Song;http://music.baidu.com/song/8086379
+753;Tom Petty;Runnin' Down A Dream;http://music.baidu.com/song/8086375
+754;Tom Petty;I Won'T Back Down;http://music.baidu.com/song/8086372
+755;Don Henley;The Last Worthless Evening;http://music.baidu.com/song/8086286
+756;Francis Lai;Theme From Love Story (Finale);http://music.baidu.com/song/8086270
+757;blind faith;Well All Right;http://music.baidu.com/song/8086116
+758;Camel;Echoes;http://music.baidu.com/song/8086057
+759;Archie Shepp;Ballad For A Child;http://music.baidu.com/song/8084079
+760;Archie Shepp;Invocation To Mr. Parker;http://music.baidu.com/song/8084075
+761;Archie Shepp;Attica Blues;http://music.baidu.com/song/8084069
+762;Python Lee Jackson;In A Broken Dream;http://music.baidu.com/song/8081588
+763;Strawbs;Part Of The Union;http://music.baidu.com/song/8076400
+764;Strawbs;Down By The Sea;http://music.baidu.com/song/8076399
+765;叶蓓;B小调雨后;http://music.baidu.com/song/807168
+766;老狼;昨天今天;http://music.baidu.com/song/807048
+767;Eric Carmen;All By Myself;http://music.baidu.com/song/806635
+768;John Martyn;Bless The Weather;http://music.baidu.com/song/8061475
+769;John Martyn;Head And Heart;http://music.baidu.com/song/8061473
+770;The Staple Singers;Oh La De Da;http://music.baidu.com/song/8058642
+771;Marvin Gaye;Right On;http://music.baidu.com/song/8056806
+772;Nico;Das Lied Der Deutschen;http://music.baidu.com/song/8056748
+773;The Emotions;From Toys To Boys;http://music.baidu.com/song/8055505
+774;The Emotions;Show Me How;http://music.baidu.com/song/8055502
+775;Michael Jackson;Rockin' Robin;http://music.baidu.com/song/8053520
+776;Kiss;Detroit Rock City;http://music.baidu.com/song/8049889
+777;张信哲;不回首;http://music.baidu.com/song/804912
+778;Bob Marley;Is This Love;http://music.baidu.com/song/8046595
+779;The Dramatics;Me And Mrs. Jones;http://music.baidu.com/song/8045745
+780;Styx;Too Much Time On My Hands;http://music.baidu.com/song/8044549
+781;Styx;Come Sail Away;http://music.baidu.com/song/8044516
+782;Styx;Boat On The River;http://music.baidu.com/song/8044514
+783;Styx;Lorelei;http://music.baidu.com/song/8044503
+784;Styx;Suite Madame Blue;http://music.baidu.com/song/8044447
+785;The Cure;Boys Don'T Cry;http://music.baidu.com/song/8042901
+786;Rainbow;Snake Charmer;http://music.baidu.com/song/8042826
+787;Rainbow;Black Sheep Of The Family;http://music.baidu.com/song/8042824
+788;Rainbow;Self Portrait;http://music.baidu.com/song/8042823
+789;Parliament;Chocolate City;http://music.baidu.com/song/8041946
+790;The Slickers;Johnny Too Bad;http://music.baidu.com/song/8040907
+791;Scotty;Draw Your Brakes;http://music.baidu.com/song/8040902
+792;Supertramp;Child Of Vision;http://music.baidu.com/song/8038823
+793;Supertramp;Casual Conversations;http://music.baidu.com/song/8038822
+794;Supertramp;Just Another Nervous Wreck;http://music.baidu.com/song/8038821
+795;Supertramp;Lord Is It Mine;http://music.baidu.com/song/8038820
+796;Supertramp;Goodbye Stranger;http://music.baidu.com/song/8038816
+797;Supertramp;The Logical Song;http://music.baidu.com/song/8038815
+798;Supertramp;Gone Hollywood;http://music.baidu.com/song/8038814
+799;Joe Cocker;Come Together;http://music.baidu.com/song/8037136
+800;Hues Corporation;Rock The Boat;http://music.baidu.com/song/8033930
+801;t. rex;Bang A Gong (Get It On);http://music.baidu.com/song/8033863
+802;The Cure;10:15 Saturday Night;http://music.baidu.com/song/8033810
+803;Barclay James Harvest;Poor Man'S Moody Blues;http://music.baidu.com/song/8033768
+804;Creedence Clearwater Revival;Feelin' Blue;http://music.baidu.com/song/8033754
+805;The Who;Going Mobile;http://music.baidu.com/song/8033709
+806;Creedence Clearwater Revival;Sailor'S Lament;http://music.baidu.com/song/8033700
+807;Tom Petty;Free Fallin';http://music.baidu.com/song/8033684
+808;张信哲;过火;http://music.baidu.com/song/803271
+809;Jimmy Page;Prison Blues;http://music.baidu.com/song/8032449
+810;Jimmy Page;The Only One;http://music.baidu.com/song/8032446
+811;Serge Gainsbourg;Je Suis Venu Te Dire Que Je M'En Vais;http://music.baidu.com/song/8030829
+812;Serge Gainsbourg;L'HôTel Particulier;http://music.baidu.com/song/8030826
+813;Sammy Hagar;I'Ve Done Everything For You;http://music.baidu.com/song/8029748
+814;The Impressions;Keep On Pushing;http://music.baidu.com/song/8029451
+815;The Gap Band;Shake;http://music.baidu.com/song/8029245
+816;Barclay James Harvest;Life Is For Living;http://music.baidu.com/song/8028029
+817;Three Dog Night;Eli'S Coming;http://music.baidu.com/song/8025107
+818;Janis Ian;Days Like These;http://music.baidu.com/song/8021238
+819;Eddie Kendricks;Let Me Run Into Your Lonely Heart;http://music.baidu.com/song/8020613
+820;Cream;Strange Brew;http://music.baidu.com/song/8020529
+821;Cream;Tales Of Brave Ulysses;http://music.baidu.com/song/8020524
+822;Eric Clapton;Lay Down Sally;http://music.baidu.com/song/8020518
+823;Michael Jackson;Euphoria;http://music.baidu.com/song/8019245
+824;Bill Withers;Hello Like Before;http://music.baidu.com/song/8017925
+825;Bill Withers;The Same Love That Made Me Laugh;http://music.baidu.com/song/8017922
+826;James Brown;Get On The Good Foot;http://music.baidu.com/song/8016270
+827;Guns N' Roses;November Rain;http://music.baidu.com/song/8016098
+828;James Taylor;You Can Close Your Eyes;http://music.baidu.com/song/8014818
+829;James Taylor;Copperline;http://music.baidu.com/song/8014817
+830;The Alan Parsons Project;(The System Of) Doctor Tarr And Professor Fether;http://music.baidu.com/song/8012628
+831;Wild Cherry;Hot To Trot;http://music.baidu.com/song/8012598
+832;Wild Cherry;Try A Piece Of My Love;http://music.baidu.com/song/8012597
+833;John Denver;Goodbye Again;http://music.baidu.com/song/8011608
+834;John Denver;Take Me Home, Country Roads;http://music.baidu.com/song/8011600
+835;Albert King;Breaking Up Somebody'S Home;http://music.baidu.com/song/8009801
+836;The Rolling Stones;(I Can'T Get No) Satisfaction;http://music.baidu.com/song/8009548
+837;Europe;Open Your Heart;http://music.baidu.com/song/8009131
+838;Jose Feliciano;Feliz Navidad;http://music.baidu.com/song/8008909
+839;Stephen Bishop;One More Night;http://music.baidu.com/song/8005671
+840;Stephen Bishop;Save It For A Rainy Day;http://music.baidu.com/song/8005476
+841;Stephen Bishop;Little Italy;http://music.baidu.com/song/8005458
+842;David Cassidy;I Think I Love You;http://music.baidu.com/song/8003649
+843;Creedence Clearwater Revival;Ooby Dooby;http://music.baidu.com/song/8003439
+844;Lee Marvin;Wand'Rin' Star;http://music.baidu.com/song/8001575
+845;Ten Years After;I'M Going Home;http://music.baidu.com/song/8001301
+846;Paul Young;Come Back And Stay;http://music.baidu.com/song/7997443
+847;Michael Jackson;Don'T Stop 'Til You Get Enough;http://music.baidu.com/song/7997168
+848;Michael Jackson;Man In The Mirror;http://music.baidu.com/song/7997164
+849;John Fogerty;Rockin' All Over The World;http://music.baidu.com/song/7995862
+850;万芳;割爱;http://music.baidu.com/song/799584
+851;Santana;She'S Not There;http://music.baidu.com/song/7994887
+852;Santana;Se A Cabo;http://music.baidu.com/song/7994858
+853;Camel;Sanctuary;http://music.baidu.com/song/7991559
+854;Camel;Rhayader Goes To Town;http://music.baidu.com/song/7991558
+855;Camel;Lady Fantasy;http://music.baidu.com/song/7991555
+856;Shuggie Otis;Sweet Thang;http://music.baidu.com/song/7990413
+857;Shuggie Otis;Strawberry Letter 23;http://music.baidu.com/song/7990412
+858;Shuggie Otis;Ice Cold Daydream;http://music.baidu.com/song/7990411
+859;Freddie Hubbard;Straight Life;http://music.baidu.com/song/7990107
+860;梅艳芳;眼中钉;http://music.baidu.com/song/798952
+861;Argent;God Gave Rock And Roll To You;http://music.baidu.com/song/7988590
+862;周华健;我不要知道我的未来;http://music.baidu.com/song/797483
+863;Vangelis;La Petite Fille De La Mer;http://music.baidu.com/song/7973160
+864;Delta 5;Mind Your Own Business;http://music.baidu.com/song/7973156
+865;彭佳慧;回味;http://music.baidu.com/song/796102
+866;张国荣;今生今世;http://music.baidu.com/song/795823
+867;张艾嘉;落叶纷纷;http://music.baidu.com/song/795638
+868;张艾嘉;飞向异乡的747;http://music.baidu.com/song/795610
+869;梅艳芳;爱上狼的羊;http://music.baidu.com/song/795237
+870;张学友;我不愿意;http://music.baidu.com/song/795092
+871;辛晓琪;位子(后座版);http://music.baidu.com/song/794696
+872;张学友;我希望你相信;http://music.baidu.com/song/794424
+873;张学友;我不在乎等多久;http://music.baidu.com/song/794373
+874;伍佰 & China Blue;终于;http://music.baidu.com/song/794307
+875;伍佰 & China Blue;不曾在乎我;http://music.baidu.com/song/794281
+876;伍佰 & China Blue;挪威的森林;http://music.baidu.com/song/794224
+877;万芳;我愿意;http://music.baidu.com/song/793221
+878;EDDIE FLOYD;I'Ve Never Found A Girl (To Love Me Like You Do);http://music.baidu.com/song/7931276
+879;Sylvester;I Need You;http://music.baidu.com/song/7931261
+880;Margie Joseph;Medicine Bend;http://music.baidu.com/song/7931190
+881;Sylvester;Dance (Disco Heat);http://music.baidu.com/song/7931144
+882;万芳;温哥华悲伤一号;http://music.baidu.com/song/793087
+883;万芳;爱做梦的人;http://music.baidu.com/song/793064
+884;The Grass Roots;Sooner Or Later;http://music.baidu.com/song/7928359
+885;苏慧伦;鸭子;http://music.baidu.com/song/792669
+886;Dalida;Paroles Paroles;http://music.baidu.com/song/7926659
+887;Guns N' Roses;Civil War;http://music.baidu.com/song/7926549
+888;jackyl;The Lumberjack;http://music.baidu.com/song/7926542
+889;苏慧伦;说一百个让你快乐的原因;http://music.baidu.com/song/792611
+890;Little Walter;Key To The Highway;http://music.baidu.com/song/7924873
+891;苏慧伦;六月的茉莉梦;http://music.baidu.com/song/792375
+892;苏慧伦;929;http://music.baidu.com/song/792359
+893;Leif Garrett;Surfin' Usa;http://music.baidu.com/song/7918594
+894;Leif Garrett;I Was Made For Dancin';http://music.baidu.com/song/7918587
+895;Leif Garrett;Runaround Sue;http://music.baidu.com/song/7918584
+896;任贤齐;好聚好散;http://music.baidu.com/song/791795
+897;Steve Winwood;Back In The High Life Again;http://music.baidu.com/song/7917801
+898;John Martyn;Glistening Glyndebourne;http://music.baidu.com/song/7915419
+899;John Martyn;Go Easy;http://music.baidu.com/song/7915411
+900;Bobby Byrd;I Know You Got Soul;http://music.baidu.com/song/7915385
+901;Roger Hodgson;Hooked On A Problem;http://music.baidu.com/song/7915295
+902;汪明荃;万水千山总是情;http://music.baidu.com/song/791352
+903;潘越云;情字这条路;http://music.baidu.com/song/791192
+904;潘越云;守着阳光守着你;http://music.baidu.com/song/791100
+905;The Dramatics;Be My Girl;http://music.baidu.com/song/7909008
+906;The Dramatics;Whatcha See Is Whatcha Get;http://music.baidu.com/song/7908997
+907;The Soul Children;I'Ll Be The Other Woman;http://music.baidu.com/song/7908986
+908;The Soul Children;Hearsay;http://music.baidu.com/song/7908897
+909;王菲;夜半醉;http://music.baidu.com/song/790400
+910;The Emotions;I Like It;http://music.baidu.com/song/7903374
+911;Toto;I'Ll Supply The Love;http://music.baidu.com/song/7902820
+912;刘若英;骂你;http://music.baidu.com/song/790225
+913;The Rolling Stones;Hey Negrita;http://music.baidu.com/song/790202
+914;刘若英;后来;http://music.baidu.com/song/790142
+915;刘若英,光良;好久好久;http://music.baidu.com/song/789985
+916;刘若英;到处乱走;http://music.baidu.com/song/789962
+917;Jefferson Starship;Count On Me;http://music.baidu.com/song/7898553
+918;李宗盛;如果你要离去;http://music.baidu.com/song/789632
+919;王菲;诱惑我;http://music.baidu.com/song/7894009
+920;王菲;动心;http://music.baidu.com/song/7894006
+921;王菲;若你真爱我;http://music.baidu.com/song/7894005
+922;王菲;长大;http://music.baidu.com/song/7894004
+923;王菲;冷战;http://music.baidu.com/song/7894003
+924;王菲;如风;http://music.baidu.com/song/7894002
+925;王菲;Summer Of Love;http://music.baidu.com/song/7894001
+926;王菲;流非飞;http://music.baidu.com/song/7894000
+927;李度;我总是糊涂;http://music.baidu.com/song/789233
+928;李度;附属;http://music.baidu.com/song/789160
+929;Parliament;Night Of The Thumpasorus Peoples;http://music.baidu.com/song/7889563
+930;Parliament;Unfunky Ufo;http://music.baidu.com/song/7889559
+931;周华健;天涯歌女;http://music.baidu.com/song/7887758
+932;黄品源;永远拢共款;http://music.baidu.com/song/788614
+933;黄品源;握握手,好吗?;http://music.baidu.com/song/788517
+934;Miles Davis;Mtume;http://music.baidu.com/song/7879211
+935;Harry Nilsson;I Guess The Lord Must Be In New York City;http://music.baidu.com/song/7876872
+936;Parliament;Give Up The Funk (Tear The Roof Off The Sucker);http://music.baidu.com/song/7874944
+937;The Undisputed Truth;What It Is?;http://music.baidu.com/song/7874939
+938;Ohio Players;Love Rollercoaster;http://music.baidu.com/song/7874932
+939;Rick James;Bustin' Out (On Funk);http://music.baidu.com/song/7874928
+940;Billy Preston;Outa-Space;http://music.baidu.com/song/7874919
+941;Rodger Collins;Foxy Girls In Oakland;http://music.baidu.com/song/7874465
+942;Melissa Manchester;Midnight Blue;http://music.baidu.com/song/7868471
+943;王菲;邮差;http://music.baidu.com/song/778131
+944;王菲;百年孤寂;http://music.baidu.com/song/778100
+945;王菲;矜持;http://music.baidu.com/song/777847
+946;Parliament;The Freeze (Sizzaleenmean);http://music.baidu.com/song/7770011
+947;Freddy Fender;Wasted Days And Wasted Nights;http://music.baidu.com/song/7769835
+948;Freddy Fender;Before The Next Teardrop Falls;http://music.baidu.com/song/7769823
+949;张学友;我真的受伤了;http://music.baidu.com/song/774012
+950;赵传;变色鱼;http://music.baidu.com/song/773321
+951;蔡幸娟;原谅我再见都没说;http://music.baidu.com/song/771416
+952;陈明真;被爱困住的女人;http://music.baidu.com/song/770550
+953;陈淑桦;失乐园;http://music.baidu.com/song/769611
+954;陈淑桦;爱的小语;http://music.baidu.com/song/769468
+955;陈淑桦;秋意上心头;http://music.baidu.com/song/769334
+956;B.B. King;Hummingbird;http://music.baidu.com/song/7660028
+957;B.B. King;The Thrill Is Gone;http://music.baidu.com/song/7660026
+958;Nana Mouskouri;Morning Has Broken;http://music.baidu.com/song/7659758
+959;Neil Diamond;Cracklin' Rosie;http://music.baidu.com/song/7655780
+960;Isaac Hayes;Medley: Ike'S Rap Ii/Help Me Love;http://music.baidu.com/song/7655220
+961;The Runaways;School Days;http://music.baidu.com/song/7653438
+962;Thin Lizzy;The Rise And Dear Demise Of The Funky Nomadic Tribes;http://music.baidu.com/song/7652832
+963;Mable John;Your Good Thing (Is About To End);http://music.baidu.com/song/7651783
+964;Rufus Thomas;Do The Funky Chicken;http://music.baidu.com/song/7651779
+965;The Who;My Generation;http://music.baidu.com/song/7651493
+966;John Cale;Buffalo Ballet;http://music.baidu.com/song/7651452
+967;John Cale;Fear Is A Man'S Best Friend;http://music.baidu.com/song/7651451
+968;Various Artists;Native New Yorker;http://music.baidu.com/song/7650656
+969;Various Artists;Livin' Thing;http://music.baidu.com/song/7650648
+970;Various Artists;Suzanne;http://music.baidu.com/song/7650638
+971;Various Artists;Stand By Your Man;http://music.baidu.com/song/7650636
+972;Various Artists;You Took The Words Right Out Of My Mouth;http://music.baidu.com/song/7650632
+973;Various Artists;Show You The Way To Go;http://music.baidu.com/song/7650627
+974;张信哲;等你;http://music.baidu.com/song/764152
+975;张信哲;Good Love;http://music.baidu.com/song/762596
+976;张信哲;宽容;http://music.baidu.com/song/762512
+977;草蜢;永远爱着你;http://music.baidu.com/song/759810
+978;Barclay James Harvest;For No One;http://music.baidu.com/song/7580935
+979;Barclay James Harvest;Medicine Man;http://music.baidu.com/song/7580929
+980;The O'Jays;Let Me Make Love To You;http://music.baidu.com/song/7580684
+981;草蜢;宝贝对不起;http://music.baidu.com/song/758021
+982;The O'Jays;Give The People What They Want;http://music.baidu.com/song/7579125
+983;Cat Stevens;Tuesday'S Dead;http://music.baidu.com/song/7576072
+984;Cat Stevens;Sad Lisa;http://music.baidu.com/song/7576059
+985;Platinum Hook;Standing On The Verge (Of Getting It On);http://music.baidu.com/song/7576026
+986;Cat Stevens;Rubylove;http://music.baidu.com/song/7576006
+987;Creedence Clearwater Revival;Have You Ever Seen The Rain?;http://music.baidu.com/song/7574435
+988;Brian Mcknight;Back At One;http://music.baidu.com/song/7574402
+989;Steam;Na Na Hey Hey Kiss Him Goodbye;http://music.baidu.com/song/7574191
+990;Blue Cheer;Summertime Blues;http://music.baidu.com/song/7574184
+991;Brian Hyland;Sealed With A Kiss;http://music.baidu.com/song/7574147
+992;Maxime Le Forestier;San Francisco;http://music.baidu.com/song/7573915
+993;Maxime Le Forestier;Parachutiste;http://music.baidu.com/song/7573914
+994;Maxime Le Forestier;Comme Un Arbre;http://music.baidu.com/song/7573913
+995;Maxime Le Forestier;La Rouille;http://music.baidu.com/song/7573911
+996;Maxime Le Forestier;Education Sentimentale;http://music.baidu.com/song/7573910
+997;Maxime Le Forestier;Mon FrèRe;http://music.baidu.com/song/7573909
+998;Elton John;Can You Feel The Love Tonight;http://music.baidu.com/song/7573751
+999;Elton John;I Guess That'S Why They Call It The Blues;http://music.baidu.com/song/7573745
+1000;The Feeling;Never Be Lonely;http://music.baidu.com/song/7572352

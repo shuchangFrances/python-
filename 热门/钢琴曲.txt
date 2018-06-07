@@ -1,0 +1,668 @@
+1;纯音乐;重新做人;http://music.baidu.com/song/976578
+2;纯音乐;终身美丽;http://music.baidu.com/song/976555
+3;Liz Story;Have Yourself A Merry Little Christmas;http://music.baidu.com/song/9728147
+4;Liz Story;Angels We Have Heard On High (Les Anges Dans Nos Campagnes);http://music.baidu.com/song/9727363
+5;Liz Story;Water Caves;http://music.baidu.com/song/9727199
+6;Jim Brickman;Where Are You Now?;http://music.baidu.com/song/9727139
+7;Liz Story;In The Bleak Midwinter/O Sanctissima;http://music.baidu.com/song/9726413
+8;Liz Story;Bradley'S Dream;http://music.baidu.com/song/9726261
+9;久石让;Ikaros;http://music.baidu.com/song/9725230
+10;Liz Story;Salve Regina/O Holy Night;http://music.baidu.com/song/9724342
+11;Jim Brickman;American Dream;http://music.baidu.com/song/9723122
+12;Liz Story;Wassail Song (Here We Come, A-Wassailing);http://music.baidu.com/song/9718616
+13;Jim Brickman;So Long;http://music.baidu.com/song/9718090
+14;Liz Story;Solid Colors;http://music.baidu.com/song/9718083
+15;Jim Brickman;Nothing Left To Say;http://music.baidu.com/song/9717908
+16;Liz Story;The Truth From Above/O King Of Light And Splendor;http://music.baidu.com/song/9715668
+17;久石让;Fragile Dream;http://music.baidu.com/song/9715591
+18;Jim Brickman;Old Times;http://music.baidu.com/song/9711503
+19;Liz Story;Things With Wings;http://music.baidu.com/song/9711494
+20;Jim Brickman;I Said... You Said;http://music.baidu.com/song/9706443
+21;久石让;人生的回转木马（Merry Go Round）;http://music.baidu.com/song/9701270
+22;Liz Story;Ii Es Ne Le Divin Enfant/Immaculate Mary;http://music.baidu.com/song/9696892
+23;Jim Brickman;Heartland;http://music.baidu.com/song/9696657
+24;久石让;Legend;http://music.baidu.com/song/9695734
+25;Liz Story;O Come, O Come Emmanuel/Personent Hodie;http://music.baidu.com/song/9691891
+26;Jim Brickman;Borders;http://music.baidu.com/song/9691610
+27;Liz Story;Wedding Rain;http://music.baidu.com/song/9691601
+28;Liz Story;O Come Little Children/We'Ll Dress The House;http://music.baidu.com/song/9689908
+29;Jim Brickman;Open Doors;http://music.baidu.com/song/9689693
+30;Jim Brickman;Blue;http://music.baidu.com/song/9688753
+31;Liz Story;Hymn;http://music.baidu.com/song/9688750
+32;Jim Brickman;Looking Back;http://music.baidu.com/song/9688673
+33;久石让;Constriction;http://music.baidu.com/song/9688016
+34;郎朗,Franz Liszt;Romance "O Pourquoi Donc" In E Minor, S 169;http://music.baidu.com/song/9687962
+35;Liz Story;Pange Lingua/A Hymn To The Virgin;http://music.baidu.com/song/9687779
+36;Jim Brickman;Wanderlust;http://music.baidu.com/song/9687440
+37;Liz Story;Greensleeves (What Child Is This?);http://music.baidu.com/song/9687168
+38;Liz Story;White Heart;http://music.baidu.com/song/9686939
+39;Jim Brickman;Sudden Inspiration;http://music.baidu.com/song/9686869
+40;Jim Brickman;Rocket To The Moon;http://music.baidu.com/song/9686118
+41;Jim Brickman;On The Edge;http://music.baidu.com/song/9686060
+42;久石让;Birthday;http://music.baidu.com/song/9685749
+43;Jim Brickman;Shaker Lakes;http://music.baidu.com/song/9685170
+44;Jim Brickman;All I Ever Wanted;http://music.baidu.com/song/9685107
+45;Jim Brickman;Still;http://music.baidu.com/song/9684825
+46;Liz Story;Pacheco Pass;http://music.baidu.com/song/9684822
+47;久石让;Oriental Wind;http://music.baidu.com/song/9680238
+48;久石让;Lost Sheep On The Bed;http://music.baidu.com/song/9679514
+49;久石让;Spring;http://music.baidu.com/song/9678589
+50;郎朗,Franz Liszt;La Campanella In G-Sharp Minor From Grandes éTudes De Paganini, S 141/3;http://music.baidu.com/song/9675534
+51;郎朗,Franz Liszt;Liebestraum No. 3 In A-Flat Major, S 541/3;http://music.baidu.com/song/9672908
+52;郎朗,Franz Liszt;Ave Maria S 558;http://music.baidu.com/song/9670569
+53;郎朗,Franz Liszt;Rakoczy March From Hungarian Rhapsody No. 15 In A Minor, S 244/15;http://music.baidu.com/song/9670449
+54;郎朗,Franz Liszt;Un Sospiro In D-Flat Major From Trois éTudes De Concert, S 144/3;http://music.baidu.com/song/9668596
+55;郎朗,Franz Liszt;Hungarian Rhapsody No. 6 In D-Flat Major, S 244/6;http://music.baidu.com/song/9668047
+56;郎朗,Franz Liszt;Consolation No.3 In D-Flat Major,S 172;http://music.baidu.com/song/9667322
+57;郎朗;III. Allegro marziale animato;http://music.baidu.com/song/9667043
+58;郎朗,Franz Liszt;Grand Galop Chromatique In E-Flat Major, S 219;http://music.baidu.com/song/9666872
+59;Jelly Roll Morton;King Porter Stomp;http://music.baidu.com/song/9411227
+60;纯音乐;昨迟人;http://music.baidu.com/song/931392
+61;纯音乐;野孩子;http://music.baidu.com/song/931380
+62;Liz Story;Deeper Reasons;http://music.baidu.com/song/8913634
+63;Jim Brickman;Hero'S Dream;http://music.baidu.com/song/8913561
+64;Liz Story;Never Will I Know;http://music.baidu.com/song/8913355
+65;Liz Story;Ana;http://music.baidu.com/song/8912705
+66;Jim Brickman;Simple Things;http://music.baidu.com/song/8912648
+67;Liz Story;Toy Soldiers;http://music.baidu.com/song/8912313
+68;Liz Story;Pacheco Pass;http://music.baidu.com/song/8911367
+69;Jim Brickman;Angel Eyes;http://music.baidu.com/song/8911307
+70;Liz Story;Wedding Rain;http://music.baidu.com/song/8909637
+71;Liz Story;Solid Colors;http://music.baidu.com/song/8908856
+72;Liz Story;Reconciliation;http://music.baidu.com/song/8907275
+73;Jim Brickman;Partners In Crime;http://music.baidu.com/song/8907180
+74;Liz Story;Frog Park;http://music.baidu.com/song/8906890
+75;Jim Brickman;If You Believe;http://music.baidu.com/song/8906857
+76;Liz Story;Captain April;http://music.baidu.com/song/8906677
+77;Jim Brickman;By Heart;http://music.baidu.com/song/8906621
+78;Liz Story;Inside Out;http://music.baidu.com/song/8906374
+79;Jim Brickman;Love Of My Life;http://music.baidu.com/song/8906340
+80;Liz Story;Valse D'Amelie;http://music.baidu.com/song/8905649
+81;Liz Story;Mack The Knife;http://music.baidu.com/song/8904780
+82;Jim Brickman;Destiny;http://music.baidu.com/song/8904718
+83;Liz Story;Escape Of The Circus Ponies;http://music.baidu.com/song/8904366
+84;Liz Story;I Got It Bad (And That Ain'T Good);http://music.baidu.com/song/8904147
+85;Jim Brickman;Rocket To The Moon;http://music.baidu.com/song/8901280
+86;Liz Story;Someday My Prince Will Come;http://music.baidu.com/song/8842607
+87;Liz Story;In A Sentimental Mood;http://music.baidu.com/song/8842606
+88;Liz Story;You Are Too Beautiful;http://music.baidu.com/song/8842605
+89;Liz Story;My One And Only Love;http://music.baidu.com/song/8842604
+90;Liz Story;My Ship;http://music.baidu.com/song/8839027
+91;Liz Story;I Got It Bad (And That Ain'T Good);http://music.baidu.com/song/8833564
+92;Liz Story;My Romance;http://music.baidu.com/song/8827021
+93;Liz Story;All The Things You Are;http://music.baidu.com/song/8817091
+94;Jim Brickman;Winter Peace;http://music.baidu.com/song/8809308
+95;Jim Brickman;What Child Is This?;http://music.baidu.com/song/8809304
+96;Jim Brickman;Sweet Dreams;http://music.baidu.com/song/8809303
+97;Jim Brickman;Secret Love;http://music.baidu.com/song/8809302
+98;Jim Brickman;Frere Jacques;http://music.baidu.com/song/8809301
+99;Jim Brickman;Coming Home;http://music.baidu.com/song/8809300
+100;Jim Brickman;You Never Know;http://music.baidu.com/song/8809299
+101;Jim Brickman;Edge Water;http://music.baidu.com/song/8809298
+102;Jim Brickman;Picture This;http://music.baidu.com/song/8809297
+103;Jim Brickman;Sound Of Your Voice;http://music.baidu.com/song/8809296
+104;Liz Story;How Insensitive;http://music.baidu.com/song/8808440
+105;Liz Story;My Foolish Heart;http://music.baidu.com/song/8804364
+106;Liz Story;Never Will I Know;http://music.baidu.com/song/8802026
+107;Liz Story;Spring Can Really Hang You Up The Most;http://music.baidu.com/song/8801314
+108;Jim Brickman;Angels;http://music.baidu.com/song/8797042
+109;Jim Brickman;Dream Come True;http://music.baidu.com/song/8797040
+110;Liz Story;Never Never Land;http://music.baidu.com/song/8792137
+111;Liz Story;Turn Out The Stars;http://music.baidu.com/song/8790299
+112;Jim Brickman;First Steps;http://music.baidu.com/song/8786436
+113;Jim Brickman;Starbright;http://music.baidu.com/song/8778365
+114;Jim Brickman;Fireside;http://music.baidu.com/song/8761322
+115;Jim Brickman;Sun, Moon & Stars;http://music.baidu.com/song/8761320
+116;甘仕良;拥抱;http://music.baidu.com/song/8564297
+117;甘仕良;雨丝! 情愁;http://music.baidu.com/song/8564296
+118;甘仕良;再见亦是泪;http://music.baidu.com/song/8564293
+119;甘仕良;小风波;http://music.baidu.com/song/8564164
+120;松居慶子;Souvenir;http://music.baidu.com/song/8554574
+121;松居慶子;Mover;http://music.baidu.com/song/8554573
+122;松居慶子;Under Northern Lights;http://music.baidu.com/song/8554572
+123;松居慶子;The White Corridor;http://music.baidu.com/song/8554571
+124;松居慶子;The Morning Moon;http://music.baidu.com/song/8554570
+125;松居慶子;The Wind And The Wolf;http://music.baidu.com/song/8554569
+126;松居慶子;Secret Forest;http://music.baidu.com/song/8554568
+127;松居慶子;Light In The Rain;http://music.baidu.com/song/8554567
+128;松居慶子;Mountain Shakedown;http://music.baidu.com/song/8554566
+129;松居慶子;The First Four Years;http://music.baidu.com/song/8554565
+130;松居慶子;Flight Of The Angels;http://music.baidu.com/song/8554564
+131;Jim Brickman,Wayne Brady;Beautiful (Christmas Version);http://music.baidu.com/song/8530562
+132;Jelly Roll Morton;Winin' Boy Blues;http://music.baidu.com/song/8378150
+133;Jelly Roll Morton;Gamblin' Jack;http://music.baidu.com/song/8378148
+134;Jelly Roll Morton;Blue Blood Blues;http://music.baidu.com/song/8378147
+135;Jelly Roll Morton;New Orleans Bump;http://music.baidu.com/song/8378146
+136;Jelly Roll Morton;Red Hot Pepper;http://music.baidu.com/song/8378145
+137;Jelly Roll Morton;Mournful Serenade;http://music.baidu.com/song/8378144
+138;Jelly Roll Morton;Shreveport;http://music.baidu.com/song/8378142
+139;Jelly Roll Morton;The Pearls;http://music.baidu.com/song/8378140
+140;Jelly Roll Morton;Someday, Sweetheart;http://music.baidu.com/song/8378139
+141;Jelly Roll Morton;Original Jelly-Roll Blues;http://music.baidu.com/song/8378138
+142;Jelly Roll Morton;Jungle Blues;http://music.baidu.com/song/8378137
+143;Jelly Roll Morton;Doctor Jazz;http://music.baidu.com/song/8378136
+144;Jelly Roll Morton;Cannon Ball Blues;http://music.baidu.com/song/8378135
+145;Jelly Roll Morton;Steamboat Stomp;http://music.baidu.com/song/8378132
+146;Jelly Roll Morton;Black Bottom Stomp;http://music.baidu.com/song/8378130
+147;Jim Brickman;You;http://music.baidu.com/song/8317508
+148;Jim Brickman;Beautiful (As You);http://music.baidu.com/song/8317506
+149;Jim Brickman;Safe And Sound;http://music.baidu.com/song/8317505
+150;Jim Brickman;Dreamland;http://music.baidu.com/song/8317504
+151;Jim Brickman;I See The Moon;http://music.baidu.com/song/8317503
+152;Jim Brickman;Night Prayer;http://music.baidu.com/song/8317502
+153;Jim Brickman;Above The Clouds;http://music.baidu.com/song/8317501
+154;Jim Brickman;Shades Of White;http://music.baidu.com/song/8317500
+155;Jim Brickman;Love Never Fails;http://music.baidu.com/song/8317498
+156;Jim Brickman;Little Stars;http://music.baidu.com/song/8317497
+157;Jim Brickman;Prelude;http://music.baidu.com/song/8317496
+158;Jelly Roll Morton;Mamanita;http://music.baidu.com/song/8286322
+159;Jelly Roll Morton;Thirty-Fifth St. Blues;http://music.baidu.com/song/8286321
+160;Jelly Roll Morton;London Blues;http://music.baidu.com/song/8286320
+161;Jelly Roll Morton;Frog-I-More Rag;http://music.baidu.com/song/8286319
+162;Jelly Roll Morton;Perfect Rag;http://music.baidu.com/song/8286318
+163;Jelly Roll Morton;Stratford Hunch;http://music.baidu.com/song/8286317
+164;Jelly Roll Morton;Tom Cat Blues;http://music.baidu.com/song/8286316
+165;Jelly Roll Morton;Bucktown Blues;http://music.baidu.com/song/8286315
+166;Jelly Roll Morton;Big Foot Ham;http://music.baidu.com/song/8286314
+167;Jelly Roll Morton;Jelly Roll Blues;http://music.baidu.com/song/8286313
+168;Jelly Roll Morton;Mamamita;http://music.baidu.com/song/8286312
+169;Jelly Roll Morton;Shreveport Stomps;http://music.baidu.com/song/8286311
+170;Jelly Roll Morton;Tia Juana;http://music.baidu.com/song/8286310
+171;Jelly Roll Morton;The Pearls;http://music.baidu.com/song/8286309
+172;Jelly Roll Morton;Wolverine Blues;http://music.baidu.com/song/8286308
+173;Jelly Roll Morton;Kansas City Stomp;http://music.baidu.com/song/8286307
+174;Jelly Roll Morton;Grandpa'S Spells;http://music.baidu.com/song/8286306
+175;Jelly Roll Morton;New Orleans Joys;http://music.baidu.com/song/8286305
+176;Jelly Roll Morton;King Porter Stomp;http://music.baidu.com/song/8286303
+177;Liz Story;Foxglove;http://music.baidu.com/song/8214235
+178;Liz Story;Short Fur Coat;http://music.baidu.com/song/8214234
+179;Liz Story;Easy Access;http://music.baidu.com/song/8214233
+180;Liz Story;17 Seconds To Anywhere;http://music.baidu.com/song/8214232
+181;Liz Story;Voices;http://music.baidu.com/song/8214231
+182;Liz Story;Beginners Mind;http://music.baidu.com/song/8214230
+183;Liz Story;Rumors Of Discipline;http://music.baidu.com/song/8214229
+184;Liz Story;Captain April;http://music.baidu.com/song/8214228
+185;Liz Story;Ana;http://music.baidu.com/song/8214227
+186;Liz Story;I Can'T Get Started;http://music.baidu.com/song/8214226
+187;Liz Story;Elm;http://music.baidu.com/song/8214225
+188;Liz Story;In The Still Of The Night;http://music.baidu.com/song/8214224
+189;Liz Story;I Thought About You;http://music.baidu.com/song/8214223
+190;Liz Story;Mack The Knife;http://music.baidu.com/song/8214222
+191;Liz Story;Someone To Watch Over Me;http://music.baidu.com/song/8214220
+192;Liz Story;Memories Of You;http://music.baidu.com/song/8214219
+193;Liz Story;The Very Thought Of You;http://music.baidu.com/song/8214218
+194;Secret Garden;The Promise;http://music.baidu.com/song/8199438
+195;George Winston;Sally Goodin;http://music.baidu.com/song/8177912
+196;Jelly Roll Morton;I Thought I Heard Buddy Bolden Say;http://music.baidu.com/song/8088717
+197;George Winston;Greensleeves;http://music.baidu.com/song/8017716
+198;Jim Brickman;Picture This;http://music.baidu.com/song/7986805
+199;Jim Brickman;Serenade;http://music.baidu.com/song/7986804
+200;Jim Brickman;Simple Things;http://music.baidu.com/song/7986803
+201;Jim Brickman;Rocket To The Moon;http://music.baidu.com/song/7986802
+202;Jim Brickman;Angel Eyes;http://music.baidu.com/song/7986801
+203;Jim Brickman;By Heart;http://music.baidu.com/song/7986751
+204;Jim Brickman;Little Star;http://music.baidu.com/song/7986643
+205;Jim Brickman;Partners In Crime;http://music.baidu.com/song/7986641
+206;Jim Brickman;Freedom;http://music.baidu.com/song/7986639
+207;Jim Brickman;Remembrance;http://music.baidu.com/song/7986637
+208;Jim Brickman;Lake Erie Rainfall;http://music.baidu.com/song/7986630
+209;Jim Brickman;Love Of My Life;http://music.baidu.com/song/7986605
+210;Jim Brickman;Starbright (Lullaby Medley);http://music.baidu.com/song/7918229
+211;Jim Brickman;Partners In Crime;http://music.baidu.com/song/7918226
+212;Jim Brickman;The Love I Found In You;http://music.baidu.com/song/7918225
+213;Jim Brickman;Circles;http://music.baidu.com/song/7918224
+214;Jim Brickman;Edgewater;http://music.baidu.com/song/7918222
+215;Jim Brickman;Freedom;http://music.baidu.com/song/7918221
+216;Jim Brickman;Lake Erie Rainfall;http://music.baidu.com/song/7918219
+217;Jim Brickman;Rocket To The Moon;http://music.baidu.com/song/7918218
+218;Jim Brickman;Glory;http://music.baidu.com/song/7918217
+219;Jim Brickman;It Must Be You;http://music.baidu.com/song/7918216
+220;Jim Brickman;Serenade;http://music.baidu.com/song/7918215
+221;Jim Brickman;One And Only;http://music.baidu.com/song/7918214
+222;Jim Brickman;Devotion;http://music.baidu.com/song/7918213
+223;Jim Brickman;Journey;http://music.baidu.com/song/7918212
+224;Jim Brickman;Waiting For You;http://music.baidu.com/song/7918211
+225;Jim Brickman;Night Rain;http://music.baidu.com/song/7918209
+226;Jim Brickman;Catching Twilight;http://music.baidu.com/song/7918208
+227;Jim Brickman;Simple Things;http://music.baidu.com/song/7918207
+228;Jim Brickman;A Mother'S Day;http://music.baidu.com/song/7917445
+229;Jim Brickman;Gate 41;http://music.baidu.com/song/7917342
+230;Jim Brickman;Picture This;http://music.baidu.com/song/7917327
+231;Jim Brickman;The Promise;http://music.baidu.com/song/7917313
+232;Various Artists;Bring A Torch, Jeanette Isabella;http://music.baidu.com/song/7915959
+233;Various Artists;The First Noel;http://music.baidu.com/song/7915958
+234;Various Artists;Silver Bells;http://music.baidu.com/song/7915573
+235;Jim Brickman;O Holy Night;http://music.baidu.com/song/7888560
+236;Jim Brickman;Rejoice (O Come, O Come Emmanuel);http://music.baidu.com/song/7888559
+237;Jim Brickman;Hark, The Herald Angels Sing!;http://music.baidu.com/song/7888555
+238;Jim Brickman;Holy, Holy, Holy;http://music.baidu.com/song/7884991
+239;Jim Brickman;O Sacred Head Now Wounded;http://music.baidu.com/song/7884990
+240;Jim Brickman;Be Thou Near To Me;http://music.baidu.com/song/7884989
+241;Jim Brickman;Heaven;http://music.baidu.com/song/7884986
+242;Jim Brickman;How Great Thou Art;http://music.baidu.com/song/7884985
+243;Jim Brickman;Jesu;http://music.baidu.com/song/7884984
+244;Jim Brickman;Crown Him With Many Crowns;http://music.baidu.com/song/7884980
+245;Jim Brickman;Israel;http://music.baidu.com/song/7884677
+246;Jane Lian Ying Zhang,郎朗,Shanghai Percussion Ensemble,上海交响乐团,谭盾;Only For Love;http://music.baidu.com/song/7506236
+247;郎朗,Shanghai Percussion Ensemble,上海交响乐团,谭盾;Sword Dance;http://music.baidu.com/song/7506234
+248;郎朗,Shanghai Percussion Ensemble,上海交响乐团,谭盾;In The Bamboo Forest;http://music.baidu.com/song/7506233
+249;郎朗,Shanghai Percussion Ensemble,上海交响乐团,谭盾;Waiting;http://music.baidu.com/song/7506232
+250;郎朗,Shanghai Percussion Ensemble,上海交响乐团,Susan Botti,谭盾;The Banquet;http://music.baidu.com/song/7506231
+251;郎朗;Grand Valse Brillante No. 2, Op. 34 No. 1 In A-Flat Major;http://music.baidu.com/song/7458161
+252;郎朗;Piano Sonata No. 3 In C Major, Op. 2: Iv. Allegro Assai;http://music.baidu.com/song/7457533
+253;郎朗;Polonaise No. 6 In A-Flat Major, Op. 53 "Heroic";http://music.baidu.com/song/7455983
+254;郎朗;ÉTude Op. 25, No. 1 In A-Flat Major;http://music.baidu.com/song/7446771
+255;George Winston;Jambo'S (Casaba);http://music.baidu.com/song/7438067
+256;George Winston;Air Music;http://music.baidu.com/song/7437188
+257;George Winston;You'Re Elected, Charlie Brown/Little Birdie;http://music.baidu.com/song/7429906
+258;George Winston;Dilemma;http://music.baidu.com/song/7423972
+259;George Winston;Macedonia/Little David;http://music.baidu.com/song/7422764
+260;George Winston;Rain, Rain Go Away;http://music.baidu.com/song/7422145
+261;George Winston;Love Will Come/Slow Dance;http://music.baidu.com/song/7421826
+262;George Winston;Pebble Beach/Dolores Park;http://music.baidu.com/song/7421267
+263;George Winston;Love Will Come 2;http://music.baidu.com/song/7420135
+264;George Winston;Room At The Bottom;http://music.baidu.com/song/7419505
+265;George Winston;Seeds For Thought/Ballad For Oscar;http://music.baidu.com/song/7416044
+266;George Winston;Christmas Time Is Here;http://music.baidu.com/song/7414714
+267;George Winston;It Was A Short Summer, Charlie Brown;http://music.baidu.com/song/7414371
+268;George Winston;Woodstock;http://music.baidu.com/song/7413811
+269;George Winston;Fenwyck'S Farfel/Calling Dr. Funk;http://music.baidu.com/song/7413652
+270;George Winston;Brasilia;http://music.baidu.com/song/7413269
+271;George Winston;Time For Love;http://music.baidu.com/song/7412147
+272;George Winston;Be My Valentine, Charlie Brown;http://music.baidu.com/song/7411934
+273;George Winston;Nobody Else;http://music.baidu.com/song/7411496
+274;George Winston;Billy In The Lowlland;http://music.baidu.com/song/7399208
+275;George Winston;Montana Glide;http://music.baidu.com/song/7399053
+276;George Winston;(Variations On) Bamboo;http://music.baidu.com/song/7398893
+277;George Winston;Bamboo (Bao Bei);http://music.baidu.com/song/7398321
+278;George Winston;High Plains Lullaby;http://music.baidu.com/song/7397603
+279;George Winston;Sweet Soul (Gobajie);http://music.baidu.com/song/7397433
+280;George Winston;Thumbelina;http://music.baidu.com/song/7397274
+281;George Winston;Joy, Hope, And Peace;http://music.baidu.com/song/7397175
+282;George Winston;Goodnight Irene;http://music.baidu.com/song/7396954
+283;George Winston;Music Box;http://music.baidu.com/song/7396819
+284;George Winston;Nevertheless, Hello;http://music.baidu.com/song/7396720
+285;George Winston;Valse De Frontenac;http://music.baidu.com/song/7396520
+286;George Winston;Raining In Her (The Muse);http://music.baidu.com/song/7395589
+287;George Winston;The Mountain Winds Call Your Name;http://music.baidu.com/song/7395355
+288;George Winston;You Send Me;http://music.baidu.com/song/7395283
+289;George Winston;The Little House I Used To Live In;http://music.baidu.com/song/7394886
+290;George Winston;The Twisting Of The Hay Rope (Casadh An TsugáIn);http://music.baidu.com/song/7394823
+291;George Winston;Sky (Goobajie);http://music.baidu.com/song/7394711
+292;Andrea Bocelli;Io Ci Saro;http://music.baidu.com/song/7388160
+293;纯音乐;好心分手;http://music.baidu.com/song/7329266
+294;纯音乐;你救那一个;http://music.baidu.com/song/7329265
+295;纯音乐;甜蜜恋爱;http://music.baidu.com/song/7329264
+296;纯音乐;她一定很爱你;http://music.baidu.com/song/7329260
+297;纯音乐;有人;http://music.baidu.com/song/7329259
+298;纯音乐;天下之大;http://music.baidu.com/song/7329257
+299;纯音乐;可惜我是水瓶座;http://music.baidu.com/song/7329256
+300;纯音乐;抱抱;http://music.baidu.com/song/7329049
+301;纯音乐;失恋王;http://music.baidu.com/song/7328687
+302;纯音乐;实不相瞒;http://music.baidu.com/song/7328550
+303;纯音乐;最好你走;http://music.baidu.com/song/7328430
+304;纯音乐;Lonely Christmas;http://music.baidu.com/song/7328152
+305;纯音乐;负担不起;http://music.baidu.com/song/7328086
+306;纯音乐;好久不见;http://music.baidu.com/song/7328041
+307;纯音乐;风筝与风;http://music.baidu.com/song/7327689
+308;纯音乐;再见露丝玛莉;http://music.baidu.com/song/7327676
+309;纯音乐;伤逝;http://music.baidu.com/song/7327638
+310;纯音乐;眼红红;http://music.baidu.com/song/7327574
+311;纯音乐;Star;http://music.baidu.com/song/7324506
+312;纯音乐;不走;http://music.baidu.com/song/7324505
+313;纯音乐;冰点;http://music.baidu.com/song/7324427
+314;纯音乐;Aibo;http://music.baidu.com/song/7324366
+315;纯音乐;Mr.Lonely;http://music.baidu.com/song/7323202
+316;纯音乐;向悲哀说再见;http://music.baidu.com/song/7322689
+317;纯音乐;闭上眼睛;http://music.baidu.com/song/7322664
+318;纯音乐;恋爱预感;http://music.baidu.com/song/7322646
+319;纯音乐;立誓;http://music.baidu.com/song/7322627
+320;纯音乐;梦的延续;http://music.baidu.com/song/7322601
+321;纯音乐;沐浴在月色中的爱侣;http://music.baidu.com/song/7322573
+322;纯音乐;Friend;http://music.baidu.com/song/7322551
+323;纯音乐;蓝眼睛的爱丽丝;http://music.baidu.com/song/7322542
+324;纯音乐;朋友;http://music.baidu.com/song/7322524
+325;纯音乐;微笑;http://music.baidu.com/song/7322506
+326;纯音乐;夏日终结的合唱;http://music.baidu.com/song/7322492
+327;纯音乐;酒红色的心;http://music.baidu.com/song/7322478
+328;纯音乐;送给你…;http://music.baidu.com/song/7322462
+329;纯音乐;Juliet;http://music.baidu.com/song/7322427
+330;纯音乐;Melody;http://music.baidu.com/song/7322269
+331;纯音乐;不必刹掣;http://music.baidu.com/song/7321255
+332;纯音乐;我不够爱你;http://music.baidu.com/song/7320879
+333;纯音乐;我等到花儿也谢了;http://music.baidu.com/song/7320870
+334;纯音乐;女校男生;http://music.baidu.com/song/7320260
+335;纯音乐;黑夜不再来;http://music.baidu.com/song/7319852
+336;纯音乐;李香兰;http://music.baidu.com/song/7319805
+337;纯音乐;梦到内河;http://music.baidu.com/song/7319645
+338;纯音乐;幸运铃声;http://music.baidu.com/song/7319639
+339;纯音乐;分手总要在雨天;http://music.baidu.com/song/7319619
+340;纯音乐;当我遇上你;http://music.baidu.com/song/7319519
+341;纯音乐;纸飞机;http://music.baidu.com/song/7319517
+342;纯音乐;启示录;http://music.baidu.com/song/7319516
+343;纯音乐;恋爱大过天;http://music.baidu.com/song/7319515
+344;纯音乐;吻着道歉;http://music.baidu.com/song/7319514
+345;纯音乐;眼神骗不过;http://music.baidu.com/song/7319513
+346;纯音乐;迷魂记;http://music.baidu.com/song/7319511
+347;纯音乐;烂泥;http://music.baidu.com/song/7319510
+348;纯音乐;天变地变情不变;http://music.baidu.com/song/7319486
+349;纯音乐;K歌之王;http://music.baidu.com/song/7319460
+350;纯音乐;爱下去;http://music.baidu.com/song/7319446
+351;纯音乐;妳的名字 我的姓氏;http://music.baidu.com/song/7319420
+352;纯音乐;会过去的;http://music.baidu.com/song/7319039
+353;纯音乐;生命的插曲;http://music.baidu.com/song/7318996
+354;纯音乐;痛爱;http://music.baidu.com/song/7318862
+355;纯音乐;来来回回;http://music.baidu.com/song/7318807
+356;纯音乐;Shall We Talk;http://music.baidu.com/song/7318719
+357;纯音乐;至少还有你;http://music.baidu.com/song/7318712
+358;纯音乐;玉蝴蝶;http://music.baidu.com/song/7318505
+359;纯音乐;飞花;http://music.baidu.com/song/7318499
+360;纯音乐;薰衣草;http://music.baidu.com/song/7318495
+361;纯音乐;一个人恋爱;http://music.baidu.com/song/7318489
+362;纯音乐;沙堡垒;http://music.baidu.com/song/7318445
+363;纯音乐;色盲;http://music.baidu.com/song/7318432
+364;纯音乐;最爱演唱会;http://music.baidu.com/song/7318419
+365;纯音乐;孤独探戈;http://music.baidu.com/song/7318409
+366;纯音乐;花火;http://music.baidu.com/song/7318399
+367;纯音乐;离开以后;http://music.baidu.com/song/7317830
+368;纯音乐;肖邦：幻想即兴曲（Fantaisie-Impromptu）;http://music.baidu.com/song/7317809
+369;纯音乐;沙堡垒;http://music.baidu.com/song/7317804
+370;纯音乐;情书;http://music.baidu.com/song/7317367
+371;纯音乐;原来只要共你活一天;http://music.baidu.com/song/7317355
+372;纯音乐;明日世界终结时;http://music.baidu.com/song/7317343
+373;纯音乐;岁月流情;http://music.baidu.com/song/7317219
+374;甘仕良,Blue Sky;好久不见;http://music.baidu.com/song/7317174
+375;甘仕良,Blue Sky;沙堡垒;http://music.baidu.com/song/7317173
+376;甘仕良,Blue Sky;实不相瞒;http://music.baidu.com/song/7317172
+377;甘仕良,Blue Sky;爱不出口;http://music.baidu.com/song/7317171
+378;甘仕良,Blue Sky;纸飞机;http://music.baidu.com/song/7317169
+379;甘仕良,Blue Sky;The Best Is Yet To Come;http://music.baidu.com/song/7317167
+380;甘仕良,Blue Sky;女校男生;http://music.baidu.com/song/7317166
+381;甘仕良,Blue Sky;深蓝;http://music.baidu.com/song/7317165
+382;甘仕良,Blue Sky;开不了口;http://music.baidu.com/song/7317164
+383;甘仕良,Blue Sky;薰衣草;http://music.baidu.com/song/7317163
+384;甘仕良,Blue Sky;我真的受伤了;http://music.baidu.com/song/7317162
+385;甘仕良,Blue Sky;会过去的;http://music.baidu.com/song/7317161
+386;甘仕良,Blue Sky;祝君好;http://music.baidu.com/song/7317160
+387;甘仕良,Blue Sky;Shall We Talk;http://music.baidu.com/song/7317158
+388;甘仕良,Blue Sky;如何掉眼泪;http://music.baidu.com/song/7317157
+389;甘仕良,Blue Sky;我的骄傲;http://music.baidu.com/song/7317156
+390;甘仕良,Blue Sky;眼红红;http://music.baidu.com/song/7317153
+391;甘仕良,Blue Sky;我代你哭;http://music.baidu.com/song/7317152
+392;甘仕良,Blue Sky;简爱;http://music.baidu.com/song/7317149
+393;甘仕良,Blue Sky;安哥之歌;http://music.baidu.com/song/7317148
+394;甘仕良,Blue Sky;最后的歌;http://music.baidu.com/song/7317146
+395;甘仕良,Blue Sky;Lonely Christmas;http://music.baidu.com/song/7317145
+396;甘仕良,Blue Sky;没有童话时;http://music.baidu.com/song/7317144
+397;纯音乐;有个人;http://music.baidu.com/song/7317081
+398;纯音乐;留言;http://music.baidu.com/song/7317075
+399;纯音乐;还是觉得你最好;http://music.baidu.com/song/7317073
+400;纯音乐;爱是永恒;http://music.baidu.com/song/7317068
+401;张学友;每天爱你多一些;http://music.baidu.com/song/7317062
+402;纯音乐;蓝雨;http://music.baidu.com/song/7317056
+403;纯音乐;寂寞的男人;http://music.baidu.com/song/7317008
+404;甘仕良,Blue Sky;当我遇上你;http://music.baidu.com/song/7316964
+405;甘仕良,Blue Sky;失恋王;http://music.baidu.com/song/7316963
+406;甘仕良,Blue Sky;七友;http://music.baidu.com/song/7316962
+407;甘仕良,Blue Sky;野孩子;http://music.baidu.com/song/7316960
+408;甘仕良,Blue Sky;孤独探戈;http://music.baidu.com/song/7316959
+409;甘仕良,Blue Sky;这分钟更爱你;http://music.baidu.com/song/7316958
+410;甘仕良,Blue Sky;梦到内河;http://music.baidu.com/song/7316956
+411;甘仕良,Blue Sky;给自己的情书;http://music.baidu.com/song/7316955
+412;甘仕良,Blue Sky;玉蝴蝶;http://music.baidu.com/song/7316954
+413;甘仕良,Blue Sky;有福气;http://music.baidu.com/song/7316953
+414;甘仕良,Blue Sky;谁来爱我;http://music.baidu.com/song/7316952
+415;甘仕良,Blue Sky;落错车;http://music.baidu.com/song/7316950
+416;甘仕良,Blue Sky;爱比我重要;http://music.baidu.com/song/7316948
+417;甘仕良,Blue Sky;花火;http://music.baidu.com/song/7316947
+418;甘仕良,Blue Sky;青蛙王子;http://music.baidu.com/song/7316946
+419;甘仕良,Blue Sky;风铃;http://music.baidu.com/song/7316945
+420;甘仕良,Blue Sky;如果我们不再见;http://music.baidu.com/song/7316944
+421;甘仕良,Blue Sky;迷魂记;http://music.baidu.com/song/7316943
+422;甘仕良,Blue Sky;烟雾弥漫;http://music.baidu.com/song/7316942
+423;甘仕良,Blue Sky;花样年华;http://music.baidu.com/song/7316941
+424;甘仕良,Blue Sky;伤逝;http://music.baidu.com/song/7316939
+425;甘仕良,Blue Sky;寂寞流星群;http://music.baidu.com/song/7316938
+426;甘仕良,Blue Sky;路过蜻蜓;http://music.baidu.com/song/7316937
+427;甘仕良,Blue Sky;K歌之王;http://music.baidu.com/song/7316936
+428;甘仕良,Blue Sky;龙卷风;http://music.baidu.com/song/7316935
+429;甘仕良,Blue Sky;我不够爱你;http://music.baidu.com/song/7316933
+430;甘仕良,Blue Sky;烂泥;http://music.baidu.com/song/7316932
+431;甘仕良,Blue Sky;姊妹;http://music.baidu.com/song/7316931
+432;甘仕良,Blue Sky;最爱演唱会;http://music.baidu.com/song/7316930
+433;甘仕良,Blue Sky;他喜欢的是你;http://music.baidu.com/song/7316929
+434;甘仕良,Blue Sky;一千次日落;http://music.baidu.com/song/7316928
+435;甘仕良,Blue Sky;爱一个人原来不易;http://music.baidu.com/song/7316926
+436;甘仕良,Blue Sky;风筝与风;http://music.baidu.com/song/7316924
+437;甘仕良,Blue Sky;抱抱;http://music.baidu.com/song/7316923
+438;甘仕良,Blue Sky;上帝爱我;http://music.baidu.com/song/7316922
+439;甘仕良,Blue Sky;她一定很爱你;http://music.baidu.com/song/7316921
+440;甘仕良,Blue Sky;有病呻吟;http://music.baidu.com/song/7316920
+441;甘仕良,Blue Sky;大开眼戒;http://music.baidu.com/song/7316919
+442;甘仕良,Blue Sky;天黑黑;http://music.baidu.com/song/7316917
+443;甘仕良,Blue Sky;安静;http://music.baidu.com/song/7316915
+444;甘仕良,Blue Sky;最佳位置;http://music.baidu.com/song/7316914
+445;甘仕良,Blue Sky;恋爱大过天;http://music.baidu.com/song/7316913
+446;甘仕良,Blue Sky;昨迟人;http://music.baidu.com/song/7316912
+447;甘仕良,Blue Sky;至少还有你;http://music.baidu.com/song/7316911
+448;甘仕良,Blue Sky;终身美丽;http://music.baidu.com/song/7316910
+449;甘仕良,Blue Sky;飞花;http://music.baidu.com/song/7316909
+450;甘仕良,Blue Sky;好心分手;http://music.baidu.com/song/7316908
+451;甘仕良,Blue Sky;意犹未尽;http://music.baidu.com/song/7316907
+452;甘仕良,Blue Sky;麻醉;http://music.baidu.com/song/7316904
+453;甘仕良,Blue Sky;一个人恋爱;http://music.baidu.com/song/7316902
+454;甘仕良,Blue Sky;灰姑娘;http://music.baidu.com/song/7316901
+455;甘仕良,Blue Sky;负担不起;http://music.baidu.com/song/7316898
+456;甘仕良,Blue Sky;跳伞;http://music.baidu.com/song/7316897
+457;甘仕良,Blue Sky;1984;http://music.baidu.com/song/7316895
+458;甘仕良,Blue Sky;爱下去;http://music.baidu.com/song/7316894
+459;甘仕良,Blue Sky;天下之大;http://music.baidu.com/song/7316890
+460;甘仕良,Blue Sky;非走不可;http://music.baidu.com/song/7316888
+461;甘仕良,Blue Sky;取消资格;http://music.baidu.com/song/7316887
+462;甘仕良,Blue Sky;黑夜不再来;http://music.baidu.com/song/7316886
+463;甘仕良,Blue Sky;绝;http://music.baidu.com/song/7316805
+464;甘仕良,Blue Sky;I Believe;http://music.baidu.com/song/7316802
+465;甘仕良,Blue Sky;少女的祈祷;http://music.baidu.com/song/7316801
+466;甘仕良,Blue Sky;痛爱;http://music.baidu.com/song/7316799
+467;甘仕良,Blue Sky;感情线上;http://music.baidu.com/song/7316797
+468;甘仕良,Blue Sky;余震;http://music.baidu.com/song/7316795
+469;甘仕良,Blue Sky;Crying In The Party;http://music.baidu.com/song/7316794
+470;甘仕良,Blue Sky;钟无艳;http://music.baidu.com/song/7316793
+471;甘仕良,Blue Sky;花落谁家;http://music.baidu.com/song/7316792
+472;甘仕良,Blue Sky;樱花树下;http://music.baidu.com/song/7316791
+473;甘仕良,Blue Sky;富士山下;http://music.baidu.com/song/7316790
+474;甘仕良,Blue Sky;囍帖街;http://music.baidu.com/song/7316789
+475;甘仕良,Blue Sky;思前恋后;http://music.baidu.com/song/7316788
+476;甘仕良,Blue Sky;万年孤寂;http://music.baidu.com/song/7316787
+477;甘仕良,Blue Sky;披星戴月;http://music.baidu.com/song/7316786
+478;甘仕良,Blue Sky;七百年后;http://music.baidu.com/song/7316785
+479;甘仕良,Blue Sky;祝英台;http://music.baidu.com/song/7316784
+480;Liz Story;We Three Kings Of Orient Are;http://music.baidu.com/song/443931
+481;Liz Story;The Christmas Song;http://music.baidu.com/song/443848
+482;Liz Story;Without You;http://music.baidu.com/song/410803
+483;Liz Story;Peace Piece;http://music.baidu.com/song/357113
+484;Jim Brickman;Little Town Of Bethlehem;http://music.baidu.com/song/353140
+485;Liz Story;Out Of Time;http://music.baidu.com/song/352779
+486;Claudio Arrau;Nocturne No. 8;http://music.baidu.com/song/31214994
+487;Claudio Arrau;Nocturne No. 7;http://music.baidu.com/song/31214971
+488;Claudio Arrau;Nocturne No. 6;http://music.baidu.com/song/31214954
+489;Claudio Arrau;Nocturne No. 5;http://music.baidu.com/song/31214937
+490;Claudio Arrau;Nocturne No. 1;http://music.baidu.com/song/31214922
+491;Claudio Arrau;Nocturne No. 3;http://music.baidu.com/song/31214914
+492;Claudio Arrau;Nocturne No. 4;http://music.baidu.com/song/31214908
+493;Claudio Arrau;Nocturne No. 2;http://music.baidu.com/song/31214851
+494;甘仕良;仍是老地方;http://music.baidu.com/song/274565
+495;甘仕良;寂寞烟雨天;http://music.baidu.com/song/263273
+496;甘仕良;情迷心窍;http://music.baidu.com/song/259093
+497;甘仕良;不知不觉爱上你;http://music.baidu.com/song/258821
+498;甘仕良;回首;http://music.baidu.com/song/245268
+499;甘仕良;飞花;http://music.baidu.com/song/243450
+500;甘仕良;后会有期;http://music.baidu.com/song/242324
+501;甘仕良;信心保证;http://music.baidu.com/song/238919
+502;甘仕良;前后脚;http://music.baidu.com/song/237170
+503;甘仕良;月半小夜曲;http://music.baidu.com/song/234560
+504;甘仕良;在我身边;http://music.baidu.com/song/234199
+505;甘仕良;一生不爱别人;http://music.baidu.com/song/231130
+506;甘仕良;万千宠爱在一身;http://music.baidu.com/song/230208
+507;甘仕良;深深深;http://music.baidu.com/song/225105
+508;甘仕良;高妹;http://music.baidu.com/song/224480
+509;甘仕良;寂寞夜晚;http://music.baidu.com/song/224452
+510;甘仕良;大会堂演奏厅;http://music.baidu.com/song/217969
+511;甘仕良;当找到你;http://music.baidu.com/song/214700
+512;甘仕良;眷恋;http://music.baidu.com/song/214685
+513;纯音乐;开不了口;http://music.baidu.com/song/1691790
+514;纯音乐;我的胖侣;http://music.baidu.com/song/1691782
+515;郎朗;Coloured Clouds Chasing the Moon (caiyun zhui yue);http://music.baidu.com/song/14959894
+516;郎朗;A Night on the Lake Beneath the Maple Bridge (fengqiao ye po);http://music.baidu.com/song/14959892
+517;郎朗;Dance from Qiuci (qiuci wu);http://music.baidu.com/song/14959890
+518;郎朗;Spring Flowers in the Moonlit Night on the River (chun jiang hua yue ye);http://music.baidu.com/song/14959888
+519;郎朗;Happy Times (fanshen de rizi);http://music.baidu.com/song/14959886
+520;郎朗;Spring Wind (wang chunfeng);http://music.baidu.com/song/14959884
+521;郎朗;Straw Hat Dance (caomao huawu);http://music.baidu.com/song/14959882
+522;郎朗;Dance of Spring (chunwu);http://music.baidu.com/song/14959880
+523;郎朗;Dialogue in Song (dui hua);http://music.baidu.com/song/14959878
+524;郎朗;The Cowherd's Flute (Mutong duandi);http://music.baidu.com/song/14959876
+525;郎朗;Autumn Moon on a Calm Lake (pinghu qiuyue);http://music.baidu.com/song/14959874
+526;郎朗,余隆,中国爱乐乐团,陈莎莎,吴玉霞;4. Defend the Yellow River;http://music.baidu.com/song/14959872
+527;郎朗,余隆,中国爱乐乐团,陈莎莎,吴玉霞;3. The Yellow River in wrath;http://music.baidu.com/song/14959870
+528;郎朗,余隆,中国爱乐乐团,陈莎莎,吴玉霞;2. Ode to the Yellow River;http://music.baidu.com/song/14959868
+529;郎朗,余隆,中国爱乐乐团,陈莎莎,吴玉霞;1. Prelude: The song of the Yellow River Boatmen;http://music.baidu.com/song/14959866
+530;郎朗,Alexandre Desplat;From Shangai to London;http://music.baidu.com/song/14959862
+531;郎朗,Alexandre Desplat,Vincent Segal;Cholera;http://music.baidu.com/song/14959856
+532;郎朗,Alexandre Desplat,Vincent Segal;Morning Tears;http://music.baidu.com/song/14959854
+533;郎朗;River Waltz;http://music.baidu.com/song/14959852
+534;郎朗,Alexandre Desplat,Vincent Segal;Walter's mission;http://music.baidu.com/song/14959848
+535;郎朗,Alexandre Desplat,Vincent Segal;Promenade;http://music.baidu.com/song/14959842
+536;郎朗,Alexandre Desplat;The Lovers;http://music.baidu.com/song/14959840
+537;郎朗,Alexandre Desplat;Kitty's Theme;http://music.baidu.com/song/14959834
+538;郎朗,Alexandre Desplat;River Waltz;http://music.baidu.com/song/14959832
+539;郎朗,Alexandre Desplat;Colony Club;http://music.baidu.com/song/14959830
+540;郎朗;Gnossiennes No. 1 - Lent;http://music.baidu.com/song/14959828
+541;郎朗,Alexandre Desplat,Vincent Segal;The Painted Veil;http://music.baidu.com/song/14959825
+542;郎朗;Nocturne No.8 in D flat, Op.27 No.2;http://music.baidu.com/song/14959656
+543;郎朗;Sunrain;http://music.baidu.com/song/14959654
+544;郎朗;Floating Clouds;http://music.baidu.com/song/14959652
+545;郎朗;Ancient Burial;http://music.baidu.com/song/14959650
+546;郎朗;Red Wilderness;http://music.baidu.com/song/14959648
+547;郎朗;Blue Nun;http://music.baidu.com/song/14959646
+548;郎朗;Herdboy's Song;http://music.baidu.com/song/14959644
+549;郎朗;Beans;http://music.baidu.com/song/14959642
+550;郎朗;Missing Moon;http://music.baidu.com/song/14959640
+551;郎朗;Allegro;http://music.baidu.com/song/14959638
+552;郎朗;Presto;http://music.baidu.com/song/14959636
+553;郎朗;Adagio;http://music.baidu.com/song/14959634
+554;郎朗;Allegro con fuoco ma non troppo;http://music.baidu.com/song/14959632
+555;郎朗;Allegro molto;http://music.baidu.com/song/14959630
+556;郎朗;Liebestraum No.3 in A flat, S.541 No.3;http://music.baidu.com/song/14959628
+557;郎朗,郎国任;Horses (after pieces by Huang Hai Hwai, Chen Rao Xing and Shen Li Qun) - Arr. by Lang Lang and Lang Guo-ren;http://music.baidu.com/song/14959626
+558;郎朗;Träumerei;http://music.baidu.com/song/14959624
+559;郎朗;Presto;http://music.baidu.com/song/14959618
+560;郎朗;Andante;http://music.baidu.com/song/14959616
+561;郎朗;Molto allegro con fuoco;http://music.baidu.com/song/14959614
+562;郎朗;Allegro con fuoco;http://music.baidu.com/song/14959612
+563;郎朗;Andantino semplice - Prestissimo - Tempo I;http://music.baidu.com/song/14959610
+564;郎朗;Allegro non troppo e molto maestoso - Allegro con spirito;http://music.baidu.com/song/14959608
+565;郎朗,郎国任;Horses (after pieces by Huang Hai Hwai, Chen Rao Xing and Shen Li Qun) - Arr. by Lang Lang and Lang Guo-ren;http://music.baidu.com/song/14959603
+566;郎朗;Prelude: The song of the Yellow River Boatmen;http://music.baidu.com/song/14959599
+567;郎朗;Allegro molto;http://music.baidu.com/song/14959597
+568;郎朗;Finale (Presto non tanto);http://music.baidu.com/song/14959595
+569;郎朗,Valery Gergiev,Orchestra of the Mariinsky Theatre;Adagio sostenuto;http://music.baidu.com/song/14959592
+570;郎朗;Liebestraum No.3 in A flat, S.541 No.3;http://music.baidu.com/song/14959590
+571;郎朗;Allegro moderato;http://music.baidu.com/song/14959588
+572;郎朗;Nocturne No.8 in D flat, Op.27 No.2;http://music.baidu.com/song/14959586
+573;郎朗;Träumerei;http://music.baidu.com/song/14959584
+574;郎朗;Autumn Moon on a Calm Lake (pinghu qiuyue);http://music.baidu.com/song/14959582
+575;郎朗,Chicago Symphony Orchestra,Daniel Barenboim;Allegro con fuoco;http://music.baidu.com/song/14959580
+576;郎朗;Hungarian Rhapsody No.2 in C sharp minor, S.244 - Arr. Vladimir Horowitz;http://music.baidu.com/song/14959578
+577;郎朗,Mischa Maisky,Vadim Repin;(B) Variazione finale e Coda (Allegretto risoluto e con fuoco -;http://music.baidu.com/song/14959573
+578;郎朗,Mischa Maisky,Vadim Repin;Var. XI: Moderato;http://music.baidu.com/song/14959571
+579;郎朗,Mischa Maisky,Vadim Repin;Var. X: Tempo di mazurka;http://music.baidu.com/song/14959569
+580;郎朗,Mischa Maisky,Vadim Repin;Var. IX: Andante flebile, ma non tanto;http://music.baidu.com/song/14959567
+581;郎朗,Mischa Maisky,Vadim Repin;Var. VIII: Fuga (Allegro moderato);http://music.baidu.com/song/14959565
+582;郎朗,Mischa Maisky,Vadim Repin;Var. VII: Allegro moderato;http://music.baidu.com/song/14959563
+583;郎朗,Mischa Maisky,Vadim Repin;Var. VI: Tempo di valse;http://music.baidu.com/song/14959561
+584;郎朗,Mischa Maisky,Vadim Repin;Var. IV: L'istesso tempo;http://music.baidu.com/song/14959557
+585;郎朗,Mischa Maisky,Vadim Repin;2. (A) Tema con variazioni: Andante con moto;http://music.baidu.com/song/14959549
+586;郎朗,Mischa Maisky,Vadim Repin;1. Pezzo elegiaco (Moderato assai - Allegro giusto);http://music.baidu.com/song/14959547
+587;郎朗,Mischa Maisky,Vadim Repin;Trio élégiaque No.1 in G minor for Piano, Violin and Cello;http://music.baidu.com/song/14959545
+588;Yiruma;Painted;http://music.baidu.com/song/14864831
+589;Yiruma;The Days That'll Never Come;http://music.baidu.com/song/14864829
+590;Yiruma;Nocturne No.4 in Db;http://music.baidu.com/song/14864827
+591;Yiruma;Silver Line;http://music.baidu.com/song/14864825
+592;Yiruma;Nocturne No.3 in A minor;http://music.baidu.com/song/14864823
+593;Yiruma;Falling In Love (Piano Ver.);http://music.baidu.com/song/14864821
+594;Yiruma;Happy Couple, Sad Couple 'n Happy Again (Piano Ver.);http://music.baidu.com/song/14864819
+595;Yiruma;Impromptu;http://music.baidu.com/song/14864817
+596;Yiruma;Nocturne No.2 in Eb;http://music.baidu.com/song/14864815
+597;Yiruma;I Could See You;http://music.baidu.com/song/14864813
+598;Yiruma;Stay in Memory;http://music.baidu.com/song/14864811
+599;Yiruma;Nocturne No.1 in C, Summer Nocturne;http://music.baidu.com/song/14864809
+600;纯音乐;随传随到;http://music.baidu.com/song/1427602
+601;纯音乐;色盲;http://music.baidu.com/song/1427584
+602;Stan Whitmire;Get Here;http://music.baidu.com/song/13973828
+603;Stan Whitmire;Time to Say Goodbye (Con Te Patiro);http://music.baidu.com/song/13973772
+604;Stan Whitmire;Fields of Gold;http://music.baidu.com/song/13973755
+605;Stan Whitmire;What a Wonderful World;http://music.baidu.com/song/13973743
+606;Stan Whitmire;Somewhere Over the Rainbow;http://music.baidu.com/song/13973722
+607;纯音乐;来到今天;http://music.baidu.com/song/1385738
+608;纯音乐;还记得我吗;http://music.baidu.com/song/1385713
+609;郎朗;Hungarian Rhapsody No.2 In C Sharp Minor, S.244 - Arr. Vladimir Horowitz;http://music.baidu.com/song/13811518
+610;李云迪;Grande Polonaise;http://music.baidu.com/song/13811517
+611;李云迪;Andante Spianato;http://music.baidu.com/song/13811515
+612;甘仕良;迟来的春天;http://music.baidu.com/song/1340550
+613;Yiruma;Fotografia;http://music.baidu.com/song/13024825
+614;Yiruma;Kiss The Rain;http://music.baidu.com/song/13024805
+615;Yiruma;May Be;http://music.baidu.com/song/13024783
+616;Yiruma;Loanna;http://music.baidu.com/song/13024763
+617;Yiruma;Infinia;http://music.baidu.com/song/13024743
+618;Yiruma;Love Me;http://music.baidu.com/song/13024719
+619;Yiruma;Do You?;http://music.baidu.com/song/13024699
+620;Yiruma;Passing By;http://music.baidu.com/song/13024680
+621;Yiruma;Sky;http://music.baidu.com/song/13024664
+622;Yiruma;Reminiscent;http://music.baidu.com/song/13024591
+623;Yiruma;Chaconne;http://music.baidu.com/song/13024564
+624;Yiruma;Wait There;http://music.baidu.com/song/13024550
+625;Yiruma;Destiny Of Love;http://music.baidu.com/song/13024538
+626;Yiruma;River Flows In You;http://music.baidu.com/song/13024508
+627;Yiruma;Indigo;http://music.baidu.com/song/13024459
+628;Yiruma;Fairy Tale;http://music.baidu.com/song/13024448
+629;Yiruma;Poem+;http://music.baidu.com/song/13024446
+630;纯音乐;上帝爱我;http://music.baidu.com/song/1294624
+631;纯音乐;最爱演唱会;http://music.baidu.com/song/1294602
+632;纯音乐;姊妹;http://music.baidu.com/song/1255742
+633;纯音乐;非走不可;http://music.baidu.com/song/1248737
+634;纯音乐;有福气;http://music.baidu.com/song/1248710
+635;George Winston,Keola Beamer;Kalena Kai;http://music.baidu.com/song/12486823
+636;郎朗;II. Larghetto;http://music.baidu.com/song/122867838
+637;纯音乐;风铃;http://music.baidu.com/song/1208046
+638;纯音乐;女校男生;http://music.baidu.com/song/1208018
+639;Jim Brickman;Dreams Come True;http://music.baidu.com/song/1189871
+640;Jim Brickman;O Christmas Tree;http://music.baidu.com/song/1189831
+641;Jim Brickman;The First Noel;http://music.baidu.com/song/1189806
+642;Jim Brickman;It Came Upon A Midnight Clear;http://music.baidu.com/song/1189750
+643;Jim Brickman;Joy To The World;http://music.baidu.com/song/1189725
+644;Liz Story;Remember Me This Way;http://music.baidu.com/song/1185771
+645;Liz Story;The Promise;http://music.baidu.com/song/1185693
+646;纯音乐;孤独探戈;http://music.baidu.com/song/1166961
+647;纯音乐;坏孩子的天空;http://music.baidu.com/song/1162834
+648;纯音乐;就是这么爱你;http://music.baidu.com/song/1130881
+649;纯音乐;不相爱的好处;http://music.baidu.com/song/1130740
+650;纯音乐;大开眼戒;http://music.baidu.com/song/1121711
+651;纯音乐;有病呻吟;http://music.baidu.com/song/1101335
+652;纯音乐;他喜欢的是你;http://music.baidu.com/song/1101317
+653;纯音乐;爱一个人原来不易;http://music.baidu.com/song/1098452
+654;纯音乐;青蛙王子;http://music.baidu.com/song/1098438
+655;纯音乐;我真的受伤了;http://music.baidu.com/song/1084367
+656;纯音乐;安静;http://music.baidu.com/song/1054247
+657;纯音乐;继续爱;http://music.baidu.com/song/1054234
+658;纯音乐;不爱就不爱;http://music.baidu.com/song/1051503
+659;纯音乐;跳伞;http://music.baidu.com/song/1051479
+660;Howard Shore,郎朗;Siegfried Idyll;http://music.baidu.com/song/10421120
+661;Jim Brickman;Early Snowfall;http://music.baidu.com/song/1025820
+662;Jim Brickman;Jingle Bells;http://music.baidu.com/song/1025780
+663;Jim Brickman;Blessings;http://music.baidu.com/song/1025770
+664;Jim Brickman;Away In A Manger;http://music.baidu.com/song/1025748
+665;Jim Brickman;God Rest Ye Merry Gentlemen;http://music.baidu.com/song/1025702
+666;Jim Brickman;We Three Kings;http://music.baidu.com/song/1025577
+667;甘仕良;偏爱;http://music.baidu.com/song/1013570
+668;纯音乐;I Believe;http://music.baidu.com/song/7329268

@@ -1,0 +1,100 @@
+1;Alan Walker;Spectre;http://music.baidu.com/song/549264975
+2;Luke Combs;One Number Away;http://music.baidu.com/song/543514348
+3;The Beatles;Love Me Do;http://music.baidu.com/song/289948361
+4;Brett Young;Mercy;http://music.baidu.com/song/315688217
+5;Alan Walker;Fade;http://music.baidu.com/song/335958775
+6;Jono;The March;http://music.baidu.com/song/559680385
+7;Taylor Swift;Delicate;http://music.baidu.com/song/566307056
+8;Jono;Sailors;http://music.baidu.com/song/559680371
+9;Nio Garcia,Darell,Casper Magico;Te Bote;http://music.baidu.com/song/566187878
+10;Kane Brown;Heaven;http://music.baidu.com/song/559640429
+11;Offset,Metro Boomin;Ric Flair Drip;http://music.baidu.com/song/564200337
+12;Stephane Moraille;Favourite;http://music.baidu.com/song/571862819
+13;Ella Mai;Boo'd Up;http://music.baidu.com/song/316309251
+14;Camila Cabello;Havana;http://music.baidu.com/song/550574029
+15;Halsey;Alone;http://music.baidu.com/song/335166370
+16;Mariah Carey,Walter Afanasieff,The King's Men;All I Want For Christmas Is You;http://music.baidu.com/song/279227239
+17;弗雷德乐队;因为爱情(法语版);http://music.baidu.com/song/65626244
+18;Imagine Dragons;Whatever It Takes;http://music.baidu.com/song/334390660
+19;Angele Dubeau;Summer;http://music.baidu.com/song/298067539
+20;Maksim;New Silk Road;http://music.baidu.com/song/573313333
+21;Taylor Swift,St. Martin’s Symphony Of Los Angeles,Johann Heinrich Jr.;Love Story (Made Famous by Taylor Swift );http://music.baidu.com/song/279518583
+22;David Lee Murphy,Kenny Chesney;Everything's Gonna Be Alright;http://music.baidu.com/song/571918379
+23;Don Mclean;Vincent;http://music.baidu.com/song/278164384
+24;Jordan Davis;Singles You Up;http://music.baidu.com/song/334682251
+25;Richard Clayderman;Memory;http://music.baidu.com/song/289896286
+26;Bad Wolves;Zombie;http://music.baidu.com/song/578512974
+27;Alan Walker;Force;http://music.baidu.com/song/335959524
+28;Ozuna,Romeo Santos;El Farsante;http://music.baidu.com/song/571909610
+29;Eagles;Hotel California;http://music.baidu.com/song/552795199
+30;Vitas;Симфония № 4（交响乐4号）;http://music.baidu.com/song/590762992
+31;Imagine Dragons;Demons;http://music.baidu.com/song/289627704
+32;Eels;Love of the Loveless;http://music.baidu.com/song/336749793
+33;The Oak Ridge Boys;There Will Be Light;http://music.baidu.com/song/568913774
+34;Michael Jackson;You Are Not Alone;http://music.baidu.com/song/546198345
+35;Murray Perahia,English Chamber Orchestra;Piano Concerto No. 24 in C Minor, K. 491: I. Allegro;http://music.baidu.com/song/278180698
+36;Eagles;Take It Easy;http://music.baidu.com/song/289627998
+37;Amy Diamond;Heartbeats;http://music.baidu.com/song/291934987
+38;Backstreet Boys;I Want It That Way;http://music.baidu.com/song/297259321
+39;Ellie Goulding,Hollywood Movie Theme Orchestra;Love Me Like You Do (From "50 Shades of Grey") [Piano Version];http://music.baidu.com/song/305012484
+40;Richard Clayderman;Balada para Adelina;http://music.baidu.com/song/289895841
+41;Imagine Dragons;Radioactive;http://music.baidu.com/song/332166120
+42;Lenka,Revoke;Blue Skies (Revoke Remix);http://music.baidu.com/song/278730495
+43;Wolfgang Amadeus Mozart,Slovenská Filharmónia,Zdeněk Košler;Symphony No. 40 in G Minor, K. 550: IV. Allegro assai;http://music.baidu.com/song/311535988
+44;Don Williams;Crying in the Rain;http://music.baidu.com/song/306701531
+45;James Horner,Martin Jacoby;The Ludlows;http://music.baidu.com/song/282457836
+46;The Beatles;I Wanna Hold Your Hand;http://music.baidu.com/song/289947879
+47;Coldplay;Paradise;http://music.baidu.com/song/289628590
+48;The Beatles;All My Loving;http://music.baidu.com/song/289948294
+49;Richard Clayderman;Como en Amor;http://music.baidu.com/song/289896097
+50;Ed Sheeran,Cello Magic;Thinking Out Loud (Cello Version);http://music.baidu.com/song/304965383
+51;Aqua;My Oh My;http://music.baidu.com/song/547613382
+52;Vitas;Give Me Love;http://music.baidu.com/song/590762993
+53;Richard Clayderman;Matrimonio de Amor;http://music.baidu.com/song/289895785
+54;Groove Coverage;7 Years & 50 Days;http://music.baidu.com/song/316785482
+55;Celtic Woman;You Raise Me Up;http://music.baidu.com/song/327900966
+56;Michael Jackson;Billie Jean;http://music.baidu.com/song/546198347
+57;Jason Mraz,The Orchestral Academy Of Los Angeles,Jurgen Johannes;I'm Yours;http://music.baidu.com/song/279719898
+58;Bandari;Bandar;http://music.baidu.com/song/292758271
+59;Various Artists;Xintiandi;http://music.baidu.com/song/554081946
+60;I WEAR* EXPERIMENT乐队;Dogs;http://music.baidu.com/song/588688244
+61;Baha Men;Who Let the Dogs Out;http://music.baidu.com/song/327057999
+62;Groove Coverage;Runaway;http://music.baidu.com/song/290269381
+63;Richard Clayderman;Recuerdos de la Infancia;http://music.baidu.com/song/289896170
+64;The Beatles;From Me to You;http://music.baidu.com/song/289947928
+65;Coldplay;Atlas;http://music.baidu.com/song/289627244
+66;Union of Sound;Almost Lover;http://music.baidu.com/song/278946652
+67;柴可夫斯基;睡美人圆舞曲;http://music.baidu.com/song/21188276
+68;The Beatles,Tony Sheridan;My Bonnie;http://music.baidu.com/song/278474366
+69;Calvin Harris;Outside;http://music.baidu.com/song/289630598
+70;Richard Clayderman;Lady Di;http://music.baidu.com/song/289896237
+71;John Denver;Take Me Home Country Roads;http://music.baidu.com/song/326733372
+72;Rachel Portman;The Lakehouse;http://music.baidu.com/song/292358151
+73;Bruno Mars,Trauer Hit;Young, Wild & Free;http://music.baidu.com/song/281068554
+74;Linkin Park,University of Oklahoma Bands,University of Oklahoma Marching Band,Brian A. Britt;New Divide;http://music.baidu.com/song/323393787
+75;Dido;Thank You;http://music.baidu.com/song/315086661
+76;Ennio Morricone;Childhood and Manhood (From "Cinema paradiso");http://music.baidu.com/song/547759714
+77;Duke Dumont;Ocean Drive;http://music.baidu.com/song/297290507
+78;The Beatles;Don´t Bother Me;http://music.baidu.com/song/289948223
+79;Guns N' Roses;Knockin' on Heaven's Door (Live at the Ritz, New York);http://music.baidu.com/song/546198263
+80;Maurice Jarre,Angèle Dubeau,La Pietà;Unchained Melody (From "Ghost");http://music.baidu.com/song/292215282
+81;Two Steps From Hell;Evergreen;http://music.baidu.com/song/564085822
+82;Celine Dion;My Heart Will Go On (De "Titanic");http://music.baidu.com/song/308565399
+83;贝多芬,Liszt,Debussy,Gershwin,Sibelius,Brahms,Bach,Handel,Wolfgang Amadeus Mozart,Ravel,Music-Themes;The Harmonious Blacksmith;http://music.baidu.com/song/312893985
+84;弗雷德乐队;致青春(法语版);http://music.baidu.com/song/65626243
+85;Burl Ives;A Holly Jolly Christmas;http://music.baidu.com/song/327286879
+86;Vangelis;Conquest Of Paradise;http://music.baidu.com/song/317871709
+87;The Beatles;Baby It´s You;http://music.baidu.com/song/289948433
+88;贝多芬,Liszt,Debussy,Gershwin,Sibelius,Brahms,Bach,Handel,Wolfgang Amadeus Mozart,Ravel,Music-Themes;Waltz in A-flat Major;http://music.baidu.com/song/312894057
+89;Paul Mauriat;Love is Blue;http://music.baidu.com/song/320527219
+90;Chet Baker;I Fall in Love Too Easily;http://music.baidu.com/song/332542836
+91;M2M;Don't Say You Love Me;http://music.baidu.com/song/304919743
+92;Klaus Badelt,Geoffrey Paul Zanelli,Hans Zimmer,Angèle Dubeau,La Pietà;He’s a Pirate (From "Pirates of the Caribbean - The Curse of the Black Pearl");http://music.baidu.com/song/292219023
+93;Hello Saferide,Firefox AK;Long Lost Penpal;http://music.baidu.com/song/279337762
+94;Taylor Swift,St. Martin’s Symphony Of Los Angeles,Adam Hamilton;Love Story (made famous by Taylor Swift );http://music.baidu.com/song/279667540
+95;Backstreet Boys;In a World Like This;http://music.baidu.com/song/564104286
+96;Jono;Downside;http://music.baidu.com/song/559680377
+97;Kenny Rogers;Lady;http://music.baidu.com/song/289800326
+98;Agnes Obel;Riverside;http://music.baidu.com/song/327889364
+99;Various Artists,Jurgen Johannes,Taylor Swift,St. Martin’s Symphony Of Los Angeles;Love Story ;http://music.baidu.com/song/280296506
+100;Tobu,Itro;Sunburst;http://music.baidu.com/song/566320804

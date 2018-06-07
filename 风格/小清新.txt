@@ -1,0 +1,55 @@
+1;牛奶咖啡;蝶恋花;http://music.baidu.com/song/237370
+2;莫文蔚;爱情;http://music.baidu.com/song/539884149
+3;宋冬野;董小姐;http://music.baidu.com/song/44897031
+4;宋冬野;斑马，斑马;http://music.baidu.com/song/71266335
+5;苏慧伦;Lemon Tree;http://music.baidu.com/song/1631731
+6;张震岳;小宇;http://music.baidu.com/song/14496972
+7;陈绮贞;还是会寂寞;http://music.baidu.com/song/621106
+8;魏如萱;香格里拉;http://music.baidu.com/song/2494532
+9;宋冬野;莉莉安;http://music.baidu.com/song/44897143
+10;棉花糖;陪你到世界的终结;http://music.baidu.com/song/1611549
+11;筠子;立秋;http://music.baidu.com/song/1094950
+12;阿肆;我在人民广场吃炸鸡;http://music.baidu.com/song/64357325
+13;蔡健雅;达尔文 I;http://music.baidu.com/song/341276
+14;宋冬野;鸽子;http://music.baidu.com/song/71266020
+15;魏如萱;晚安晚安;http://music.baidu.com/song/12311762
+16;棉花糖;2375;http://music.baidu.com/song/1331731
+17;陈绮贞;告诉我;http://music.baidu.com/song/590470
+18;陈绮贞;微凉的你;http://music.baidu.com/song/232707
+19;阿肆;有女朋友别忘了请我吃饭;http://music.baidu.com/song/65598191
+20;彭坦;孔雀;http://music.baidu.com/song/1384856
+21;魏如萱;IF;http://music.baidu.com/song/2494540
+22;夏天Alex;傻等;http://music.baidu.com/song/136123935
+23;影视原声;吻的温度;http://music.baidu.com/song/132028406
+24;邢傲伟,童苡萱;谢谢你和我;http://music.baidu.com/song/238682122
+25;毛泽少;你好阳光;http://music.baidu.com/song/131708650
+26;阿肆;Get Up;http://music.baidu.com/song/65598181
+27;棉花糖;一起等地球爆炸吧;http://music.baidu.com/song/12691412
+28;棉花糖;我们都一样;http://music.baidu.com/song/1611562
+29;阿肆;Itinerary;http://music.baidu.com/song/65508811
+30;亦勋,韦琪,杨叶卿,小灰,黄欣彬,赵紫岳,赵宝器;在这样一座城市;http://music.baidu.com/song/136082350
+31;好妹妹;我到外地去看你;http://music.baidu.com/song/40448865
+32;Emilie Simon;To The Dancers In The Rain;http://music.baidu.com/song/1414574
+33;王筝;爸爸;http://music.baidu.com/song/1387743
+34;牛奶咖啡;习惯了寂寞;http://music.baidu.com/song/13740833
+35;Emilia;Big Big World;http://music.baidu.com/song/12776600
+36;One Direction;What Makes You Beautiful;http://music.baidu.com/song/12308850
+37;The Cardigans;In The Afternoon;http://music.baidu.com/song/1217008
+38;雷光夏;黑暗之光;http://music.baidu.com/song/1192589
+39;Lenka;Trouble Is A Friend;http://music.baidu.com/song/1174472
+40;Lenka;The Show;http://music.baidu.com/song/1174400
+41;Lenka;Knock Knock;http://music.baidu.com/song/1174149
+42;范玮琪;最初的梦想;http://music.baidu.com/song/1149563
+43;The Cardigans;Communication;http://music.baidu.com/song/1098064
+44;元卫觉醒;夏天的风;http://music.baidu.com/song/1086574
+45;雷光夏;发光房子;http://music.baidu.com/song/1085312
+46;王若琳;有你的快乐;http://music.baidu.com/song/10736434
+47;林俊杰;豆浆油条;http://music.baidu.com/song/1067334
+48;陈洁仪;天冷就回来;http://music.baidu.com/song/1066728
+49;Greyson Chance;Summertrain;http://music.baidu.com/song/10599428
+50;Justin Bieber;Mistletoe;http://music.baidu.com/song/10558909
+51;Berry;Mademoiselle;http://music.baidu.com/song/10557505
+52;曹菲儿;小清新;http://music.baidu.com/song/72185333
+53;王海嘉;我不是小清新;http://music.baidu.com/song/578898270
+54;王海嘉;我不是小清新;http://music.baidu.com/song/578898268
+55;小旭音乐;清新早晨;http://music.baidu.com/song/267606668
